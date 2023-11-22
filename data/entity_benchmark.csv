@@ -1,0 +1,1001 @@
+subject_id,subject,predicate_id,object_id,object,prompt,init_prompt
+Q12717430,Ole Brandt,P106,Q131512,farmer,Ole Brandt is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q323207,John Maynard Smith,P106,Q864503,biologist,John Maynard Smith is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q7241883,Preston Elliott,P106,Q131512,farmer,Preston Elliott is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1064957,Charles Illingworth,P106,Q774306,surgeon,Charles Illingworth is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q191819,George Martin,P136,Q11399,rock,George Martin plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q41502,Henryk Sienkiewicz,P1411,Q37922,Nobel Prize,Henryk Sienkiewicz was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q1313523,Frank McCarthy (producer),P106,Q3282637,film producer,Frank McCarthy (producer) is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q137042,The Nat King Cole Show,P509,Q47912,lung cancer,The Nat King Cole Show died due to [MASK] .,<ENT0> died due to <ENT1> .
+Q271884,Norman Rockwell,P106,Q644687,illustrator,Norman Rockwell is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q72984,Crosby,P166,Q103916,Best Actor,Crosby was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q20717,Sebastian Ingrosso,P27,Q34,Swedish,Sebastian Ingrosso is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q1356497,Ernest Pintoff,P570,XMLSchema#dateTime,"January 12, 2002",Ernest Pintoff died on [MASK] .,<ENT0> died on <ENT1> .
+Q867158,Antonin Fritsch,P106,Q864503,biologist,Antonin Fritsch is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q57999,Hennig,P27,Q183,Germany,Hennig is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q1351528,Alexander Vyssotsky,P106,Q11063,astronomer,Alexander Vyssotsky is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q5379841,Enrique Tornú,P1196,Q10737,suicide,The mode of death of Enrique Tornú was [MASK] .,The mode of death of <ENT0> was <ENT1> .
+Q290285,Stanley Schachter,P106,Q212980,psychologist,Stanley Schachter is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q447907,Hank Jones,P1303,Q5994,piano,Hank Jones plays [MASK] .,<ENT0> plays <ENT1> .
+Q191819,George Martin,P607,Q362,World War II,George Martin participated in the conflict of [MASK] .,<ENT0> participated in the conflict of <ENT1> .
+Q2336160,Julian Ochorowicz,P106,Q212980,psychologist,Julian Ochorowicz is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q131660,Dominique de Villepin,P106,Q193391,diplomat,Dominique de Villepin is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1948717,"Brittany ""McKey"" Sullivan",P106,Q4610556,fashion model,"Brittany ""McKey"" Sullivan is a [MASK] by profession .",<ENT0> is a <ENT1> by profession .
+Q72096,Chet Atkins,P106,Q753110,songwriter,Chet Atkins is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1101372,Clifton Fadiman,P106,Q947873,television personality,Clifton Fadiman is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q353605,Stig Lindberg,P106,Q644687,illustrator,Stig Lindberg is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q216924,Glenn Gould,P551,Q172,Toronto,Glenn Gould resides in [MASK] .,<ENT0> resides in <ENT1> .
+Q44258,Saint Basil,P106,Q42603,priest,Saint Basil is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q28189,Abdus Salam,P106,Q169470,physicist,Abdus Salam is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q483376,Loreen (singer),P27,Q34,Sweden,Loreen (singer) is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q128746,Irving Berlin,P241,Q9212,United States Army,Irving Berlin is the military branch of [MASK] .,<ENT0> is the military branch of <ENT1> .
+Q48368,José Joaquín Fernández de Lizardi,P1412,Q1321,Spanish,José Joaquín Fernández de Lizardi translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q981710,Louis-Guillaume Le Monnier,P106,Q39631,physician,Louis-Guillaume Le Monnier is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q6735551,Maier Zipser,P106,Q133485,rabbi,Maier Zipser is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q352030,Jiří Menzel,P106,Q2526255,film director,Jiří Menzel is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q3141021,Jean Delay,P106,Q211346,psychiatrist,Jean Delay is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q527489,Joel Dorn,P509,Q12152,heart attack,Joel Dorn died due to [MASK] .,<ENT0> died due to <ENT1> .
+Q556346,Johann Euler,P19,Q656,Petersburg,Johann Euler was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q33605,Kesha,P106,Q488205,singer-songwriter,Kesha is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q251524,Oskar Klein,P19,Q1754,Stockholm,Oskar Klein was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q15001,Alexander Griboyedov,P19,Q649,Moscow,Alexander Griboyedov was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q324031,Francis Amasa Walker,P19,Q100,Boston,Francis Amasa Walker was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q1229902,Frank Dawson Adams,P463,Q123885,FRS,Frank Dawson Adams is a member of [MASK] .,<ENT0> is a member of <ENT1> .
+Q151098,Lucien,P937,Q90,Paris,Lucien used to work in [MASK] .,<ENT0> used to work in <ENT1> .
+Q16043828,McCants Stewart,P106,Q40348,attorney,McCants Stewart is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q6107,Quad Studios,P19,Q60,New York City,Quad Studios was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q23357,Abraham Maslow,P27,Q30,American,Abraham Maslow is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q303,Elvis Presley,P509,Q12152,heart attack,Elvis Presley died due to [MASK] .,<ENT0> died due to <ENT1> .
+Q307,Galileo Galilei,P101,Q413,Physics,Galileo Galilei works in the field of [MASK] .,<ENT0> works in the field of <ENT1> .
+Q1351700,Frederik Kaiser,P106,Q11063,astronomer,Frederik Kaiser is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q14280,Piazzi,P1412,Q652,Italian,Piazzi translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q37463,Pierre Curie,P108,Q209842,Paris,Pierre Curie works for [MASK] .,<ENT0> works for <ENT1> .
+Q1339524,Joe Sample,P106,Q486748,pianist,Joe Sample is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q2211909,Gene Gnocchi,P1412,Q652,Italian,Gene Gnocchi translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q160435,Rietveld,P103,Q7411,Dutch,The native language of Rietveld is [MASK] .,The native language of <ENT0> is <ENT1> .
+Q3925360,Puccio Corona,P106,Q947873,television presenter,Puccio Corona is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q2042598,Owen Bradley,P106,Q753110,songwriter,Owen Bradley is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q152393,Alfred Adler,P69,Q165980,Vienna,Alfred Adler is educated at [MASK] .,<ENT0> is educated at <ENT1> .
+Q5686,Charles Dickens,P106,Q6625963,novelist,Charles Dickens is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q55433,Michelangelo Antonioni,P27,Q38,Italy,Michelangelo Antonioni is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q1127678,Constant Dutilleux,P106,Q644687,illustrator,Constant Dutilleux is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q40722,Dilma Vana Rousseff,P106,Q188094,economist,Dilma Vana Rousseff is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q5163560,Constance Mabel Winchell,P106,Q182436,librarian,Constance Mabel Winchell is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q173869,Tennyson,P937,Q84,London,Tennyson used to work in [MASK] .,<ENT0> used to work in <ENT1> .
+Q4173107,Alexander Evreinov,P19,Q656,Saint Petersburg,Alexander Evreinov was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q178412,Giovanni Battista Amici,P106,Q11063,astronomer,Giovanni Battista Amici is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q254,Mozart,P1412,Q188,German-language,Mozart translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q997,Sakharov,P27,Q15180,Soviet Union,Sakharov is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q3294122,Mark Kamins,P106,Q130857,disc jockey,Mark Kamins is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q2331807,Stanley Shapiro,P20,Q65,Los Angeles,Stanley Shapiro died in [MASK] .,<ENT0> died in <ENT1> .
+Q105798,Johannes Ranke,P20,Q1726,Munich,Johannes Ranke died in [MASK] .,<ENT0> died in <ENT1> .
+Q561401,Spike Milligan,P607,Q362,World War II,Spike Milligan participated in the conflict of [MASK] .,<ENT0> participated in the conflict of <ENT1> .
+Q82944,Vasily Davydov,P1412,Q7737,Russian,Vasily Davydov translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q1959564,Garri Bardin,P106,Q28389,screenwriter,Garri Bardin is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1500297,Vassilis Tsitsanis,P106,Q753110,songwriter,Vassilis Tsitsanis is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q131149,Henry David Thoreau,P106,Q49757,poet,Henry David Thoreau is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q152824,Susan Sontag,P106,Q1930187,journalist,Susan Sontag is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1827287,Lionel Trilling,P106,Q6625963,novelist,Lionel Trilling is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q545438,Tina Sinatra,P106,Q3282637,film producer,Tina Sinatra is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q2007313,Jan Just Bos,P106,Q947873,television presenter,Jan Just Bos is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q8619,Pierre Trudeau,P69,Q13371,Harvard University,Pierre Trudeau is educated at [MASK] .,<ENT0> is educated at <ENT1> .
+Q3098317,Louis Verneuil,P1196,Q10737,suicide,The mode of death of Louis Verneuil was [MASK] .,The mode of death of <ENT0> was <ENT1> .
+Q12470073,Wilhelm Wetlesen,P106,Q644687,illustrator,Wilhelm Wetlesen is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1398792,George Bird Grinnell,P106,Q4773904,anthropologist,George Bird Grinnell is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q50713,Renoir,P607,Q361,World War I,Renoir participated in the conflict of [MASK] .,<ENT0> participated in the conflict of <ENT1> .
+Q233355,Mulliken,P166,Q44585,chemistry,Mulliken was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q376231,Stanislav Markelov,P20,Q649,Moscow,Stanislav Markelov died in [MASK] .,<ENT0> died in <ENT1> .
+Q2565614,Eva Ekvall,P106,Q4610556,fashion model,Eva Ekvall is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q159723,Nathan Söderblom,P106,Q42603,priest,Nathan Söderblom is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q545375,Robertson Davies,P27,Q16,Canadian,Robertson Davies is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q224650,Sarah McLachlan,P27,Q16,Canada,Sarah McLachlan is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q40787,Nicholas II,P937,Q656,Petersburg,Nicholas II used to work in [MASK] .,<ENT0> used to work in <ENT1> .
+Q3655230,Candy Jones,P106,Q4610556,fashion model,Candy Jones is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q179680,Alfred de Musset,P103,Q150,French,The native language of Alfred de Musset is [MASK] .,The native language of <ENT0> is <ENT1> .
+Q200101,Jonas Salk,P106,Q39631,physician,Jonas Salk is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q2113523,Cronbach,P69,Q131252,Chicago,Cronbach is educated at [MASK] .,<ENT0> is educated at <ENT1> .
+Q573726,Neal E. Miller,P69,Q49112,Yale,Neal E. Miller is educated at [MASK] .,<ENT0> is educated at <ENT1> .
+Q79025,Walter Scott,P1412,Q1860,English,Walter Scott translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q2959074,Charles Fletcher Lummis,P106,Q33231,photographer,Charles Fletcher Lummis is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q15140114,Hans Nilsen Gubberud,P106,Q131512,farmer,Hans Nilsen Gubberud is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q309765,Edward Thorndike,P106,Q212980,psychologist,Edward Thorndike is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q765165,Brezhnev,P20,Q649,Moscow,Brezhnev died in [MASK] .,<ENT0> died in <ENT1> .
+Q18368428,Yehuda Glick,P106,Q133485,rabbi,Yehuda Glick is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q45575,Dennis Ritchie,P106,Q82594,computer scientist,Dennis Ritchie is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1047230,Casey Kasem,P19,Q12439,Detroit,Casey Kasem was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q1439364,Fosco Maraini,P106,Q33231,photographer,Fosco Maraini is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q142999,Eusebius,P106,Q42603,priest,Eusebius is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1631728,Howard Kelly,P106,Q774306,surgeon,Howard Kelly is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q833250,Lawrence Krader,P69,Q49088,Columbia University,Lawrence Krader is educated at [MASK] .,<ENT0> is educated at <ENT1> .
+Q115490,Tadeus Reichstein,P1411,Q80061,Nobel Prize,Tadeus Reichstein was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q41142,Jane Fonda,P106,Q4610556,fashion model,Jane Fonda is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q133846,George Paget Thomson,P1411,Q38104,Nobel Prize,George Paget Thomson was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q160554,Muhammad Ali,P106,Q82955,Politician,Muhammad Ali is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q3335,Orwell,P1050,Q12204,tuberculosis,Orwell has a medical condition of [MASK] .,<ENT0> has a medical condition of <ENT1> .
+Q543442,Chazon Ish,P106,Q133485,rabbi,Chazon Ish is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q180374,Frank Gehry,P19,Q172,Toronto,Frank Gehry was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q503031,Yesterdays New Quintet,P106,Q130857,DJ,Yesterdays New Quintet is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q178344,Luis Alvarez,P1411,Q38104,Nobel Prize,Luis Alvarez was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q48368,José Joaquín Fernández de Lizardi,P106,Q1930187,journalist,José Joaquín Fernández de Lizardi is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q150651,Carlin,P1412,Q1860,English language,Carlin translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q154824,Norman Ernest Borlaug,P106,Q864503,biologist,Norman Ernest Borlaug is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q115462,Fritz Zwicky,P27,Q39,Swiss,Fritz Zwicky is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q12735,Comenius,P106,Q4964182,philosopher,Comenius is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1391912,Alfred Andriola,P19,Q60,New York City,Alfred Andriola was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q11816,John Quincy Adams,P20,Q61,Washington DC,John Quincy Adams died in [MASK] .,<ENT0> died in <ENT1> .
+Q260843,Madeleine Renaud,P570,XMLSchema#dateTime,23 September 1994,Madeleine Renaud died on [MASK] .,<ENT0> died on <ENT1> .
+Q11116,Ruth Bader Ginsburg,P108,Q49088,Columbia,Ruth Bader Ginsburg works for [MASK] .,<ENT0> works for <ENT1> .
+Q448,Diderot,P172,Q121842,French,Diderot belongs to the ethnic group of [MASK] .,<ENT0> belongs to the ethnic group of <ENT1> .
+Q731178,Albert Ammons,P19,Q1297,"Chicago, Illinois",Albert Ammons was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q603103,Antonio Magliabechi,P1412,Q652,Italian,Antonio Magliabechi translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q43444,Gustave Flaubert,P106,Q6625963,novelist,Gustave Flaubert is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q128655,Robert Borden,P27,Q16,Canada,Robert Borden is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q474333,Amos Tversky,P106,Q212980,psychologist,Amos Tversky is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q188394,Adriaan de Groot,P106,Q212980,psychologist,Adriaan de Groot is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q8016,Sir Winston Churchill,P166,Q37922,Nobel Prize,Sir Winston Churchill was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q439245,Allen Newell,P106,Q82594,computer scientist,Allen Newell is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q3925,Grace Kelly,P140,Q9592,Roman Catholic,Grace Kelly is affiliated with the [MASK] religion .,<ENT0> is affiliated with the <ENT1> religion .
+Q211776,James Tobin,P108,Q49112,Yale,James Tobin works for [MASK] .,<ENT0> works for <ENT1> .
+Q1079125,Christian Bérard,P20,Q90,Paris,Christian Bérard died in [MASK] .,<ENT0> died in <ENT1> .
+Q3293420,Mario Dumont,P106,Q947873,television personality,Mario Dumont is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q232562,Ruth Gordon,P106,Q28389,screenwriter,Ruth Gordon is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q937429,William Edmond Logan,P19,Q340,Montreal,William Edmond Logan was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q28614,Garry Kasparov,P172,Q7325,Jewish,Garry Kasparov belongs to the ethnic group of [MASK] .,<ENT0> belongs to the ethnic group of <ENT1> .
+Q1159900,Daniel Alfredson,P1412,Q9027,Swedish,Daniel Alfredson translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q48373,David Livingstone,P106,Q219477,missionary,David Livingstone is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q294912,Richard Pryor,P106,Q245068,comedian,Richard Pryor is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q180224,Lenny Kravitz,P1303,Q46185,bass,Lenny Kravitz plays [MASK] .,<ENT0> plays <ENT1> .
+Q1939444,Murray Barr,P106,Q39631,physician,Murray Barr is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q2389088,Garik Martirosyan,P1412,Q7737,Russian,Garik Martirosyan translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q1275039,El-P,P19,Q18419,"Brooklyn, New York",El-P was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q229295,Gigliola Cinquetti,P1412,Q652,Italian,Gigliola Cinquetti translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q15741718,Génesis Carmona,P106,Q4610556,fashion model,Génesis Carmona is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q273223,Sir John Carew Eccles,P166,Q80061,Nobel Prize,Sir John Carew Eccles was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q92628,Juris Hartmanis,P106,Q82594,computer scientist,Juris Hartmanis is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q78494,Arthur Koestler,P1196,Q10737,suicide,The mode of death of Arthur Koestler was [MASK] .,The mode of death of <ENT0> was <ENT1> .
+Q1273438,Stephen Worobetz,P106,Q39631,physician,Stephen Worobetz is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q122553,Charles II,P140,Q6423963,Anglican,Charles II is affiliated with the [MASK] religion .,<ENT0> is affiliated with the <ENT1> religion .
+Q84663,Alexander Ecker,P106,Q4773904,anthropologist,Alexander Ecker is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q58978,Max Born,P1411,Q38104,physics,Max Born was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q18430,Joseph Stiglitz,P106,Q188094,economist,Joseph Stiglitz is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q292635,Dominique Laffin,P27,Q142,French,Dominique Laffin is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q301,El Greco,P1412,Q1321,Spanish,El Greco translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q108510,James Garner,P106,Q33999,actor,James Garner is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q44301,Jim Morrison,P106,Q33999,actor,Jim Morrison is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q36620,Tycho Brahe,P1412,Q397,Latin,Tycho Brahe translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q71031,Bunsen,P463,Q123885,Royal Society,Bunsen is a member of [MASK] .,<ENT0> is a member of <ENT1> .
+Q28189,Abdus Salam,P166,Q38104,Physics,Abdus Salam was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q974089,Vanier,P1412,Q150,French,Vanier translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q206534,Stephen Crane,P509,Q12204,tuberculosis,Stephen Crane died due to [MASK] .,<ENT0> died due to <ENT1> .
+Q297308,Seward,P106,Q40348,attorney,Seward is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q74856,Otto Selz,P106,Q212980,psychologist,Otto Selz is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q93157,Eugene O'Neill,P20,Q100,Boston,Eugene O'Neill died in [MASK] .,<ENT0> died in <ENT1> .
+Q9106,Mendeleev,P1411,Q44585,Chemistry,Mendeleev was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q41076,Mariah Carey,P264,Q183387,Columbia,Mariah Carey is represented by music label [MASK] .,<ENT0> is represented by music label <ENT1> .
+Q3519755,Mario Miranda,P27,Q668,India,Mario Miranda is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q72334,Toni Morrison,P106,Q6625963,novelist,Toni Morrison is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q352,Adolf Hitler,P103,Q188,German language,The native language of Adolf Hitler is [MASK] .,The native language of <ENT0> is <ENT1> .
+Q160538,Gian Lorenzo Bernini,P106,Q42973,architect,Gian Lorenzo Bernini is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q6777754,Martín Abadi,P106,Q82594,computer scientist,Martín Abadi is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q316641,Joel Grey,P106,Q33231,photographer,Joel Grey is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q718606,Victor Milner,P1411,Q131520,Best Cinematography,Victor Milner was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q189599,Keith Richards,P136,Q11399,rock,Keith Richards plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q34012,Marlon Brando,P106,Q2526255,film director,Marlon Brando is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q5700314,Heinrich Ries,P106,Q520549,geologist,Heinrich Ries is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q8007,FDR,P106,Q82955,statesman,FDR is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q3623655,Aroldo Bonzagni,P106,Q644687,illustrator,Aroldo Bonzagni is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1636973,Stephen Samuel Wise,P106,Q133485,rabbi,Stephen Samuel Wise is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q437559,Armand Van Helden,P106,Q130857,DJ,Armand Van Helden is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q151608,Claudio Abbado,P19,Q490,Milan,Claudio Abbado was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q156896,Edward Charles Pickering,P106,Q11063,astronomer,Edward Charles Pickering is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q5246706,Deane Gundlock,P106,Q131512,farmer,Deane Gundlock is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q12086,Ernesto Teodoro Moneta,P1412,Q652,Italian,Ernesto Teodoro Moneta translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q106126,Simone Signoret,P172,Q7325,Jews,Simone Signoret belongs to the ethnic group of [MASK] .,<ENT0> belongs to the ethnic group of <ENT1> .
+Q193803,Sir Roger Penrose,P569,XMLSchema#dateTime,8 August 1931,Sir Roger Penrose was born on [MASK] .,<ENT0> was born on <ENT1> .
+Q1177096,David Watkin (cinematographer),P166,Q131520,Best Cinematography,David Watkin (cinematographer) was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q7724,August Strindberg,P551,Q64,"Berlin, Germany",August Strindberg resides in [MASK] .,<ENT0> resides in <ENT1> .
+Q963827,Tennessee Ernie Ford,P106,Q947873,television host,Tennessee Ernie Ford is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1365463,Gustaf Molander,P20,Q1754,Stockholm,Gustaf Molander died in [MASK] .,<ENT0> died in <ENT1> .
+Q41508,Mies Van Der Rohe,P20,Q1297,Chicago,Mies Van Der Rohe died in [MASK] .,<ENT0> died in <ENT1> .
+Q93052,Robert Fano,P106,Q82594,computer scientist,Robert Fano is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q154812,Weber,P1412,Q188,German language,Weber translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q179051,Lew Alcindor,P551,Q60,New York City,Lew Alcindor resides in [MASK] .,<ENT0> resides in <ENT1> .
+Q76,Barack Obama,P106,Q82955,politician,Barack Obama is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1041034,Lecrae,P106,Q183945,record producer,Lecrae is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q97457,Günther Anders (cinematographer),P20,Q1726,Munich,Günther Anders (cinematographer) died in [MASK] .,<ENT0> died in <ENT1> .
+Q137042,Nat King Cole,P136,Q8341,jazz,Nat King Cole plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q4759823,André Baruch,P106,Q130857,disc jockey,André Baruch is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1365463,Gustaf Molander,P1412,Q9027,Swedish,Gustaf Molander translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q1329310,Rabbi Eliezer,P106,Q133485,rabbi,Rabbi Eliezer is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q2121062,The Weeknd,P19,Q172,Toronto,The Weeknd was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q7604,Leonhard Euler,P551,Q656,Petersburg,Leonhard Euler resides in [MASK] .,<ENT0> resides in <ENT1> .
+Q278759,Boris Kaufman,P106,Q222344,cinematographer,Boris Kaufman is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q40531,John Wayne,P106,Q33999,film actor,John Wayne is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q46096,Mendelssohn,P27,Q183,Germany,Mendelssohn is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q1037921,Carl Fredrik Adelcrantz,P19,Q1754,Stockholm,Carl Fredrik Adelcrantz was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q190766,Martin Ryle,P106,Q11063,astronomer,Martin Ryle is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q350891,Adam Sedgwick,P463,Q123885,FRS,Adam Sedgwick is a member of [MASK] .,<ENT0> is a member of <ENT1> .
+Q974089,Vanier,P106,Q193391,diplomat,Vanier is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q113113,Alexander Wittek,P1196,Q10737,suicide,The mode of death of Alexander Wittek was [MASK] .,The mode of death of <ENT0> was <ENT1> .
+Q313013,Brian Wilson,P136,Q11399,rock,Brian Wilson plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q1376849,Jacob ben Asher,P106,Q133485,rabbi,Jacob ben Asher is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q80889,Sigrid Undset,P1411,Q37922,Nobel Prize Laureate,Sigrid Undset was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q6527,Jean-Jacques Rousseau,P106,Q4964182,philosopher,Jean-Jacques Rousseau is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q84287,Otto Wagner,P1412,Q188,German language,Otto Wagner translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q151173,Murat,P106,Q82955,statesman,Murat is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q2360643,Valery Alekseyev (anthropologist),P27,Q15180,Soviet,Valery Alekseyev (anthropologist) is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q2331807,Stanley Shapiro,P106,Q28389,screenwriter,Stanley Shapiro is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q19837,Steve Jobs,P106,Q82594,computer scientist,Steve Jobs is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1160901,Daniel Gorenstein,P106,Q170790,mathematician,Daniel Gorenstein is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q474022,Martin van Marum,P1412,Q7411,Dutch,Martin van Marum translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q718606,Victor Milner,P166,Q131520,Best Cinematography,Victor Milner was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q102585,Fichte,P27,Q183,Germany,Fichte is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q1702168,John William Dawson,P106,Q520549,geologist,John William Dawson is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q134085,Jean Baptiste Perrin,P1411,Q38104,Physics,Jean Baptiste Perrin was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q1382555,Norman Granz,P19,Q65,"Los Angeles, CA",Norman Granz was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q1911361,Maurice Lamontagne,P937,Q1930,Ottawa,Maurice Lamontagne used to work in [MASK] .,<ENT0> used to work in <ENT1> .
+Q692160,Enrico Hillyer Giglioli,P106,Q4773904,anthropologist,Enrico Hillyer Giglioli is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q533781,Diplo,P106,Q130857,disc jockey,Diplo is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q219420,Edward Albee,P106,Q214917,playwright,Edward Albee is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q170373,Christopher Wren,P463,Q123885,Royal Society,Christopher Wren is a member of [MASK] .,<ENT0> is a member of <ENT1> .
+Q155794,Hans Bethe,P1411,Q38104,Physics,Hans Bethe was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q80,Tim Berners-Lee,P106,Q82594,computer scientist,Tim Berners-Lee is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q92743,Vint Cerf,P106,Q82594,computer scientist,Vint Cerf is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q34474,Aleksandr Solzhenitsyn,P166,Q37922,Nobel Prize,Aleksandr Solzhenitsyn was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q552584,Charles Barry,P106,Q42973,architect,Charles Barry is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q69246,Paul Flechsig,P106,Q211346,psychiatrist,Paul Flechsig is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q28614,Kasparov,P569,XMLSchema#dateTime,13 April 1963,Kasparov was born on [MASK] .,<ENT0> was born on <ENT1> .
+Q1069399,Cino Del Duca,P106,Q3282637,film producer,Cino Del Duca is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q3337949,Thomas Nelson Annandale,P569,XMLSchema#dateTime,15 June 1876,Thomas Nelson Annandale was born on [MASK] .,<ENT0> was born on <ENT1> .
+Q86764,Lorenz Böhler,P20,Q1741,Vienna,Lorenz Böhler died in [MASK] .,<ENT0> died in <ENT1> .
+Q81752,Anton Bruckner,P1412,Q188,German-language,Anton Bruckner translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q9049,Noam Chomsky,P106,Q4964182,philosopher,Noam Chomsky is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q150651,George Carlin,P106,Q245068,comedian,George Carlin is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q93343,Percy Bysshe Shelley,P106,Q49757,poet,Percy Bysshe Shelley is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q12003,Cher,P264,Q183387,Columbia Records,Cher is represented by music label [MASK] .,<ENT0> is represented by music label <ENT1> .
+Q151608,Claudio Abbado,P106,Q486748,pianist,Claudio Abbado is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q102051,Werner Körte,P106,Q774306,surgeon,Werner Körte is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q4616,Norma Jeane Mortenson,P106,Q33999,actress,Norma Jeane Mortenson is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q11168795,Henry Crew,P106,Q11063,astronomer,Henry Crew is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q13634767,Jokichi Ikarashi,P106,Q131512,farmer,Jokichi Ikarashi is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q533781,Diplo,P937,Q1345,"Philadelphia, Pennsylvania",Diplo used to work in [MASK] .,<ENT0> used to work in <ENT1> .
+Q12716864,Meyer Foshaug,P1412,Q9043,Norwegian,Meyer Foshaug translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q6722,Carl Friedrich Gauss,P27,Q183,Germany,Carl Friedrich Gauss is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q215305,Giulio Romano,P27,Q38,Italy,Giulio Romano is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q1348041,Pasqualino De Santis,P1411,Q131520,Best Cinematography,Pasqualino De Santis was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q553952,Wols,P19,Q64,Berlin,Wols was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q722150,Alexander Roshal,P27,Q15180,Soviet,Alexander Roshal is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q550436,Neil Finn,P1303,Q6607,guitar,Neil Finn plays [MASK] .,<ENT0> plays <ENT1> .
+Q81244,Popper,P69,Q165980,Vienna,Popper is educated at [MASK] .,<ENT0> is educated at <ENT1> .
+Q295919,Sam Cooke,P106,Q486748,pianist,Sam Cooke is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q11613,Truman,P39,Q11696,White House,Truman has the position of [MASK] .,<ENT0> has the position of <ENT1> .
+Q3496694,Stanislas-Étienne Meunier,P106,Q520549,geologist,Stanislas-Étienne Meunier is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q35678,Benjamin Harrison,P39,Q11696,President,Benjamin Harrison has the position of [MASK] .,<ENT0> has the position of <ENT1> .
+Q35802,Baruch Spinoza,P106,Q4964182,philosopher,Baruch Spinoza is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q3132809,Henry Gravrand,P106,Q4773904,anthropologist,Henry Gravrand is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q115827,Théodore Maunoir,P106,Q774306,surgeon,Théodore Maunoir is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q506950,Marriott,P106,Q183945,music producer,Marriott is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q4028,Paul Simon,P136,Q11399,rock,Paul Simon plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q167635,"Tyler, The Creator",P136,Q11401,rapper,"Tyler, The Creator plays [MASK] music .",<ENT0> plays <ENT1> music .
+Q48226,Ralph Waldo Emerson,P106,Q49757,poet,Ralph Waldo Emerson is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q157255,Merton Miller,P20,Q1297,Chicago,Merton Miller died in [MASK] .,<ENT0> died in <ENT1> .
+Q311607,Kirby,P241,Q9212,United States Army,Kirby is the military branch of [MASK] .,<ENT0> is the military branch of <ENT1> .
+Q123898,Albert Heim,P106,Q520549,geologist,Albert Heim is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q855,Joseph Stalin,P27,Q15180,Soviet,Joseph Stalin is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q12086,Ernesto Teodoro Moneta,P166,Q35637,Nobel Prize,Ernesto Teodoro Moneta was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q171344,Hogarth,P106,Q644687,illustrator,Hogarth is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q318029,Karl Polanyi,P106,Q4773904,anthropologist,Karl Polanyi is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q19673,Al Gore,P166,Q35637,Nobel Peace Prize,Al Gore was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q123772,Adolf Portmann,P27,Q39,Swiss,Adolf Portmann is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q1854748,Hubert Hermans,P1412,Q7411,Dutch,Hubert Hermans translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q16018987,Patricia Swift Blalock,P106,Q182436,librarian,Patricia Swift Blalock is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q9068,Voltaire,P106,Q4964182,philosopher,Voltaire is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1242,Luigi Einaudi,P937,Q220,Rome,Luigi Einaudi used to work in [MASK] .,<ENT0> used to work in <ENT1> .
+Q231690,Bhimrao Ramji Ambedkar,P106,Q188094,economist,Bhimrao Ramji Ambedkar is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q313093,Herman Boerhaave,P106,Q39631,physician,Herman Boerhaave is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q503710,Tim Armstrong,P1303,Q6607,guitar,Tim Armstrong plays [MASK] .,<ENT0> plays <ENT1> .
+Q152824,Susan Sontag,P19,Q60,New York City,Susan Sontag was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q1275768,Fred Rogers,P106,Q947873,television personality,Fred Rogers is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q132489,Amartya Sen,P27,Q668,India,Amartya Sen is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q9916,Eisenhower,P1050,Q12152,heart attack,Eisenhower has a medical condition of [MASK] .,<ENT0> has a medical condition of <ENT1> .
+Q1124,Bill Clinton,P937,Q61,Washington DC,Bill Clinton used to work in [MASK] .,<ENT0> used to work in <ENT1> .
+Q23434,Hemingway,P166,Q37922,Nobel Prize,Hemingway was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q19848,Lady Gaga,P136,Q37073,pop,Lady Gaga plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q997,Andrei Sakharov,P19,Q649,Moscow,Andrei Sakharov was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q1102536,Melissa Satta,P1412,Q652,Italian,Melissa Satta translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q184226,Gilles Deleuze,P108,Q209842,Paris,Gilles Deleuze works for [MASK] .,<ENT0> works for <ENT1> .
+Q15001,Alexander Griboyedov,P106,Q193391,diplomat,Alexander Griboyedov is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q451330,Vinogradov,P20,Q649,Moscow,Vinogradov died in [MASK] .,<ENT0> died in <ENT1> .
+Q202597,Chen Kaige,P106,Q2526255,film director,Chen Kaige is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q322369,Berkeley Breathed,P106,Q1114448,cartoonist,Berkeley Breathed is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1074807,Akio Jissoji,P106,Q2526255,film director,Akio Jissoji is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q489951,Geoffrey Unsworth,P1411,Q131520,cinematography,Geoffrey Unsworth was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q15935,Kanye West,P136,Q11401,rap,Kanye West plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q192185,Copland,P264,Q183387,Columbia Records,Copland is represented by music label [MASK] .,<ENT0> is represented by music label <ENT1> .
+Q62051,Ernest of Bavaria,P27,Q183,Germany,Ernest of Bavaria is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q6069934,Irina Sharipova,P103,Q7737,Russian,The native language of Irina Sharipova is [MASK] .,The native language of <ENT0> is <ENT1> .
+Q8619,Pierre Trudeau,P937,Q1930,Ottawa,Pierre Trudeau used to work in [MASK] .,<ENT0> used to work in <ENT1> .
+Q62099,Karl Freund,P106,Q222344,cinematographer,Karl Freund is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1911361,Maurice Lamontagne,P69,Q13371,Harvard University,Maurice Lamontagne is educated at [MASK] .,<ENT0> is educated at <ENT1> .
+Q103977,Jacob Sonderling,P106,Q133485,rabbi,Jacob Sonderling is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q31292,Sam Spiegel,P106,Q3282637,film producer,Sam Spiegel is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q939,Pedro I,P1050,Q12204,tuberculosis,Pedro I has a medical condition of [MASK] .,<ENT0> has a medical condition of <ENT1> .
+Q327040,Hans Otte,P106,Q486748,pianist,Hans Otte is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q73579,Hugo Liepmann,P106,Q211346,psychiatrist,Hugo Liepmann is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q40787,Nicholas II,P937,Q656,Petersburg,Nicholas II used to work in [MASK] .,<ENT0> used to work in <ENT1> .
+Q345217,Lucio Fulci,P19,Q220,Rome,Lucio Fulci was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q57066,Franck,P108,Q131252,Chicago,Franck works for [MASK] .,<ENT0> works for <ENT1> .
+Q1555866,Gustav Gottheil,P106,Q133485,rabbi,Gustav Gottheil is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q233051,Eric Maskin,P101,Q188094,economist,Eric Maskin works in the field of [MASK] .,<ENT0> works in the field of <ENT1> .
+Q217344,Gerhard Armauer Hansen,P106,Q39631,physician,Gerhard Armauer Hansen is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q14280,Piazzi,P106,Q11063,astronomer,Piazzi is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q172118,Percy Williams Bridgman,P1411,Q38104,Nobel laureate,Percy Williams Bridgman was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q503264,Gregg Allman,P1303,Q5994,piano,Gregg Allman plays [MASK] .,<ENT0> plays <ENT1> .
+Q181683,Carly Simon,P106,Q488205,singer-songwriter,Carly Simon is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1063412,Ranbir Kapoor,P551,Q1156,Bombay,Ranbir Kapoor resides in [MASK] .,<ENT0> resides in <ENT1> .
+Q211731,Timothy Leary,P106,Q212980,psychologist,Timothy Leary is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q13909,Angelina,P1411,Q103618,Best Actress,Angelina was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q179680,Alfred de Musset,P27,Q142,France,Alfred de Musset is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q77083,Cuno Hoffmeister,P106,Q11063,astronomer,Cuno Hoffmeister is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q231106,Joan Jett,P106,Q183945,record producer,Joan Jett is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q354579,Neal Fredericks,P106,Q222344,cinematographer,Neal Fredericks is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q159907,David Hockney,P106,Q33231,photographer,David Hockney is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q737414,Brioschi,P19,Q490,Milan,Brioschi was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q77002,ATB,P106,Q130857,DJ,ATB is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1340,Vivaldi,P1412,Q652,Italian,Vivaldi translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q40722,Rousseff,P140,Q9592,Catholic Church,Rousseff is affiliated with the [MASK] religion .,<ENT0> is affiliated with the <ENT1> religion .
+Q122501,Walter Bosshard,P106,Q33231,photographer,Walter Bosshard is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q132341,Bobby Timmons,P106,Q486748,pianist,Bobby Timmons is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q128604,Lester Pearson,P1411,Q35637,Nobel,Lester Pearson was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q76433,Eva Braun,P19,Q1726,Munich,Eva Braun was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q1610507,Hermann Adler,P106,Q133485,rabbi,Hermann Adler is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q61071,Walter Gropius,P607,Q361,World War I,Walter Gropius participated in the conflict of [MASK] .,<ENT0> participated in the conflict of <ENT1> .
+Q7351,Robert Schumann,P1412,Q188,Germanic,Robert Schumann translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q213668,Victor Moritz Goldschmidt,P106,Q520549,geologist,Victor Moritz Goldschmidt is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q230066,Petra Marklund,P1412,Q9027,Swedish,Petra Marklund translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q157642,Arnold,P108,Q209842,Paris,Arnold works for [MASK] .,<ENT0> works for <ENT1> .
+Q106099,Jeanne Moreau,P106,Q28389,screenwriter,Jeanne Moreau is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q3702138,Danijay,P27,Q38,Italy,Danijay is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q3925,Grace Kelly,P106,Q33999,actress,Grace Kelly is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q629216,Murry Gage Wilson,P106,Q183945,record producer,Murry Gage Wilson is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q292635,Dominique Laffin,P1196,Q10737,suicide,The mode of death of Dominique Laffin was [MASK] .,The mode of death of <ENT0> was <ENT1> .
+Q204600,Walter Haworth,P1411,Q44585,Chemistry,Walter Haworth was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q2604,Pope Pius XII,P140,Q9592,Catholic Church,Pope Pius XII is affiliated with the [MASK] religion .,<ENT0> is affiliated with the <ENT1> religion .
+Q152187,August Krogh,P1411,Q80061,Nobel Prize,August Krogh was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q34389,Whitney Houston,P136,Q37073,pop,Whitney Houston plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q1382471,Pierre Laporte,P19,Q340,Montreal,Pierre Laporte was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q3525101,"Thomas Ewing, Jr.",P106,Q40348,attorney,"Thomas Ewing, Jr. is a [MASK] by profession .",<ENT0> is a <ENT1> by profession .
+Q3508970,Zdenko Škrabalo,P106,Q193391,diplomat,Zdenko Škrabalo is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q76555,Emperor Joseph II,P19,Q1741,Vienna,Emperor Joseph II was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q2864966,Arthur (TV presenter),P106,Q947873,TV presenter,Arthur (TV presenter) is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q2165261,Umek,P106,Q130857,DJ,Umek is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q11613,Truman,P937,Q61,Washington DC,Truman used to work in [MASK] .,<ENT0> used to work in <ENT1> .
+Q1226635,Dino Dvornik,P136,Q37073,pop,Dino Dvornik plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q19673,Al Gore,P166,Q35637,Nobel Peace Prize,Al Gore was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q389731,Anatoli Petrovich Bogdanov,P106,Q4773904,anthropologist,Anatoli Petrovich Bogdanov is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q6111736,Jack Cohen (rabbi),P69,Q49088,Columbia University,Jack Cohen (rabbi) is educated at [MASK] .,<ENT0> is educated at <ENT1> .
+Q334842,Marvin Harris,P108,Q49088,Columbia University,Marvin Harris works for [MASK] .,<ENT0> works for <ENT1> .
+Q1337082,Freddie Francis,P106,Q222344,cinematographer,Freddie Francis is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q4593,Rajiv Gandhi,P27,Q668,India,Rajiv Gandhi is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q15970956,Philippe Honoré (cartoonist),P1412,Q150,French,Philippe Honoré (cartoonist) translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q62766,Jay-Z,P136,Q11401,rap,Jay-Z plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q34943,Ptolemy,P106,Q11063,astronomer,Ptolemy is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1039038,Carl Johan Malmsten,P106,Q170790,mathematician,Carl Johan Malmsten is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q160435,Gerrit Thomas Rietveld,P106,Q42973,architect,Gerrit Thomas Rietveld is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q7243,Tolstoy,P27,Q34266,Russia,Tolstoy is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q438869,Boddaert,P103,Q7411,Dutch,The native language of Boddaert is [MASK] .,The native language of <ENT0> is <ENT1> .
+Q37463,Pierre Curie,P69,Q209842,Paris,Pierre Curie is educated at [MASK] .,<ENT0> is educated at <ENT1> .
+Q6230273,John Duer Irving,P106,Q520549,geologist,John Duer Irving is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1047,Pandit Jawaharlal Nehru,P27,Q668,India,Pandit Jawaharlal Nehru is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q893652,Boris Ephrussi,P69,Q209842,Paris,Boris Ephrussi is educated at [MASK] .,<ENT0> is educated at <ENT1> .
+Q4030,Duke Ellington,P136,Q8341,jazz,Duke Ellington plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q194045,Steven Tyler,P264,Q183387,Columbia Records,Steven Tyler is represented by music label [MASK] .,<ENT0> is represented by music label <ENT1> .
+Q11816,John Quincy Adams,P39,Q11696,President,John Quincy Adams has the position of [MASK] .,<ENT0> has the position of <ENT1> .
+Q144687,Gene Robinson,P140,Q6423963,Episcopalians,Gene Robinson is affiliated with the [MASK] religion .,<ENT0> is affiliated with the <ENT1> religion .
+Q2222293,Joseph Gabet,P106,Q219477,missionary,Joseph Gabet is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q41284,Dalton,P463,Q123885,FRS,Dalton is a member of [MASK] .,<ENT0> is a member of <ENT1> .
+Q352087,Lee Ranaldo,P27,Q30,American,Lee Ranaldo is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q4352405,Norton Zinder,P106,Q864503,biologist,Norton Zinder is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q273223,Sir John Carew Eccles,P1411,Q80061,Nobel Prize,Sir John Carew Eccles was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q6136785,James Jacks,P20,Q65,Los Angeles,James Jacks died in [MASK] .,<ENT0> died in <ENT1> .
+Q2960186,Charles Joseph Sainte-Claire Deville,P106,Q520549,geologist,Charles Joseph Sainte-Claire Deville is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q5383,David Bowie,P136,Q11399,rock,David Bowie plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q1048,Julius Caesar,P20,Q220,"Rome, Italy",Julius Caesar died in [MASK] .,<ENT0> died in <ENT1> .
+Q1691615,Joe Sullivan,P106,Q486748,pianist,Joe Sullivan is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q469231,Dorothy Hansine Andersen,P106,Q39631,physician,Dorothy Hansine Andersen is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q6107,Tupac Shakur,P1412,Q1860,English,Tupac Shakur translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q3652135,Kirk Bryan,P108,Q13371,Harvard University,Kirk Bryan works for [MASK] .,<ENT0> works for <ENT1> .
+Q258820,Rishi,P27,Q668,India,Rishi is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q269927,David Mamet,P19,Q1297,Chicago,David Mamet was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q25320,Langevin,P101,Q413,physics,Langevin works in the field of [MASK] .,<ENT0> works in the field of <ENT1> .
+Q1677239,Jack Wiebe,P27,Q16,Canadian,Jack Wiebe is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q19673,Gore,P19,Q61,Washington DC,Gore was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q1380793,Gratien Gélinas,P20,Q340,Montreal,Gratien Gélinas died in [MASK] .,<ENT0> died in <ENT1> .
+Q515606,Efraim Sevela,P106,Q28389,screenwriter,Efraim Sevela is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1770335,George Dance,P20,Q84,London,George Dance died in [MASK] .,<ENT0> died in <ENT1> .
+Q714,Stevie Wonder,P136,Q37073,pop,Stevie Wonder plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q1393455,Jacques Parizeau,P106,Q188094,economist,Jacques Parizeau is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1822001,Lev Sternberg,P27,Q34266,Tsarist,Lev Sternberg is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q106126,Simone Signoret,P166,Q103618,Best Actress,Simone Signoret was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q151608,Claudio Abbado,P27,Q38,Italian,Claudio Abbado is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q5542283,George McClellan (physician),P106,Q774306,surgeon,George McClellan (physician) is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q12658,Wilhelm Ostwald,P27,Q183,Germany,Wilhelm Ostwald is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q20710,Jean-Martin Charcot,P106,Q212980,psychologist,Jean-Martin Charcot is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1398208,Fred Jüssi,P106,Q864503,biologist,Fred Jüssi is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q191819,George Martin,P607,Q362,World War II,George Martin participated in the conflict of [MASK] .,<ENT0> participated in the conflict of <ENT1> .
+Q76,Barack Obama,P27,Q30,United States,Barack Obama is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q13888,Luchino Visconti,P19,Q490,Milan,Luchino Visconti was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q102585,Fichte,P106,Q4964182,philosopher,Fichte is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q33977,Jules Verne,P27,Q142,France,Jules Verne is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q1353698,Erico Menczer,P1412,Q652,Italian,Erico Menczer translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q5163560,Constance Mabel Winchell,P108,Q49088,Columbia University,Constance Mabel Winchell works for [MASK] .,<ENT0> works for <ENT1> .
+Q43720,Pius IX,P106,Q193391,diplomat,Pius IX is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q121374,Pia Gyger,P106,Q212980,psychologist,Pia Gyger is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q234928,"James Tiptree, Jr.",P106,Q212980,psychologist,"James Tiptree, Jr. is a [MASK] by profession .",<ENT0> is a <ENT1> by profession .
+Q5407616,Eugene P. Watson,P106,Q182436,librarian,Eugene P. Watson is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q169577,Ernest Lawrence,P101,Q413,physics,Ernest Lawrence works in the field of [MASK] .,<ENT0> works in the field of <ENT1> .
+Q228822,Ruth Benedict,P106,Q4773904,anthropologist,Ruth Benedict is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q40715,Jennifer Lopez,P106,Q33999,actor,Jennifer Lopez is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q625515,Menachem Elon,P106,Q133485,rabbi,Menachem Elon is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q34670,Camus,P1411,Q37922,Nobel Prize,Camus was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q79025,Walter Scott,P106,Q6625963,novelist,Walter Scott is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1005945,Silvio D'Amico,P551,Q220,"Rome, Italy",Silvio D'Amico resides in [MASK] .,<ENT0> resides in <ENT1> .
+Q1860397,Henk Terlingen,P19,Q727,Amsterdam,Henk Terlingen was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q154812,Weber,P1050,Q12204,tuberculosis,Weber has a medical condition of [MASK] .,<ENT0> has a medical condition of <ENT1> .
+Q432856,Steinberg,P106,Q644687,illustrator,Steinberg is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1350705,Ilmari Hannikainen,P1196,Q10737,suicide,The mode of death of Ilmari Hannikainen was [MASK] .,The mode of death of <ENT0> was <ENT1> .
+Q84412,Wilhelm Reich,P69,Q165980,Vienna,Wilhelm Reich is educated at [MASK] .,<ENT0> is educated at <ENT1> .
+Q2494,Benedict XVI,P1412,Q397,Latin,Benedict XVI translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q410,Carl Edward Sagan,P106,Q11063,astronomer,Carl Edward Sagan is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q583128,Eric Morecambe,P509,Q12152,heart attack,Eric Morecambe died due to [MASK] .,<ENT0> died due to <ENT1> .
+Q191408,Poulenc,P106,Q36834,composer,Poulenc is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q517,Napoleon,P172,Q121842,French,Napoleon belongs to the ethnic group of [MASK] .,<ENT0> belongs to the ethnic group of <ENT1> .
+Q1608254,Herbert Fields,P19,Q60,New York City,Herbert Fields was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q73579,Hugo Liepmann,P20,Q64,Berlin,Hugo Liepmann died in [MASK] .,<ENT0> died in <ENT1> .
+Q331759,Michael Hutchence,P1196,Q10737,suicide,The mode of death of Michael Hutchence was [MASK] .,The mode of death of <ENT0> was <ENT1> .
+Q44221,Sean Penn,P166,Q103916,Best Actor,Sean Penn was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q374912,Roger Planchon,P106,Q214917,playwright,Roger Planchon is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q122553,Charles II,P140,Q6423963,Anglican,Charles II is affiliated with the [MASK] religion .,<ENT0> is affiliated with the <ENT1> religion .
+Q5591792,Nils Erik Bæhrendtz,P106,Q947873,television personality,Nils Erik Bæhrendtz is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1346401,Jaki Byard,P106,Q486748,pianist,Jaki Byard is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1095011,Clancy Eccles,P106,Q183945,record producer,Clancy Eccles is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q303,Elvis Presley,P509,Q12152,heart attack,Elvis Presley died due to [MASK] .,<ENT0> died due to <ENT1> .
+Q562364,Halvard,P1412,Q9043,Norwegian,Halvard translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q37876,Natalie Portman,P106,Q3282637,executive producer,Natalie Portman is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q81960,Robert Burns,P106,Q49757,poet,Robert Burns is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q15812633,Gottfried Eichelbrönner,P106,Q131512,farmer,Gottfried Eichelbrönner is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q231942,Natalie Cole,P106,Q488205,singer-songwriter,Natalie Cole is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q2832546,Alexander Knyazhinsky,P106,Q222344,cinematographer,Alexander Knyazhinsky is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q11256,Fidel Castro,P1412,Q1321,Spanish,Fidel Castro translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q6060,50 Cent,P106,Q183945,Record Producer,50 Cent is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1398717,Jan Janský,P106,Q211346,psychiatrist,Jan Janský is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1178,Ravel,P106,Q486748,pianist,Ravel is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q3894254,Paolo Micallef,P106,Q42603,priest,Paolo Micallef is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q119798,Michael Douglas,P1411,Q103916,Best Actor,Michael Douglas was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q160435,Rietveld,P1412,Q7411,Dutch,Rietveld translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q835,Mikhail Bulgakov,P1412,Q7737,Russian,Mikhail Bulgakov translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q12706,Gorky,P1412,Q7737,Russian,Gorky translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q107130,Rajesh Khanna,P103,Q1568,Hindi,The native language of Rajesh Khanna is [MASK] .,The native language of <ENT0> is <ENT1> .
+Q2346186,Sylvia,P1303,Q6607,Guitar,Sylvia plays [MASK] .,<ENT0> plays <ENT1> .
+Q245000,George Richards Minot,P106,Q39631,physician,George Richards Minot is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q3925,Grace Kelly,P166,Q103618,Best Actress,Grace Kelly was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q1354155,Erik Solheim,P1412,Q9043,Norwegian,Erik Solheim translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q116553,Jean,P106,Q593644,chemist,Jean is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1495566,Gaston Calmette,P1412,Q150,French,Gaston Calmette translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q72984,Crosby,P166,Q103916,Best Actor,Crosby was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q57078,Adolf von Baeyer,P1411,Q44585,Chemistry,Adolf von Baeyer was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q3335,George Orwell,P106,Q6625963,novelist,George Orwell is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q8963,Johannes Kepler,P106,Q170790,mathematician,Johannes Kepler is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q126513,Steve Irwin,P106,Q947873,TV presenter,Steve Irwin is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q246303,Boucher,P106,Q1930187,journalist,Boucher is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q2494,Benedict XVI,P106,Q486748,pianist,Benedict XVI is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1350863,Knut Frydenlund,P106,Q193391,diplomat,Knut Frydenlund is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q438869,Boddaert,P1412,Q7411,Dutch,Boddaert translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q221870,Ernest Jones,P20,Q84,London,Ernest Jones died in [MASK] .,<ENT0> died in <ENT1> .
+Q45909,John Cale,P106,Q183945,record producer,John Cale is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q15214868,Jourdan Miller,P106,Q4610556,fashion model,Jourdan Miller is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q160445,Saint Boniface,P27,Q183,Germany,Saint Boniface is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q3099714,Justin Trudeau,P19,Q1930,Ottawa,Justin Trudeau was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q104081,Mickey Rooney,P106,Q245068,comedienne,Mickey Rooney is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q40531,John Wayne,P1411,Q103916,Best Actor,John Wayne was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q87684,Phil Jutzi,P1412,Q188,German language,Phil Jutzi translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q105349,Oscar Peterson,P106,Q486748,pianist,Oscar Peterson is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q55004,Weill,P136,Q1344,opera,Weill plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q2001,Stanley Kubrick,P106,Q2526255,Film director,Stanley Kubrick is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q248207,Rick James,P1303,Q46185,bass,Rick James plays [MASK] .,<ENT0> plays <ENT1> .
+Q7732,Louis XVI,P140,Q9592,Catholic priest,Louis XVI is affiliated with the [MASK] religion .,<ENT0> is affiliated with the <ENT1> religion .
+Q1347312,Marlon Williams,P19,Q60,New York City,Marlon Williams was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q324021,Karl Girardet,P106,Q644687,illustrator,Karl Girardet is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q109757,Ilse Schwidetzky,P106,Q4773904,anthropologist,Ilse Schwidetzky is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q150767,Benjamin Britten,P1303,Q5994,piano,Benjamin Britten plays [MASK] .,<ENT0> plays <ENT1> .
+Q907933,Endel Tulving,P106,Q212980,Psychologist,Endel Tulving is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q7732,Louis XVI,P106,Q82955,statesman,Louis XVI is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1691349,Joe Bushkin,P136,Q8341,jazz,Joe Bushkin plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q95532,Louis Stromeyer,P27,Q183,Germany,Louis Stromeyer is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q1345434,Jonny King,P106,Q40348,attorney,Jonny King is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1510503,Peter Paul Prabhu,P27,Q668,India,Peter Paul Prabhu is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q9317,John Maynard Keynes,P106,Q188094,economist,John Maynard Keynes is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q436712,Ben Elton,P27,Q408,Australia,Ben Elton is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q57075,Fritz Haber,P166,Q44585,Chemistry,Fritz Haber was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q732135,Chrisye,P509,Q47912,lung cancer,Chrisye died due to [MASK] .,<ENT0> died due to <ENT1> .
+Q1119725,Albert Abicht,P106,Q131512,farmer,Albert Abicht is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1292482,Edward Hartwig,P106,Q33231,photographer,Edward Hartwig is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1641658,Louis Dangeard,P106,Q520549,geologist,Louis Dangeard is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1701119,John Monroe Van Vleck,P106,Q11063,astronomer,John Monroe Van Vleck is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q25089,Woody Allen,P1411,Q103916,Best Actor,Woody Allen was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q4376761,Nahum Trebitsch,P106,Q133485,rabbi,Nahum Trebitsch is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q216692,Ludvig Holberg,P27,Q20,Norway,Ludvig Holberg is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q3262335,Louis Jolyon West,P20,Q65,"Los Angeles, California",Louis Jolyon West died in [MASK] .,<ENT0> died in <ENT1> .
+Q1606589,Henry Simons,P106,Q188094,economist,Henry Simons is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q128746,Irving Berlin,P607,Q361,World War I,Irving Berlin participated in the conflict of [MASK] .,<ENT0> participated in the conflict of <ENT1> .
+Q1691615,Joe Sullivan,P1303,Q5994,piano,Joe Sullivan plays [MASK] .,<ENT0> plays <ENT1> .
+Q92823,Edward Feigenbaum,P106,Q82594,computer scientist,Edward Feigenbaum is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q233541,"Lisa ""Left Eye"" Lopes",P106,Q753110,songwriter,"Lisa ""Left Eye"" Lopes is a [MASK] by profession .",<ENT0> is a <ENT1> by profession .
+Q9916,Eisenhower,P39,Q11696,White House,Eisenhower has the position of [MASK] .,<ENT0> has the position of <ENT1> .
+Q160852,Gladstone,P463,Q123885,Royal Society,Gladstone is a member of [MASK] .,<ENT0> is a member of <ENT1> .
+Q7724,August Strindberg,P1412,Q9027,Swedish,August Strindberg translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q141114,Sergei Dovlatov,P103,Q7737,Russian,The native language of Sergei Dovlatov is [MASK] .,The native language of <ENT0> is <ENT1> .
+Q8017631,William Robert Ming,P106,Q40348,attorney,William Robert Ming is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q155790,Wigner,P108,Q21578,Princeton University,Wigner works for [MASK] .,<ENT0> works for <ENT1> .
+Q155790,Wigner,P106,Q170790,mathematician,Wigner is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1340,Vivaldi,P136,Q1344,opera,Vivaldi plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q101740,Benoît Mandelbrot,P1412,Q150,French,Benoît Mandelbrot translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q4593,Rajiv Gandhi,P106,Q82955,politician,Rajiv Gandhi is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q78475,Berg,P937,Q1741,Vienna,Berg used to work in [MASK] .,<ENT0> used to work in <ENT1> .
+Q133622,Tigris,P106,Q4773904,anthropologist,Tigris is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q557,Patti Smith,P1303,Q6607,guitar,Patti Smith plays [MASK] .,<ENT0> plays <ENT1> .
+Q3656091,František Šorm,P106,Q593644,chemist,František Šorm is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q371918,Eugenio Beltrami,P1412,Q652,Italian,Eugenio Beltrami translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q3656091,František Šorm,P509,Q12152,heart attack,František Šorm died due to [MASK] .,<ENT0> died due to <ENT1> .
+Q681007,George Gilbert Scott,P106,Q42973,architect,George Gilbert Scott is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q105798,Johannes Ranke,P106,Q4773904,anthropologist,Johannes Ranke is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q162667,Glen Campbell,P136,Q37073,pop,Glen Campbell plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q233355,Robert Sanderson Mulliken,P463,Q123885,ForMemRS,Robert Sanderson Mulliken is a member of [MASK] .,<ENT0> is a member of <ENT1> .
+Q762,Leonardo da Vinci,P1412,Q652,Italian,Leonardo da Vinci translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q102804,Henri Moissan,P1411,Q44585,Chemistry,Henri Moissan was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q190572,Vicente Fox,P106,Q188094,economist,Vicente Fox is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q125121,Aretha Franklin,P551,Q12439,Detroit,Aretha Franklin resides in [MASK] .,<ENT0> resides in <ENT1> .
+Q37030,Mann,P106,Q6625963,novelist,Mann is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q48368,José Joaquín Fernández de Lizardi,P1050,Q12204,tuberculosis,José Joaquín Fernández de Lizardi has a medical condition of [MASK] .,<ENT0> has a medical condition of <ENT1> .
+Q201347,Torbern Olof Bergman,P1412,Q9027,Swedish,Torbern Olof Bergman translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q14949408,John Hall Archer,P106,Q182436,librarian,John Hall Archer is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q483376,Loreen,P136,Q37073,pop,Loreen plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q162667,Glen Campbell,P1303,Q46185,bass,Glen Campbell plays [MASK] .,<ENT0> plays <ENT1> .
+Q162667,Glen Campbell,P1303,Q46185,bass,Glen Campbell plays [MASK] .,<ENT0> plays <ENT1> .
+Q321395,Humbert Balsan,P106,Q3282637,film producer,Humbert Balsan is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q765165,Brezhnev,P509,Q12152,heart attack,Brezhnev died due to [MASK] .,<ENT0> died due to <ENT1> .
+Q152452,Gunnar Myrdal,P27,Q34,Swedish,Gunnar Myrdal is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q9364,Sartre,P166,Q37922,Nobel Prize,Sartre was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q3734287,Eugenio Bava,P106,Q222344,cinematographer,Eugenio Bava is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q173585,Jessica Lange,P166,Q103618,Best Actress,Jessica Lange was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q5504818,Frits Warmolt Went,P103,Q7411,Dutch,The native language of Frits Warmolt Went is [MASK] .,The native language of <ENT0> is <ENT1> .
+Q132524,Ayn Rand,P27,Q34266,Russia,Ayn Rand is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q937,Einstein,P166,Q38104,Physics,Einstein was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q438016,Sebald Justinus Brugmans,P106,Q39631,physician,Sebald Justinus Brugmans is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q128633,William Lyon Mackenzie King,P937,Q1930,Ottawa,William Lyon Mackenzie King used to work in [MASK] .,<ENT0> used to work in <ENT1> .
+Q657828,Joseph Ruttenberg,P166,Q131520,cinematography,Joseph Ruttenberg was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q46599,Mikhail Lermontov,P19,Q649,Moscow,Mikhail Lermontov was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q315547,Keith Urban,P1303,Q6607,guitar,Keith Urban plays [MASK] .,<ENT0> plays <ENT1> .
+Q7317,Giuseppe Verdi,P136,Q1344,opera,Giuseppe Verdi plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q1394,Lenin,P27,Q34266,Russia,Lenin is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q347528,Liberace,P1303,Q5994,piano,Liberace plays [MASK] .,<ENT0> plays <ENT1> .
+Q179051,Kareem Abdul-Jabbar,P106,Q33999,actor,Kareem Abdul-Jabbar is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q34474,Aleksandr Solzhenitsyn,P27,Q15180,Soviet,Aleksandr Solzhenitsyn is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q46096,Mendelssohn,P119,Q64,Berlin,Mendelssohn was buried in [MASK] .,<ENT0> was buried in <ENT1> .
+Q125249,William James,P1412,Q1860,English,William James translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q730029,John de Brito,P106,Q219477,missionary,John de Brito is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q880932,Horace Hildreth,P509,Q12152,heart attack,Horace Hildreth died due to [MASK] .,<ENT0> died due to <ENT1> .
+Q935,Newton,P140,Q6423963,Anglican,Newton is affiliated with the [MASK] religion .,<ENT0> is affiliated with the <ENT1> religion .
+Q154083,Henry van de Velde,P1412,Q7411,Dutch,Henry van de Velde translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q40356,Joseph Deniker,P106,Q4773904,anthropologist,Joseph Deniker is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q210564,Michael VII,P106,Q42603,priest,Michael VII is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1335915,John Alcott,P509,Q12152,heart attack,John Alcott died due to [MASK] .,<ENT0> died due to <ENT1> .
+Q48226,Ralph Waldo Emerson,P19,Q100,Boston,Ralph Waldo Emerson was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q240523,Swizz Beatz,P19,Q60,"New York City, New York",Swizz Beatz was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q1384103,Per Lasson Krohg,P27,Q20,Norwegian,Per Lasson Krohg is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q36740,Aung San Suu Kyi,P106,Q82955,politician,Aung San Suu Kyi is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q2832546,Alexander Knyazhinsky,P19,Q649,Moscow,Alexander Knyazhinsky was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q3925,Grace Kelly,P106,Q33999,actress,Grace Kelly is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q239917,Tina Arena,P27,Q408,Australia,Tina Arena is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q9047,Gottfried Leibniz,P937,Q64,Berlin,Gottfried Leibniz used to work in [MASK] .,<ENT0> used to work in <ENT1> .
+Q215394,Gotthold Salomon,P1412,Q188,High German,Gotthold Salomon translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q718098,Alexandre Mnouchkine,P106,Q3282637,film producer,Alexandre Mnouchkine is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q123389,Robert Pinget,P27,Q39,Switzerland,Robert Pinget is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q3370250,Paul-Antoine Giguère,P27,Q16,Canada,Paul-Antoine Giguère is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q30876,Yash Chopra,P27,Q668,India,Yash Chopra is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q1365463,Gustaf Molander,P20,Q1754,Stockholm,Gustaf Molander died in [MASK] .,<ENT0> died in <ENT1> .
+Q28614,Garry Kasparov,P1412,Q7737,Russian,Garry Kasparov translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q1351182,Eric Cross (cinematographer),P19,Q84,London,Eric Cross (cinematographer) was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q318475,Randy Newman,P136,Q11399,rock,Randy Newman plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q290572,Nagireddy,P27,Q668,India,Nagireddy is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q126633,Marjane Satrapi,P1412,Q150,French,Marjane Satrapi translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q747018,Rogier Verbeek,P103,Q7411,Dutch,The native language of Rogier Verbeek is [MASK] .,The native language of <ENT0> is <ENT1> .
+Q56008,Tim Burton,P106,Q2526255,film director,Tim Burton is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q40904,Werner Heisenberg,P1411,Q38104,Nobel laureate,Werner Heisenberg was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q742,Jean Racine,P106,Q214917,playwright,Jean Racine is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q205850,Franco Modigliani,P106,Q188094,economist,Franco Modigliani is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q3256698,Louie Vega,P106,Q130857,DJ,Louie Vega is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q303,Elvis,P1303,Q6607,guitar,Elvis plays [MASK] .,<ENT0> plays <ENT1> .
+Q4265127,Anna Loginova,P106,Q4610556,fashion model,Anna Loginova is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q19848,Lady Gaga,P106,Q183945,record producer,Lady Gaga is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q131240,Anna Politkovskaya,P106,Q1930187,journalist,Anna Politkovskaya is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q41148,Martin Scorsese,P140,Q9592,Roman Catholic,Martin Scorsese is affiliated with the [MASK] religion .,<ENT0> is affiliated with the <ENT1> religion .
+Q562364,Halvard Manthey Lange,P106,Q193391,diplomat,Halvard Manthey Lange is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1063412,Ranbir Kapoor,P27,Q668,India,Ranbir Kapoor is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q40787,Tsar Nicholas II,P607,Q361,First World War,Tsar Nicholas II participated in the conflict of [MASK] .,<ENT0> participated in the conflict of <ENT1> .
+Q70326,Beaumarchais,P19,Q90,Paris,Beaumarchais was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q6774114,Marta Esther Rocafort-Altuzarra,P106,Q4610556,fashion model,Marta Esther Rocafort-Altuzarra is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q108510,James Garner,P551,Q65,Los Angeles,James Garner resides in [MASK] .,<ENT0> resides in <ENT1> .
+Q2093402,Pierre Dubreuil,P27,Q142,France,Pierre Dubreuil is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q1405,Augustus,P106,Q82955,politician,Augustus is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q115506,Eugen Bleuler,P27,Q39,Swiss,Eugen Bleuler is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q233985,Luis Federico Leloir,P106,Q39631,physician,Luis Federico Leloir is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q185777,Alexis Carrel,P106,Q774306,surgeon,Alexis Carrel is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q25161,Roald Dahl,P106,Q28389,screenwriter,Roald Dahl is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q130311,George Michael,P136,Q37073,popular music,George Michael plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q1047,Nehru,P1412,Q1568,Hindi,Nehru translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q72984,Crosby,P136,Q37073,pop,Crosby plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q237825,John Polanyi,P551,Q172,Toronto,John Polanyi resides in [MASK] .,<ENT0> resides in <ENT1> .
+Q4226286,Aleksei Kozhevnikov,P106,Q211346,psychiatrist,Aleksei Kozhevnikov is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q216924,Glenn Gould,P106,Q486748,pianist,Glenn Gould is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q191966,Gene Wilder,P106,Q245068,comedian,Gene Wilder is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q179090,Aaron Burr,P69,Q21578,Princeton,Aaron Burr is educated at [MASK] .,<ENT0> is educated at <ENT1> .
+Q1347598,Sławomir Idziak,P106,Q222344,cinematographer,Sławomir Idziak is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q179680,Alfred de Musset,P106,Q49757,poet,Alfred de Musset is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q76587,Franz Nissl,P20,Q1726,Munich,Franz Nissl died in [MASK] .,<ENT0> died in <ENT1> .
+Q503318,Boussingault,P106,Q593644,chemist,Boussingault is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q3294068,Mark Eyking,P27,Q16,Canadian,Mark Eyking is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q36949,Robert De Niro,P106,Q3282637,executive producer,Robert De Niro is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q230138,Tatum,P19,Q65,Los Angeles,Tatum was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q104607,Huxley,P106,Q169470,Physicist,Huxley is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q6860747,Milsom Rees,P106,Q774306,surgeon,Milsom Rees is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1275039,El-P,P106,Q183945,record producer,El-P is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q169150,"Alexandre Dumas, fils",P106,Q214917,playwright,"Alexandre Dumas, fils is a [MASK] by profession .",<ENT0> is a <ENT1> by profession .
+Q379580,John Muir,P20,Q65,Los Angeles,John Muir died in [MASK] .,<ENT0> died in <ENT1> .
+Q81244,Karl Popper,P106,Q4964182,philosopher,Karl Popper is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q331759,Michael Hutchence,P136,Q11399,rock,Michael Hutchence plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q65989,Wolfgang Pauli,P1411,Q38104,Nobel Laureate,Wolfgang Pauli was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q11617,Aaliyah,P740,Q12439,Detroit,Aaliyah was founded in [MASK] .,<ENT0> was founded in <ENT1> .
+Q372460,Måns Zelmerlöw,P106,Q947873,television presenter,Måns Zelmerlöw is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q44221,Sean Penn,P166,Q103916,Best Actor,Sean Penn was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q312348,Thurgood Marshall,P106,Q40348,attorney,Thurgood Marshall is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q517,Napoleon,P1412,Q150,French,Napoleon translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q254,Mozart,P106,Q486748,pianist,Mozart is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q141114,Sergei Dovlatov,P27,Q15180,USSR,Sergei Dovlatov is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q3098889,Gaston-Laurent Coeurdoux,P611,Q36380,Jesuit,Gaston-Laurent Coeurdoux belongs to the religious order of [MASK] .,<ENT0> belongs to the religious order of <ENT1> .
+Q2611253,Camille Bulcke,P611,Q36380,Jesuit,Camille Bulcke belongs to the religious order of [MASK] .,<ENT0> belongs to the religious order of <ENT1> .
+Q248207,Rick James,P106,Q183945,music producer,Rick James is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q601820,Julia Morgan,P27,Q30,American,Julia Morgan is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q121373,Wilhelm Decker,P607,Q361,First World War,Wilhelm Decker participated in the conflict of [MASK] .,<ENT0> participated in the conflict of <ENT1> .
+Q34296,Woodrow Wilson,P1411,Q35637,Nobel Prize,Woodrow Wilson was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q298255,Rob Zombie,P1303,Q6607,guitar,Rob Zombie plays [MASK] .,<ENT0> plays <ENT1> .
+Q93157,Eugene O'Neill,P106,Q214917,playwright,Eugene O'Neill is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q997,Andrei Sakharov,P20,Q649,Moscow,Andrei Sakharov died in [MASK] .,<ENT0> died in <ENT1> .
+Q271676,Charles Le Brun,P106,Q42973,architect,Charles Le Brun is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q216547,Sam Houston,P106,Q40348,trial lawyer,Sam Houston is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q7604,Euler,P101,Q413,physics,Euler works in the field of [MASK] .,<ENT0> works in the field of <ENT1> .
+Q25089,Woody Allen,P106,Q3282637,film producer,Woody Allen is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q629957,Nikolaes Heinsius the Younger,P103,Q7411,Dutch,The native language of Nikolaes Heinsius the Younger is [MASK] .,The native language of <ENT0> is <ENT1> .
+Q38392,William Faulkner,P1412,Q1860,English,William Faulkner translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q159636,Joseph Priestley,P106,Q4964182,philosopher,Joseph Priestley is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q12003,Cher,P136,Q37073,pop,Cher plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q9545,Tony Blair,P937,Q84,London,Tony Blair used to work in [MASK] .,<ENT0> used to work in <ENT1> .
+Q2928057,Paul Goethals,P106,Q42603,priest,Paul Goethals is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q6762868,Marie Helvin,P106,Q4610556,fashion model,Marie Helvin is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q40531,John Wayne,P1411,Q103916,Best Actor,John Wayne was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q1047,Nehru,P106,Q82955,statesman,Nehru is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q233355,Robert Sanderson Mulliken,P106,Q169470,physicist,Robert Sanderson Mulliken is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q313073,Jonathan Edwards,P106,Q4964182,philosopher,Jonathan Edwards is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q37193,Robert Koch,P1411,Q80061,Nobel Prize,Robert Koch was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q2798546,Rolv Wesenlund,P1412,Q9043,Norwegian,Rolv Wesenlund translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q4934,Larry Page,P106,Q82594,computer scientist,Larry Page is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q7498694,Shirley Barker,P106,Q182436,librarian,Shirley Barker is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q312801,Per Gessle,P136,Q37073,pop,Per Gessle plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q1740716,Khushwant Singh,P27,Q668,India,Khushwant Singh is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q1854748,Hubert Hermans,P106,Q212980,psychologist,Hubert Hermans is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q40909,Virginia Woolf,P103,Q1860,English,The native language of Virginia Woolf is [MASK] .,The native language of <ENT0> is <ENT1> .
+Q253167,Margaux Hemingway,P106,Q4610556,fashion model,Margaux Hemingway is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q721062,Charles Wright (botanist),P69,Q13371,Harvard University,Charles Wright (botanist) is educated at [MASK] .,<ENT0> is educated at <ENT1> .
+Q5700314,Heinrich Ries,P19,Q18419,"Brooklyn, New York",Heinrich Ries was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q3172952,Jean Laigret,P106,Q864503,biologist,Jean Laigret is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q3160927,James Bain (librarian),P106,Q182436,librarian,James Bain (librarian) is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q706993,Conrad Hall,P106,Q222344,Cinematographer,Conrad Hall is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q80222,Joseph-Louis Lagrange,P106,Q170790,mathematician,Joseph-Louis Lagrange is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q157642,Arnold,P69,Q13164,Moscow State University,Arnold is educated at [MASK] .,<ENT0> is educated at <ENT1> .
+Q603103,Antonio Magliabechi,P106,Q182436,librarian,Antonio Magliabechi is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q4226286,Aleksei Kozhevnikov,P108,Q13164,Moscow,Aleksei Kozhevnikov works for [MASK] .,<ENT0> works for <ENT1> .
+Q333724,Wallace Carothers,P108,Q13371,Harvard University,Wallace Carothers works for [MASK] .,<ENT0> works for <ENT1> .
+Q251524,Oskar Klein,P27,Q34,Sweden,Oskar Klein is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q83059,Saul Bellow,P69,Q131252,Chicago,Saul Bellow is educated at [MASK] .,<ENT0> is educated at <ENT1> .
+Q37175,Johnny Depp,P136,Q11399,rock,Johnny Depp plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q9047,Leibniz,P1412,Q397,Latin,Leibniz translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q1151,Hector Berlioz,P106,Q36834,composer,Hector Berlioz is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q174957,Nina Simone,P1303,Q5994,piano,Nina Simone plays [MASK] .,<ENT0> plays <ENT1> .
+Q82840,Alvar Aalto,P106,Q42973,architect,Alvar Aalto is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q106418,Catherine Deneuve,P1411,Q103618,Best Actress,Catherine Deneuve was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q282722,Trent Reznor,P136,Q11399,rock,Trent Reznor plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q33817,Hillary,P607,Q362,World War II,Hillary participated in the conflict of [MASK] .,<ENT0> participated in the conflict of <ENT1> .
+Q1911638,Maurizio Costanzo,P19,Q220,Rome,Maurizio Costanzo was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q1063412,Ranbir Kapoor,P551,Q1156,Bombay,Ranbir Kapoor resides in [MASK] .,<ENT0> resides in <ENT1> .
+Q121507,Alicia Keys,P264,Q183387,Columbia Records,Alicia Keys is represented by music label [MASK] .,<ENT0> is represented by music label <ENT1> .
+Q8017631,William Robert Ming,P20,Q1297,Chicago,William Robert Ming died in [MASK] .,<ENT0> died in <ENT1> .
+Q15088261,"Daniel Knox, 6th Earl of Ranfurly",P607,Q362,Second World War,"Daniel Knox, 6th Earl of Ranfurly participated in the conflict of [MASK] .",<ENT0> participated in the conflict of <ENT1> .
+Q14602243,Gil Dozier,P106,Q131512,farmer,Gil Dozier is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q5115724,Chuck Stone,P119,Q1345,Philadelphia,Chuck Stone was buried in [MASK] .,<ENT0> was buried in <ENT1> .
+Q108597,Dave Brubeck,P241,Q9212,US Army,Dave Brubeck is the military branch of [MASK] .,<ENT0> is the military branch of <ENT1> .
+Q2976927,Claude Aveneau,P611,Q36380,Jesuit,Claude Aveneau belongs to the religious order of [MASK] .,<ENT0> belongs to the religious order of <ENT1> .
+Q2499629,Marchand,P27,Q142,France,Marchand is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q1987739,Herman Dooyeweerd,P19,Q727,Amsterdam,Herman Dooyeweerd was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q273233,Robeson,P20,Q1345,Philadelphia,Robeson died in [MASK] .,<ENT0> died in <ENT1> .
+Q42398,Mikhail Sholokhov,P106,Q6625963,novelist,Mikhail Sholokhov is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q15970956,Philippe Honoré (cartoonist),P106,Q1114448,cartoonist,Philippe Honoré (cartoonist) is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1215800,Lars Jansson,P1412,Q9027,Swedish,Lars Jansson translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q130311,George Michael,P264,Q183387,Columbia Records,George Michael is represented by music label [MASK] .,<ENT0> is represented by music label <ENT1> .
+Q731178,Albert Ammons,P1303,Q5994,piano,Albert Ammons plays [MASK] .,<ENT0> plays <ENT1> .
+Q298933,Cope,P20,Q1345,Philadelphia,Cope died in [MASK] .,<ENT0> died in <ENT1> .
+Q112307,Lena Horne,P136,Q8341,jazz,Lena Horne plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q7371,Fellini,P20,Q220,Rome,Fellini died in [MASK] .,<ENT0> died in <ENT1> .
+Q294531,Neil Diamond,P136,Q37073,pop,Neil Diamond plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q298035,Adolfo Bioy Casares,P103,Q1321,Spanish,The native language of Adolfo Bioy Casares is [MASK] .,The native language of <ENT0> is <ENT1> .
+Q125121,Aretha Franklin,P106,Q488205,singer-songwriter,Aretha Franklin is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q7351,Robert Schumann,P27,Q183,Germany,Robert Schumann is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q123829,George,P19,Q18419,"Brooklyn, New York",George was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q125121,Aretha Franklin,P740,Q12439,Detroit,Aretha Franklin was founded in [MASK] .,<ENT0> was founded in <ENT1> .
+Q350778,Luria,P106,Q212980,psychologist,Luria is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q83233,Jacques Cousteau,P20,Q90,Paris,Jacques Cousteau died in [MASK] .,<ENT0> died in <ENT1> .
+Q527489,Joel Dorn,P509,Q12152,heart attack,Joel Dorn died due to [MASK] .,<ENT0> died due to <ENT1> .
+Q369832,Charles Lavigerie,P27,Q142,France,Charles Lavigerie is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q40826,Knut Hamsun,P1411,Q37922,Nobel Prize,Knut Hamsun was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q2166025,Ronnie Mathews,P106,Q486748,pianist,Ronnie Mathews is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q636357,Jean de Brunhoff,P509,Q12204,tuberculosis,Jean de Brunhoff died due to [MASK] .,<ENT0> died due to <ENT1> .
+Q1987739,Herman Dooyeweerd,P1412,Q7411,Dutch,Herman Dooyeweerd translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q1405592,Bernabé Cobo,P106,Q219477,missionary,Bernabé Cobo is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q230066,Petra Marklund,P106,Q947873,television presenter,Petra Marklund is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q368486,Paul Moore,P106,Q42603,priest,Paul Moore is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q324968,Vavilov,P19,Q649,Moscow,Vavilov was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q1242,Luigi Einaudi,P20,Q220,Rome,Luigi Einaudi died in [MASK] .,<ENT0> died in <ENT1> .
+Q132489,Amartya Sen,P106,Q188094,economist,Amartya Sen is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q281763,Hans Egede,P106,Q219477,missionary,Hans Egede is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q260843,Madeleine Renaud,P106,Q33999,actress,Madeleine Renaud is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q231106,Joan Jett,P136,Q11399,rock,Joan Jett plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q963606,Mario Palanti,P570,XMLSchema#dateTime,"September 4, 1978",Mario Palanti died on [MASK] .,<ENT0> died on <ENT1> .
+Q78969,Paul Schilder,P108,Q165980,Vienna,Paul Schilder works for [MASK] .,<ENT0> works for <ENT1> .
+Q981710,Louis-Guillaume Le Monnier,P27,Q142,France,Louis-Guillaume Le Monnier is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q706993,Conrad Hall,P1411,Q131520,cinematography,Conrad Hall was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q107130,Rajesh Khanna,P1412,Q1568,Hindi,Rajesh Khanna translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q357387,Omar Sy,P1412,Q150,French,Omar Sy translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q248837,Susan Hayward,P1411,Q103618,Best Actress,Susan Hayward was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q1387374,John Jeffries,P106,Q39631,physician,John Jeffries is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1394,Lenin,P937,Q656,Leningrad,Lenin used to work in [MASK] .,<ENT0> used to work in <ENT1> .
+Q4061,Woody Guthrie,P1303,Q6607,guitar,Woody Guthrie plays [MASK] .,<ENT0> plays <ENT1> .
+Q37193,Robert Koch,P166,Q80061,Nobel Prize,Robert Koch was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q84287,Otto Wagner,P106,Q42973,architect,Otto Wagner is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q56158,Georges Bizet,P136,Q1344,opera,Georges Bizet plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q236630,Marcel Pagnol,P20,Q90,Paris,Marcel Pagnol died in [MASK] .,<ENT0> died in <ENT1> .
+Q106099,Jeanne Moreau,P19,Q90,Paris,Jeanne Moreau was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q4028,Paul Simon,P1303,Q6607,guitar,Paul Simon plays [MASK] .,<ENT0> plays <ENT1> .
+Q231911,Sofía Vergara,P103,Q1321,Spanish-language,The native language of Sofía Vergara is [MASK] .,The native language of <ENT0> is <ENT1> .
+Q78494,Arthur Koestler,P106,Q1930187,journalist,Arthur Koestler is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q107002,Evelyn Waugh,P106,Q6625963,novelist,Evelyn Waugh is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q6820178,Merrill Connally,P607,Q362,World War II,Merrill Connally participated in the conflict of [MASK] .,<ENT0> participated in the conflict of <ENT1> .
+Q345217,Lucio Fulci,P106,Q2526255,film director,Lucio Fulci is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q2261902,Luigi Francescon,P106,Q219477,missionary,Luigi Francescon is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1063412,Ranbir Kapoor,P19,Q1156,Bombay,Ranbir Kapoor was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q11806,John Adams,P39,Q11696,President,John Adams has the position of [MASK] .,<ENT0> has the position of <ENT1> .
+Q363413,Vittorio Storaro,P1412,Q652,Italian,Vittorio Storaro translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q226022,Jackie Orszaczky,P136,Q8341,jazz,Jackie Orszaczky plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q1961494,Ershov,P19,Q649,Moscow,Ershov was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q133846,George Thomson,P607,Q361,First World War,George Thomson participated in the conflict of [MASK] .,<ENT0> participated in the conflict of <ENT1> .
+Q83059,Saul Bellow,P106,Q6625963,novelist,Saul Bellow is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q190486,Willard Libby,P106,Q593644,chemist,Willard Libby is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q84386,Bruno Bettelheim,P106,Q211346,psychiatrist,Bruno Bettelheim is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1698,Serge,P20,Q90,Paris,Serge died in [MASK] .,<ENT0> died in <ENT1> .
+Q274128,Geoffrey Wilkinson,P166,Q44585,Nobel laureate,Geoffrey Wilkinson was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q188426,Roy Orbison,P136,Q11399,classic rock,Roy Orbison plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q158465,Anatoly Fomenko,P69,Q13164,Moscow State University,Anatoly Fomenko is educated at [MASK] .,<ENT0> is educated at <ENT1> .
+Q3420821,Raymond Duncan,P106,Q4964182,philosopher,Raymond Duncan is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q636357,Jean de Brunhoff,P1050,Q12204,tuberculosis,Jean de Brunhoff has a medical condition of [MASK] .,<ENT0> has a medical condition of <ENT1> .
+Q211514,Frederik van Eeden,P103,Q7411,Dutch,The native language of Frederik van Eeden is [MASK] .,The native language of <ENT0> is <ENT1> .
+Q318060,Henri Salvador,P106,Q245068,comedian,Henri Salvador is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q215305,Giulio Romano,P19,Q220,Rome,Giulio Romano was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q1146861,Cy Coleman,P551,Q60,New York City,Cy Coleman resides in [MASK] .,<ENT0> resides in <ENT1> .
+Q1776720,Tancred Ibsen,P1412,Q9043,Norwegian,Tancred Ibsen translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q3099714,Justin Trudeau,P19,Q1930,Ottawa,Justin Trudeau was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q345217,Lucio Fulci,P1412,Q652,Italian,Lucio Fulci translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q2466770,René Le Senne,P106,Q212980,psychologist,René Le Senne is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q7747,Putin,P937,Q656,St.Petersburg,Putin used to work in [MASK] .,<ENT0> used to work in <ENT1> .
+Q130742,Alanis Morissette,P19,Q1930,Ottawa,Alanis Morissette was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q318475,Randy Newman,P106,Q488205,singer-songwriter,Randy Newman is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q372570,Denniz PoP,P106,Q130857,DJ,Denniz PoP is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1154079,DJ Drama,P19,Q1345,"Philadelphia, Pennsylvania",DJ Drama was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q371844,Louis Nicolas,P611,Q36380,Jesuits,Louis Nicolas belongs to the religious order of [MASK] .,<ENT0> belongs to the religious order of <ENT1> .
+Q7604,Leonhard Euler,P27,Q34266,Russia,Leonhard Euler is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q1365463,Gustaf Molander,P27,Q34,Sweden,Gustaf Molander is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q1351247,Karl Struss,P166,Q131520,cinematography,Karl Struss was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q4234690,Anatoly Koryagin,P27,Q15180,Soviet Union,Anatoly Koryagin is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q1380793,Gratien Gélinas,P106,Q214917,playwright,Gratien Gélinas is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q210134,Kahn,P106,Q42973,architect,Kahn is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q14281,Giovanni Schiaparelli,P106,Q11063,astronomer,Giovanni Schiaparelli is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q8753,Enrico Fermi,P106,Q169470,physicist,Enrico Fermi is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q123469,Sinclair Lewis,P106,Q6625963,novelist,Sinclair Lewis is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q61610,Ami Boué,P937,Q1741,Vienna,Ami Boué used to work in [MASK] .,<ENT0> used to work in <ENT1> .
+Q1264273,Eddie Harris,P136,Q8341,jazz,Eddie Harris plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q40096,Will Smith,P136,Q11401,hip hop music,Will Smith plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q352,Hitler,P509,Q10737,suicide,Hitler died due to [MASK] .,<ENT0> died due to <ENT1> .
+Q71031,Robert Wilhelm Bunsen,P27,Q183,Germany,Robert Wilhelm Bunsen is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q181917,David Niven,P1411,Q103916,Best Actor,David Niven was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q110974,James Black,P106,Q39631,physician,James Black is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1960014,Grigoriy Gorin,P106,Q214917,playwright,Grigoriy Gorin is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q974089,Vanier,P27,Q16,Canada,Vanier is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q4351322,Joaquín Larraín Gandarillas,P106,Q42603,priest,Joaquín Larraín Gandarillas is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q321339,Paul Oakenfold,P106,Q130857,disc jockey,Paul Oakenfold is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1452319,Fred Gallagher (cartoonist),P106,Q1114448,cartoonist,Fred Gallagher (cartoonist) is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q707148,Ulisse Dini,P1412,Q652,Italian,Ulisse Dini translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q62973,Friedrich Gilly,P509,Q12204,tuberculosis,Friedrich Gilly died due to [MASK] .,<ENT0> died due to <ENT1> .
+Q834621,Bono,P106,Q488205,singer-songwriter,Bono is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1971155,Tony Attwood,P27,Q408,Australia,Tony Attwood is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q44301,Jim Morrison,P27,Q30,American,Jim Morrison is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q1043,Carl von Linné,P106,Q39631,physician,Carl von Linné is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q716099,Hopsin,P740,Q65,"Los Angeles, California",Hopsin was founded in [MASK] .,<ENT0> was founded in <ENT1> .
+Q298255,Rob Zombie,P106,Q2526255,film director,Rob Zombie is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1975172,Rolf Harris,P106,Q947873,television personality,Rolf Harris is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q553522,Georges Catroux,P607,Q362,World War II,Georges Catroux participated in the conflict of [MASK] .,<ENT0> participated in the conflict of <ENT1> .
+Q5809,"Ernesto ""Che"" Guevara",P1412,Q1321,Spanish,"Ernesto ""Che"" Guevara translating pled spoken callback fluent [MASK] .",<ENT0> translating pled spoken callback fluent <ENT1> .
+Q41042,Harold Pinter,P166,Q37922,Nobel Laureate,Harold Pinter was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q34743,Rudyard Kipling,P166,Q37922,Nobel,Rudyard Kipling was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q248207,Rick James,P570,XMLSchema#dateTime,"August 6, 2004",Rick James died on [MASK] .,<ENT0> died on <ENT1> .
+Q128085,Georg Solti,P106,Q486748,pianist,Georg Solti is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q224650,Sarah McLachlan,P106,Q488205,singer-songwriter,Sarah McLachlan is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q193803,Roger Penrose,P106,Q169470,physicist,Roger Penrose is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q40787,Tsar Nicholas II,P607,Q361,First World War,Tsar Nicholas II participated in the conflict of [MASK] .,<ENT0> participated in the conflict of <ENT1> .
+Q41142,Jane Fonda,P1411,Q103618,Best Actress,Jane Fonda was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q115490,Tadeus Reichstein,P166,Q80061,Nobel Prize,Tadeus Reichstein was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q274143,Padraic Pearse,P106,Q1930187,journalist,Padraic Pearse is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q107933,James Belushi,P106,Q245068,comedian,James Belushi is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1479745,Vance Plauche,P607,Q361,World War I,Vance Plauche participated in the conflict of [MASK] .,<ENT0> participated in the conflict of <ENT1> .
+Q2808,Elton John,P136,Q11399,rock,Elton John plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q106418,Catherine Deneuve,P172,Q121842,French,Catherine Deneuve belongs to the ethnic group of [MASK] .,<ENT0> belongs to the ethnic group of <ENT1> .
+Q204092,Willie Dixon,P740,Q1297,Chicago,Willie Dixon was founded in [MASK] .,<ENT0> was founded in <ENT1> .
+Q173714,Euwe,P19,Q727,Amsterdam,Euwe was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q1394,Lenin,P551,Q656,Leningrad,Lenin resides in [MASK] .,<ENT0> resides in <ENT1> .
+Q215260,F. C. D. Wyneken,P106,Q219477,missionary,F. C. D. Wyneken is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q72911,Oliver Hardy,P106,Q245068,comedian,Oliver Hardy is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q231479,Ai Otsuka,P136,Q37073,pop,Ai Otsuka plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q6711,Allen Ginsberg,P20,Q60,New York City,Allen Ginsberg died in [MASK] .,<ENT0> died in <ENT1> .
+Q708668,Arthur John Birch,P27,Q408,Australia,Arthur John Birch is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q946300,Henri Caïn,P106,Q214917,dramatist,Henri Caïn is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q468149,Robert Swinhoe,P106,Q864503,biologist,Robert Swinhoe is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q71031,Robert Bunsen,P106,Q593644,chemist,Robert Bunsen is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1372602,Gerard Joling,P106,Q947873,television presenter,Gerard Joling is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q249792,Stig Claesson,P19,Q1754,Stockholm,Stig Claesson was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q471529,Ludovico Antonio Muratori,P106,Q182436,librarian,Ludovico Antonio Muratori is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q15001,Alexander Griboyedov,P27,Q34266,Russia,Alexander Griboyedov is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q249313,Desmoulins,P106,Q1930187,journalist,Desmoulins is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q722150,Alexander Roshal,P19,Q649,Moscow,Alexander Roshal was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q521209,Yury Shchekochikhin,P20,Q649,Moscow,Yury Shchekochikhin died in [MASK] .,<ENT0> died in <ENT1> .
+Q207947,Vaughan Williams,P607,Q361,World War I,Vaughan Williams participated in the conflict of [MASK] .,<ENT0> participated in the conflict of <ENT1> .
+Q229295,Gigliola Cinquetti,P106,Q947873,TV presenter,Gigliola Cinquetti is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1038976,Hovland,P106,Q212980,psychologist,Hovland is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q3652135,Kirk Bryan (geologist),P69,Q49112,Yale University,Kirk Bryan (geologist) is educated at [MASK] .,<ENT0> is educated at <ENT1> .
+Q151173,Murat,P103,Q150,French,The native language of Murat is [MASK] .,The native language of <ENT0> is <ENT1> .
+Q122427,Édouard-Henri Avril,P106,Q644687,illustrator,Édouard-Henri Avril is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q945437,Marshall Meyer,P106,Q133485,rabbi,Marshall Meyer is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q5719649,Henry Cohen,P19,Q84,London,Henry Cohen was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q717622,Daniel Hulet,P106,Q1114448,cartoonist,Daniel Hulet is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q133846,Sir George Paget Thomson,P463,Q123885,FRS,Sir George Paget Thomson is a member of [MASK] .,<ENT0> is a member of <ENT1> .
+Q1154079,DJ Drama,P106,Q130857,DJ,DJ Drama is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q55409,Mehboob Khan,P106,Q3282637,film producer,Mehboob Khan is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q154717,Robert Woodruff Anderson,P106,Q214917,playwright,Robert Woodruff Anderson is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q562364,Halvard Manthey Lange,P27,Q20,Norwegian,Halvard Manthey Lange is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q726764,Luigi Bianchi,P106,Q170790,mathematician,Luigi Bianchi is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q15935,Kanye West,P106,Q753110,songwriter,Kanye West is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q34189,Pablo Neruda,P1412,Q1321,Spanish,Pablo Neruda translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q72984,Crosby,P136,Q37073,pop,Crosby plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q181529,Herbert Simon,P69,Q131252,Chicago,Herbert Simon is educated at [MASK] .,<ENT0> is educated at <ENT1> .
+Q44197,Robespierre,P106,Q1930187,journalist,Robespierre is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1544666,Green Velvet,P106,Q130857,DJ,Green Velvet is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q367634,Big Sean,P740,Q12439,Detroit,Big Sean was founded in [MASK] .,<ENT0> was founded in <ENT1> .
+Q155794,Hans Bethe,P101,Q413,Physics,Hans Bethe works in the field of [MASK] .,<ENT0> works in the field of <ENT1> .
+Q936935,Johan van der Keuken,P103,Q7411,Dutch,The native language of Johan van der Keuken is [MASK] .,The native language of <ENT0> is <ENT1> .
+Q712359,Roger Miller,P106,Q488205,songwriter,Roger Miller is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q352087,Lee Ranaldo,P106,Q183945,record producer,Lee Ranaldo is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1707966,Joe Schenck,P20,Q65,"Los Angeles, California",Joe Schenck died in [MASK] .,<ENT0> died in <ENT1> .
+Q48983,Linus Pauling,P166,Q35637,Nobel Peace Prize,Linus Pauling was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q467434,Gunilla Bergström,P937,Q1754,Stockholm,Gunilla Bergström used to work in [MASK] .,<ENT0> used to work in <ENT1> .
+Q81130,Anders Celsius,P1412,Q9027,Swedish,Anders Celsius translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q3121094,Gustave Frédéric Dollfus,P106,Q520549,geologist,Gustave Frédéric Dollfus is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q466154,Jack E. Cox,P106,Q222344,cinematographer,Jack E. Cox is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q4141717,Yaroslav Golovanov,P103,Q7737,Russian,The native language of Yaroslav Golovanov is [MASK] .,The native language of <ENT0> is <ENT1> .
+Q302176,De la Beche,P106,Q520549,geologist,De la Beche is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q3095467,Gardiner Means,P69,Q13371,Harvard University,Gardiner Means is educated at [MASK] .,<ENT0> is educated at <ENT1> .
+Q4235,Miley,P1412,Q1860,English,Miley translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q80956,Svante Arrhenius,P166,Q44585,chemistry,Svante Arrhenius was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q43600,Matthew,P106,Q42603,priest,Matthew is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q80596,Arthur Miller,P106,Q214917,playwright,Arthur Miller is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q436856,Björn Landström,P106,Q644687,illustrator,Björn Landström is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q13888,Luchino Visconti,P20,Q220,Rome,Luchino Visconti died in [MASK] .,<ENT0> died in <ENT1> .
+Q1339524,Joe Sample,P136,Q8341,jazz,Joe Sample plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q81447,Aldous Huxley,P1412,Q1860,English,Aldous Huxley translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q989,Pope John Paul II,P140,Q9592,Roman Catholic,Pope John Paul II is affiliated with the [MASK] religion .,<ENT0> is affiliated with the <ENT1> religion .
+Q184226,Gilles Deleuze,P106,Q4964182,philosopher,Gilles Deleuze is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q122003,Julio Iglesias,P1412,Q1321,Spanish,Julio Iglesias translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q4768875,Anne Warner (scientist),P463,Q123885,FRS,Anne Warner (scientist) is a member of [MASK] .,<ENT0> is a member of <ENT1> .
+Q106126,Simone Signoret,P1411,Q103618,Best Actress,Simone Signoret was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q733140,Chofetz Chaim,P106,Q133485,Rav,Chofetz Chaim is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q455071,Axel von Fersen,P1412,Q9027,Swedish,Axel von Fersen translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q106126,Simone Signoret,P27,Q142,France,Simone Signoret is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q11641,Grace Murray Hopper,P69,Q49112,Yale University,Grace Murray Hopper is educated at [MASK] .,<ENT0> is educated at <ENT1> .
+Q37767,Eliot,P106,Q49757,poet,Eliot is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1255637,Gustaaf Adolf Frederik Molengraaff,P106,Q520549,geologist,Gustaaf Adolf Frederik Molengraaff is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q2211909,Gene Gnocchi,P106,Q947873,television presenter,Gene Gnocchi is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q5077076,Charles E. Dibble,P569,XMLSchema#dateTime,18 August 1909,Charles E. Dibble was born on [MASK] .,<ENT0> was born on <ENT1> .
+Q157255,Merton Miller,P106,Q188094,economist,Merton Miller is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q206534,Stephen Crane,P509,Q12204,tuberculosis,Stephen Crane died due to [MASK] .,<ENT0> died due to <ENT1> .
+Q2599,Paul,P1303,Q46185,bass guitar,Paul plays [MASK] .,<ENT0> plays <ENT1> .
+Q586650,Antoine Louis,P1412,Q150,French,Antoine Louis translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q37970,Gregor Mendel,P140,Q9592,Catholic priest,Gregor Mendel is affiliated with the [MASK] religion .,<ENT0> is affiliated with the <ENT1> religion .
+Q150630,Golgi,P166,Q80061,Nobel laureate,Golgi was awarded [MASK] .,<ENT0> was awarded <ENT1> .
+Q359311,Richard D. Zanuck,P106,Q3282637,film producer,Richard D. Zanuck is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q4523835,Alexander E. Shilov,P106,Q593644,chemist,Alexander E. Shilov is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q4166395,Mikhail Donskoy,P27,Q15180,Soviet,Mikhail Donskoy is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q722150,Alexander Roshal,P20,Q649,Moscow,Alexander Roshal died in [MASK] .,<ENT0> died in <ENT1> .
+Q922700,Richard E. Cunha,P106,Q222344,cinematographer,Richard E. Cunha is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q55409,Mehboob Khan,P27,Q668,India,Mehboob Khan is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q62766,Jay-Z,P136,Q11401,rap,Jay-Z plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q151098,Lucien,P140,Q9592,Roman Catholic,Lucien is affiliated with the [MASK] religion .,<ENT0> is affiliated with the <ENT1> religion .
+Q7349,Joseph Haydn,P20,Q1741,Vienna,Joseph Haydn died in [MASK] .,<ENT0> died in <ENT1> .
+Q15897,Amy Winehouse,P106,Q488205,singer-songwriter,Amy Winehouse is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q601820,Julia Morgan,P106,Q42973,architect,Julia Morgan is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q229141,Geraldine Ferraro,P19,Q60,New York City,Geraldine Ferraro was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q7298686,Raymond Crotty,P106,Q131512,farmer,Raymond Crotty is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q76857,Franz Boas,P106,Q4773904,anthropologist,Franz Boas is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q201538,Edward Said,P106,Q1930187,journalist,Edward Said is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q315547,Keith Urban,P27,Q408,Australia,Keith Urban is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q352,Hitler,P1411,Q35637,Nobel Peace Prize,Hitler was nominated for [MASK] .,<ENT0> was nominated for <ENT1> .
+Q13888,Luchino Visconti,P1412,Q652,Italian,Luchino Visconti translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q44704,Lev Berg,P20,Q656,Leningrad,Lev Berg died in [MASK] .,<ENT0> died in <ENT1> .
+Q205456,Theo van Gogh,P20,Q727,Amsterdam,Theo van Gogh died in [MASK] .,<ENT0> died in <ENT1> .
+Q34060,Yitzhak Rabin,P172,Q7325,Jewish,Yitzhak Rabin belongs to the ethnic group of [MASK] .,<ENT0> belongs to the ethnic group of <ENT1> .
+Q34296,Woodrow Wilson,P69,Q21578,Princeton University,Woodrow Wilson is educated at [MASK] .,<ENT0> is educated at <ENT1> .
+Q4028,Paul Simon,P264,Q183387,Columbia Studios,Paul Simon is represented by music label [MASK] .,<ENT0> is represented by music label <ENT1> .
+Q1235523,Watson Cheyne,P937,Q84,London,Watson Cheyne used to work in [MASK] .,<ENT0> used to work in <ENT1> .
+Q84482,Friedrich von Wieser,P106,Q188094,economist,Friedrich von Wieser is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1692886,Johann Christian August Clarus,P106,Q774306,surgeon,Johann Christian August Clarus is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q258820,Rishi,P19,Q1156,Mumbai,Rishi was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q1555315,Gus Edson,P106,Q1114448,cartoonist,Gus Edson is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q131240,Anna Politkovskaya,P1412,Q7737,Russian,Anna Politkovskaya translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q2798546,Rolv Wesenlund,P27,Q20,Norwegian,Rolv Wesenlund is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q131706,Maria Theresa,P140,Q9592,Roman Catholic,Maria Theresa is affiliated with the [MASK] religion .,<ENT0> is affiliated with the <ENT1> religion .
+Q106529,Alain Delon,P103,Q150,French,The native language of Alain Delon is [MASK] .,The native language of <ENT0> is <ENT1> .
+Q1142513,Tigran Keosayan,P19,Q649,Moscow,Tigran Keosayan was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q6078431,Yitzhak Twersky,P20,Q100,Boston,Yitzhak Twersky died in [MASK] .,<ENT0> died in <ENT1> .
+Q2892218,Bayard Veiller,P106,Q28389,screenwriter,Bayard Veiller is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q162667,Glen Campbell,P27,Q30,American,Glen Campbell is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q9364,Jean-Paul Sartre,P69,Q209842,Paris,Jean-Paul Sartre is educated at [MASK] .,<ENT0> is educated at <ENT1> .
+Q5684618,Roy Castle,P509,Q47912,lung cancer,Roy Castle died due to [MASK] .,<ENT0> died due to <ENT1> .
+Q34424,Shakira,P103,Q1321,Spanish-language,The native language of Shakira is [MASK] .,The native language of <ENT0> is <ENT1> .
+Q110400,Victor Weisz,P106,Q1114448,cartoonist,Victor Weisz is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q483325,Ellen DeGeneres,P106,Q245068,comedian,Ellen DeGeneres is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q258820,Rishi,P1412,Q1568,Hindi,Rishi translating pled spoken callback fluent [MASK] .,<ENT0> translating pled spoken callback fluent <ENT1> .
+Q4030,Duke Ellington,P1303,Q5994,piano,Duke Ellington plays [MASK] .,<ENT0> plays <ENT1> .
+Q128121,Mick Jagger,P136,Q11399,rock,Mick Jagger plays [MASK] music .,<ENT0> plays <ENT1> music .
+Q566288,Nikolay Timofeev-Ressovsky,P27,Q15180,Soviet,Nikolay Timofeev-Ressovsky is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q183492,Margaret Atwood,P937,Q172,Toronto,Margaret Atwood used to work in [MASK] .,<ENT0> used to work in <ENT1> .
+Q76432,Rudolf Virchow,P937,Q64,Berlin,Rudolf Virchow used to work in [MASK] .,<ENT0> used to work in <ENT1> .
+Q50713,Jean Renoir,P570,XMLSchema#dateTime,12 February 1979,Jean Renoir died on [MASK] .,<ENT0> died on <ENT1> .
+Q3658762,Carl Fredrik af Wingård,P19,Q1754,Stockholm,Carl Fredrik af Wingård was born in [MASK] .,<ENT0> was born in <ENT1> .
+Q44426,Rainer Werner Fassbinder,P20,Q1726,Munich,Rainer Werner Fassbinder died in [MASK] .,<ENT0> died in <ENT1> .
+Q12801,Claude Piron,P106,Q212980,psychologist,Claude Piron is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q49074,Kurt Vonnegut,P106,Q6625963,novelist,Kurt Vonnegut is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q337185,Audie Murphy,P106,Q33999,actor,Audie Murphy is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1391982,Robbie Ross,P569,XMLSchema#dateTime,25 May 1869,Robbie Ross was born on [MASK] .,<ENT0> was born on <ENT1> .
+Q303,Elvis Presley,P241,Q9212,US Army,Elvis Presley is the military branch of [MASK] .,<ENT0> is the military branch of <ENT1> .
+Q1413,Nero,P106,Q49757,poet,Nero is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q116057,Alfred Cortot,P106,Q486748,pianist,Alfred Cortot is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q1063412,Ranbir Kapoor,P27,Q668,India,Ranbir Kapoor is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q179051,Kareem Abdul-Jabbar,P27,Q30,American,Kareem Abdul-Jabbar is [MASK] citizen .,<ENT0> is <ENT1> citizen .
+Q188426,Roy Orbison,P106,Q753110,songwriter,Roy Orbison is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q190766,Martin Ryle,P463,Q123885,FRS,Martin Ryle is a member of [MASK] .,<ENT0> is a member of <ENT1> .
+Q183509,Ilya Prigogine,P106,Q593644,chemist,Ilya Prigogine is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q4985,Herman Melville,P106,Q6625963,novelist,Herman Melville is a [MASK] by profession .,<ENT0> is a <ENT1> by profession .
+Q102454,Paul Samuelson,P69,Q13371,Harvard,Paul Samuelson is educated at [MASK] .,<ENT0> is educated at <ENT1> .

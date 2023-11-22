@@ -1,0 +1,1001 @@
+subject_id_1,subject_1,predicate_id_1,object_id_1,object_1,predicate_id_2,object_id_2,object_2,is_poprel,prompt_1,prompt_2
+Q7050296,Norbert Barlicki,P2632,Q7341,Auschwitz,P527,Q700356,Auschwitz III (Monowitz),1,Norbert Barlicki was detained at [MASK] .,Auschwitz consists of [MASK] .
+Q315979,Malcolm Fraser,P39,Q319145,Prime Minister,P279,Q14212,PM,1,Malcolm Fraser has the position of [MASK] .,Prime Minister is a subclass of [MASK] .
+Q5258122,Dennis A. Cornell,P69,Q41506,Stanford University,P527,Q1147088,Hoover Institution,1,Dennis A. Cornell is educated at [MASK] .,Stanford University consists of [MASK] .
+Q182642,Glenn,P937,Q61,Washington DC,P571,XMLSchema#dateTime,"July 16, 1790",1,Glenn used to work in [MASK] .,Washington DC was founded on [MASK] .
+Q456639,John Lurie,P1303,Q9798,saxophonist,P138,Q181995,Adolphe Sax,1,John Lurie plays [MASK] .,saxophonist is named after [MASK] .
+Q232783,Malibran,P20,Q18125,Manchester,P17,Q145,United Kingdom,1,Malibran died in [MASK] .,Manchester is located in [MASK] .
+Q1317207,Ken Narita,P19,Q128186,Saitama Prefecture,P36,Q134635,"Saitama, Saitama",1,Ken Narita was born in [MASK] .,The capital of Saitama Prefecture is [MASK] .
+Q16226691,Daniel Ivey-Soto,P735,Q14516546,Daniel,P407,Q7737,Russian,1,[MASK] is the given name of Daniel Ivey-Soto .,Daniel was written in [MASK] .
+Q1056964,Emanuele Luzzati,P19,Q1449,Genoa,P1435,Q9259,World Heritage Sites,1,Emanuele Luzzati was born in [MASK] .,Genoa has the heritage status of [MASK] .
+Q48174,Agrippa,P27,Q1747689,Rome,P527,Q17167,Roman Republic,1,Agrippa is [MASK] citizen .,Rome consists of [MASK] .
+Q16007033,Horace Holmes,P102,Q9630,British Labour Party,P527,Q3179541,Scottish Labour Party,1,Horace Holmes is member of political party [MASK] .,British Labour Party consists of [MASK] .
+Q2331704,Stanley Gardner,P1303,Q5994,piano,P279,Q52954,keyboards,1,Stanley Gardner plays [MASK] .,piano is a subclass of [MASK] .
+Q289926,Danuta Stenka,P27,Q36,Polish,P138,Q428713,Polanie,1,Danuta Stenka is [MASK] citizen .,Polish is named after [MASK] .
+Q351661,Hamaguchi,P39,Q274948,Prime Minister,P1001,Q17,Japan,1,Hamaguchi has the position of [MASK] .,Prime Minister is a legal term in [MASK] .
+Q1394911,Clemente Mastella,P937,Q220,Rome,P206,Q13712,Tiber,1,Clemente Mastella used to work in [MASK] .,Rome is located in or next to [MASK] .
+Q722150,Alexander Roshal,P641,Q718,chess,P31,Q131436,pawns,1,Alexander Roshal plays the sport [MASK] .,chess is a [MASK] .
+Q16201053,Nick Rush,P241,Q9212,United States Army,P17,Q30,United States,1,Nick Rush is the military branch of [MASK] .,United States Army is located in [MASK] .
+Q11887977,Pierre-Célestin Nkou,P39,Q29182,bishop,P140,Q5043,Christian,1,Pierre-Célestin Nkou has the position of [MASK] .,bishop is affiliated with the [MASK] religion .
+Q3128060,Hasan Cihat Örter,P264,Q183412,EMI,P155,Q1112471,Columbia,1,Hasan Cihat Örter is represented by music label [MASK] .,EMI follows [MASK] .
+Q5495557,Fred J. Fife,P69,Q168515,Utah,P112,Q203559,Brigham Young,1,Fred J. Fife is educated at [MASK] .,Utah is founded by [MASK] .
+Q92619,Richard Hamming,P69,Q131252,Chicago,P527,Q7895255,Divinity School,1,Richard Hamming is educated at [MASK] .,Chicago consists of [MASK] .
+Q7176142,Peter Nugent,P102,Q241149,Liberal Party,P155,Q1728956,United Australia Party,1,Peter Nugent is member of political party [MASK] .,Liberal Party follows [MASK] .
+Q5715177,Henock Kankoshi,P102,Q467711,SWAPO,P112,Q327822,Andimba Toivo Ya Toivo,1,Henock Kankoshi is member of political party [MASK] .,SWAPO is founded by [MASK] .
+Q356411,John Gorton,P39,Q319145,Prime Minister,P17,Q408,Australia,1,John Gorton has the position of [MASK] .,Prime Minister is located in [MASK] .
+Q720861,Pehr Wilhelm Wargentin,P463,Q188771,French Academy,P361,Q377066,Institut de France,1,Pehr Wilhelm Wargentin is a member of [MASK] .,French Academy is part of [MASK] .
+Q142059,Julius Fučík (journalist),P102,Q727724,Communist Party,P156,Q913567,KSČM,1,Julius Fučík (journalist) is member of political party [MASK] .,Communist Party is followed by [MASK] .
+Q122934,George Read Riddle,P551,Q174224,Wilmington,P17,Q30,USA,1,George Read Riddle resides in [MASK] .,Wilmington is located in [MASK] .
+Q182408,Glenda Jackson,P108,Q9531,BBC,P571,XMLSchema#dateTime,18 October 1922,1,Glenda Jackson works for [MASK] .,BBC was founded on [MASK] .
+Q7682451,Tandi Wright,P19,Q953,Zambia,P463,Q1065,UN,1,Tandi Wright was born in [MASK] .,Zambia is a member of [MASK] .
+Q1112005,Queen Latifah,P264,Q277626,A&M Records,P159,Q65,Los Angeles,1,Queen Latifah is represented by music label [MASK] .,The headquarter of A&M Records is in [MASK] .
+Q102947,Volker von Collande,P102,Q7320,Nazi Party,P155,Q631205,German Workers' Party,1,Volker von Collande is member of political party [MASK] .,Nazi Party follows [MASK] .
+Q11806,John Adams,P39,Q11696,President,P17,Q30,American,1,John Adams has the position of [MASK] .,President is located in [MASK] .
+Q1386904,Ramón Montoya,P19,Q2807,Madrid,P1376,Q29,Spain,1,Ramón Montoya was born in [MASK] .,Madrid is the capital of [MASK] .
+Q6162640,Jason Hall (screenwriter),P69,Q4614,Southern California,P276,Q65,Los Angeles,1,Jason Hall (screenwriter) is educated at [MASK] .,Southern California is located in [MASK] .
+Q2531013,Volker Goetze,P937,Q60,New York City,P131,Q1384,New York,1,Volker Goetze used to work in [MASK] .,New York City is located in [MASK] .
+Q2958530,Charles Benvignat,P20,Q648,Lille,P166,Q163700,Légion d'honneur,1,Charles Benvignat died in [MASK] .,Lille was awarded [MASK] .
+Q960310,Jerzy Bahr,P69,Q189441,Kraków,P527,Q24101,Jagiellonian Library,1,Jerzy Bahr is educated at [MASK] .,Kraków consists of [MASK] .
+Q1335558,Shintaro Kago,P106,Q191633,manga artist,P17,Q17,Japan,1,Shintaro Kago is a [MASK] by profession .,manga artist is located in [MASK] .
+Q5751489,Hidajet Biščević,P69,Q675848,Zagreb,P571,XMLSchema#dateTime,"September 23, 1669",1,Hidajet Biščević is educated at [MASK] .,Zagreb was founded on [MASK] .
+Q7026036,Nicholas Pelham,P27,Q179876,England,P140,Q9592,Roman Catholic Church,1,Nicholas Pelham is [MASK] citizen .,England is affiliated with the [MASK] religion .
+Q91211,Gottfried Christoph Beireis,P937,Q3150,Jena,P206,Q1678,Saale,1,Gottfried Christoph Beireis used to work in [MASK] .,Jena is located in or next to [MASK] .
+Q6093684,Ece Temelkuran,P1412,Q256,Turkish,P361,Q34090,Turkic,1,Ece Temelkuran translating pled spoken callback fluent [MASK] .,Turkish is part of [MASK] .
+Q284745,Pasquale del Pezzo,P27,Q172579,Italy,P155,Q131964,Austria,1,Pasquale del Pezzo is [MASK] citizen .,Italy follows [MASK] .
+Q1325518,José Julián Acosta,P27,Q1183,Puerto Rico,P17,Q30,American,1,José Julián Acosta is [MASK] citizen .,Puerto Rico is located in [MASK] .
+Q982324,Hugh Lawson Shearer,P27,Q766,Jamaica,P706,Q664609,Caribbean,1,Hugh Lawson Shearer is [MASK] citizen .,Jamaica is located on [MASK] .
+Q707071,Marcel Bitsch,P20,Q90,Paris,P1376,Q142,France,1,Marcel Bitsch died in [MASK] .,Paris is the capital of [MASK] .
+Q3295574,Martin Newell,P69,Q168515,Utah,P527,Q611442,Marriott Library,1,Martin Newell is educated at [MASK] .,Utah consists of [MASK] .
+Q6224993,John Campbell of Mamore,P27,Q179876,England,P156,Q330362,Commonwealth,1,John Campbell of Mamore is [MASK] citizen .,England is followed by [MASK] .
+Q1429411,Florencio Pozadas,P27,Q750,Bolivia,P150,Q235110,Chuquisaca,1,Florencio Pozadas is [MASK] citizen .,Bolivia contains the administrative territorial entity [MASK] .
+Q2016126,Ogden Rood,P20,Q11299,Manhattan,P527,Q1198892,Wards Island,1,Ogden Rood died in [MASK] .,Manhattan consists of [MASK] .
+Q4706794,Alan Haines,P241,Q172771,Royal Navy,P17,Q145,United Kingdom,1,Alan Haines is the military branch of [MASK] .,Royal Navy is located in [MASK] .
+Q24041,Martin Roman,P2632,Q7341,Auschwitz,P31,Q328468,Nazi concentration camps,1,Martin Roman was detained at [MASK] .,Auschwitz is a [MASK] .
+Q7357846,Roger Bartra,P19,Q1489,Mexico City,P155,Q13695,Tenochtitlán,1,Roger Bartra was born in [MASK] .,Mexico City follows [MASK] .
+Q703766,Yang Bang-ean,P19,Q1490,Tokyo,P527,Q308891,special wards,1,Yang Bang-ean was born in [MASK] .,Tokyo consists of [MASK] .
+Q315338,V.P.Singh,P39,Q192711,Prime Minister,P571,XMLSchema#dateTime,15 August 1947,1,V.P.Singh has the position of [MASK] .,Prime Minister was founded on [MASK] .
+Q51547,Billy Wilder,P1412,Q188,German language,P495,Q183,Germany,1,Billy Wilder translating pled spoken callback fluent [MASK] .,German language was created in [MASK] .
+Q6128418,Silvana Roth,P19,Q1449,Genoa,P1435,Q9259,World Heritage Sites,1,Silvana Roth was born in [MASK] .,Genoa has the heritage status of [MASK] .
+Q1344716,Robert Harron,P20,Q60,"New York, New York",P138,Q126188,James II,1,Robert Harron died in [MASK] .,"New York, New York is named after [MASK] ."
+Q4978188,Bruce Reed (mathematician),P108,Q201492,McGill University,P138,Q984450,James McGill,1,Bruce Reed (mathematician) works for [MASK] .,McGill University is named after [MASK] .
+Q523393,Ivan Evstratiev Geshov,P1412,Q7918,Bulgarian,P131,Q23522,Balkan peninsula,1,Ivan Evstratiev Geshov translating pled spoken callback fluent [MASK] .,Bulgarian is located in [MASK] .
+Q23215,Adele,P136,Q45981,R&B,P279,Q373342,popular music,1,Adele plays [MASK] music .,R&B is a subclass of [MASK] .
+Q74595,Franz König (surgeon),P108,Q152087,Berlin,P138,Q6694,Alexander von Humboldt,1,Franz König (surgeon) works for [MASK] .,Berlin is named after [MASK] .
+Q5384961,Erasmus Hendjala,P102,Q467711,SWAPO,P571,XMLSchema#dateTime,19 April 1960,1,Erasmus Hendjala is member of political party [MASK] .,SWAPO was founded on [MASK] .
+Q15485476,Isaac Hodgson (architect),P551,Q1527,Minnesota,P17,Q30,United States,1,Isaac Hodgson (architect) resides in [MASK] .,Minnesota is located in [MASK] .
+Q4794610,Arne Kokkvoll,P106,Q182436,librarian,P937,Q7075,library,1,Arne Kokkvoll is a [MASK] by profession .,librarian used to work in [MASK] .
+Q5108175,Chris Stone (actor),P19,Q800,Costa Rica,P463,Q1065,United Nations,1,Chris Stone (actor) was born in [MASK] .,Costa Rica is a member of [MASK] .
+Q2976974,Sofia Vembo,P27,Q41,Greece,P463,Q458,European Union,1,Sofia Vembo is [MASK] citizen .,Greece is a member of [MASK] .
+Q359579,Oliver Tambo,P20,Q34647,Johannesburg,P47,Q3926,Pretoria,1,Oliver Tambo died in [MASK] .,Johannesburg shares border with [MASK] .
+Q5107000,Chris Jasper,P19,Q43196,"Cincinnati, Ohio",P1376,Q152891,Hamilton County,1,Chris Jasper was born in [MASK] .,"Cincinnati, Ohio is the capital of [MASK] ."
+Q86367,Ernst Deutsch,P937,Q1085,Prague,P150,Q168279,Zbraslav,1,Ernst Deutsch used to work in [MASK] .,Prague contains the administrative territorial entity [MASK] .
+Q5605224,Greg Abbott,P69,Q49213,Texas,P17,Q30,United States,1,Greg Abbott is educated at [MASK] .,Texas is located in [MASK] .
+Q6429150,Kong Vibol,P27,Q424,Cambodia,P150,Q1850,Phnom Penh,1,Kong Vibol is [MASK] citizen .,Cambodia contains the administrative territorial entity [MASK] .
+Q23333,Gough Whitlam,P39,Q319145,Prime Minister,P279,Q14212,PM,1,Gough Whitlam has the position of [MASK] .,Prime Minister is a subclass of [MASK] .
+Q7458088,Sevinç Erbulak,P19,Q406,Istanbul,P155,Q16869,Constantinopel,1,Sevinç Erbulak was born in [MASK] .,Istanbul follows [MASK] .
+Q77729,Ursula Martius Franklin,P463,Q94301,FRSC,P17,Q16,Canada,1,Ursula Martius Franklin is a member of [MASK] .,FRSC is located in [MASK] .
+Q192643,Aaron Eckhart,P69,Q332498,BYU,P140,Q42504,Latter-day Saint,1,Aaron Eckhart is educated at [MASK] .,BYU is affiliated with the [MASK] religion .
+Q5605686,Greg Headley,P19,Q16557,"Dallas, Texas",P131,Q111168,Dallas County,1,Greg Headley was born in [MASK] .,"Dallas, Texas is located in [MASK] ."
+Q7436071,Scott Bundgaard,P108,Q1444543,Arizona House,P1001,Q816,Arizona,1,Scott Bundgaard works for [MASK] .,Arizona House is a legal term in [MASK] .
+Q24041,Martin Roman,P2632,Q7341,Auschwitz,P527,Q700356,Auschwitz III (Monowitz),1,Martin Roman was detained at [MASK] .,Auschwitz consists of [MASK] .
+Q11151250,Elle Varner,P69,Q49210,New York University,P31,Q902104,private university,1,Elle Varner is educated at [MASK] .,New York University is a [MASK] .
+Q4700602,Akemi Matsunae,P106,Q191633,manga artist,P17,Q17,Japan,1,Akemi Matsunae is a [MASK] by profession .,manga artist is located in [MASK] .
+Q129718,Michel Rog,P551,Q9920,Haarlem,P131,Q762943,Holland,1,Michel Rog resides in [MASK] .,Haarlem is located in [MASK] .
+Q1358259,Hendrik Marsman,P103,Q7411,Dutch,P361,Q153050,Low Franconian,1,The native language of Hendrik Marsman is [MASK] .,Dutch is part of [MASK] .
+Q4679206,Adam Heinrich Wilhelm Uloth,P937,Q3869,Marburg,P1376,Q7902,Marburg-Biedenkopf,1,Adam Heinrich Wilhelm Uloth used to work in [MASK] .,Marburg is the capital of [MASK] .
+Q5480091,Francis Bacon (Ipswich MP),P27,Q179876,English,P140,Q9592,Roman Catholic Church,1,Francis Bacon (Ipswich MP) is [MASK] citizen .,English is affiliated with the [MASK] religion .
+Q1453246,Axel von Fersen the Elder,P1412,Q9027,Swedish,P527,Q2417210,Old Swedish,1,Axel von Fersen the Elder translating pled spoken callback fluent [MASK] .,Swedish consists of [MASK] .
+Q191499,Joplin,P19,Q1439,Texas,P47,Q1612,Arkansas,1,Joplin was born in [MASK] .,Texas shares border with [MASK] .
+Q684449,Gustave Paul Cluseret,P607,Q8676,American Civil War,P276,Q49042,American South,1,Gustave Paul Cluseret participated in the conflict of [MASK] .,American Civil War is located in [MASK] .
+Q3724331,Emilio Bajada,P20,Q279,Modena,P1376,Q16209,Modena,1,Emilio Bajada died in [MASK] .,Modena is the capital of [MASK] .
+Q88360,Christian Buchmann,P937,Q13298,Graz,P1376,Q41358,Styria,1,Christian Buchmann used to work in [MASK] .,Graz is the capital of [MASK] .
+Q90290,Leopold Pfaundler,P19,Q1735,Innsbruck,P47,Q660035,Seefeld Arena,1,Leopold Pfaundler was born in [MASK] .,Innsbruck shares border with [MASK] .
+Q484141,Muhammad Iqbal,P140,Q432,Islam,P112,Q9458,Muhammad,1,Muhammad Iqbal is affiliated with the [MASK] religion .,Islam is founded by [MASK] .
+Q248484,Inder Kumar Gujral,P39,Q192711,Prime Minister,P571,XMLSchema#dateTime,15 August 1947,1,Inder Kumar Gujral has the position of [MASK] .,Prime Minister was founded on [MASK] .
+Q53620,Hjalmar Branting,P166,Q35637,Nobel Peace Prize,P1346,Q677499,Friends Service Council,1,Hjalmar Branting was awarded [MASK] .,The winner of Nobel Peace Prize is [MASK] .
+Q3181839,John Joseph Curran,P19,Q340,"Montreal, Canada",P112,Q513777,Jeanne Mance,1,John Joseph Curran was born in [MASK] .,"Montreal, Canada is founded by [MASK] ."
+Q7328209,Richard Ovenden,P106,Q182436,librarian,P937,Q7075,library,1,Richard Ovenden is a [MASK] by profession .,librarian used to work in [MASK] .
+Q5902636,Horatio C. Newcomb,P937,Q6346,"Indianapolis, Indiana",P30,Q49,North America,1,Horatio C. Newcomb used to work in [MASK] .,"Indianapolis, Indiana is located in [MASK] ."
+Q17181003,Barbara Tillett,P106,Q182436,librarian,P937,Q7075,library,1,Barbara Tillett is a [MASK] by profession .,librarian used to work in [MASK] .
+Q2673694,Vivian Chow,P19,Q8646,Hong Kong,P155,Q1054923,British rule,1,Vivian Chow was born in [MASK] .,Hong Kong follows [MASK] .
+Q562220,Sitor Situmorang,P1412,Q9240,Indonesian,P361,Q9237,Malay,1,Sitor Situmorang translating pled spoken callback fluent [MASK] .,Indonesian is part of [MASK] .
+Q1070599,Kimeru,P136,Q131578,Japanese pop,P495,Q17,Japan,1,Kimeru plays [MASK] music .,Japanese pop was created in [MASK] .
+Q6685765,Lou Sekora,P27,Q16,Canada,P571,XMLSchema#dateTime,July 1 of 1867,1,Lou Sekora is [MASK] citizen .,Canada was founded on [MASK] .
+Q1335032,Rafael Cansinos-Asséns,P19,Q8717,Seville,P31,Q2074737,municipality,1,Rafael Cansinos-Asséns was born in [MASK] .,Seville is a [MASK] .
+Q855,Joseph Stalin,P103,Q8108,Georgian,P31,Q171263,agglutinative,1,The native language of Joseph Stalin is [MASK] .,Georgian is a [MASK] .
+Q5798912,Owe Hellberg,P102,Q110837,Left Party,P361,Q272930,Riksdag,1,Owe Hellberg is member of political party [MASK] .,Left Party is part of [MASK] .
+Q4799249,Arthur Jarvis,P607,Q361,World War I,P1346,Q30,American,1,Arthur Jarvis participated in the conflict of [MASK] .,The winner of World War I is [MASK] .
+Q3489559,Zuzana Fialová,P27,Q214,Slovak,P131,Q140359,Czechoslovakia,1,Zuzana Fialová is [MASK] citizen .,Slovak is located in [MASK] .
+Q1508058,George Randolph Pearkes,P166,Q615838,DSO,P17,Q145,United Kingdom,1,George Randolph Pearkes was awarded [MASK] .,DSO is located in [MASK] .
+Q5297405,"Dora Gaitskell, Baroness Gaitskell",P102,Q9630,British Labour Party,P527,Q3179541,Scottish Labour Party,1,"Dora Gaitskell, Baroness Gaitskell is member of political party [MASK] .",British Labour Party consists of [MASK] .
+Q725023,Bernie Boudreau,P102,Q3366494,Liberal,P138,Q1952,Nova Scotia,1,Bernie Boudreau is member of political party [MASK] .,Liberal is named after [MASK] .
+Q508098,Stephen Bray,P19,Q12439,"Detroit, Michigan",P30,Q49,North America,1,Stephen Bray was born in [MASK] .,"Detroit, Michigan is located in [MASK] ."
+Q514505,Ilaria Alpi,P27,Q1045,Somalia,P31,Q7270,republic,1,Ilaria Alpi is [MASK] citizen .,Somalia is a [MASK] .
+Q962873,Michael Longley,P19,Q10686,Belfast,P138,Q1785600,Farset,1,Michael Longley was born in [MASK] .,Belfast is named after [MASK] .
+Q1146861,Cy Coleman,P551,Q60,New York City,P1376,Q30,American,1,Cy Coleman resides in [MASK] .,New York City is the capital of [MASK] .
+Q3769807,Giulio Viozzi,P20,Q2028,Verona,P1435,Q9259,UNESCO,1,Giulio Viozzi died in [MASK] .,Verona has the heritage status of [MASK] .
+Q29761,Trdat,P172,Q79797,Armenian,P140,Q683724,Armenian Apostolic,1,Trdat belongs to the ethnic group of [MASK] .,Armenian is affiliated with the [MASK] religion .
+Q1799076,Robert König,P108,Q154561,Jena,P138,Q22670,Schiller,1,Robert König works for [MASK] .,Jena is named after [MASK] .
+Q2579074,William H. Heald,P551,Q174224,Wilmington,P47,Q755754,"Greenville, Delaware",1,William H. Heald resides in [MASK] .,Wilmington shares border with [MASK] .
+Q4440913,Leonard Geluk,P69,Q633529,Erasmus University Rotterdam,P276,Q34370,Rotterdam,1,Leonard Geluk is educated at [MASK] .,Erasmus University Rotterdam is located in [MASK] .
+Q6207928,Gunnar Thollander,P1412,Q9027,Swedish,P527,Q2417210,Old Swedish,1,Gunnar Thollander translating pled spoken callback fluent [MASK] .,Swedish consists of [MASK] .
+Q7496369,Shigeo Omae,P69,Q336264,Kyoto University,P159,Q34600,Kyoto,1,Shigeo Omae is educated at [MASK] .,The headquarter of Kyoto University is in [MASK] .
+Q5339856,Edmund Tempest,P607,Q361,First World War,P1346,Q30,American,1,Edmund Tempest participated in the conflict of [MASK] .,The winner of First World War is [MASK] .
+Q4458133,George Tsisetski,P19,Q2280,Minsk,P166,Q159438,hero cities,1,George Tsisetski was born in [MASK] .,Minsk was awarded [MASK] .
+Q7108704,Otho F. Strahl,P241,Q1125021,Confederate States Army,P31,Q37726,force,1,Otho F. Strahl is the military branch of [MASK] .,Confederate States Army is a [MASK] .
+Q220115,Father Nikolai,P27,Q34266,Russian Empire,P112,Q8479,Peter I,1,Father Nikolai is [MASK] citizen .,Russian Empire is founded by [MASK] .
+Q5503916,Friedrich Sylburg,P106,Q182436,librarian,P937,Q7075,library,1,Friedrich Sylburg is a [MASK] by profession .,librarian used to work in [MASK] .
+Q376637,"Adrien-Louis de Bonnières, duc de Guînes",P19,Q648,Lille,P166,Q163700,Légion d'honneur,1,"Adrien-Louis de Bonnières, duc de Guînes was born in [MASK] .",Lille was awarded [MASK] .
+Q938606,Francis Bitter,P108,Q49108,MIT,P17,Q30,United States,1,Francis Bitter works for [MASK] .,MIT is located in [MASK] .
+Q153411,Carolina Dieckmann,P27,Q155,Brazil,P155,Q2088324,Portuguese colony,1,Carolina Dieckmann is [MASK] citizen .,Brazil follows [MASK] .
+Q25320,Paul Langevin,P463,Q188771,French Academy,P112,Q188971,Jean-Baptiste Colbert,1,Paul Langevin is a member of [MASK] .,French Academy is founded by [MASK] .
+Q4807120,Askanaz Mravyan,P172,Q79797,Armenian,P140,Q683724,Armenian Apostolic,1,Askanaz Mravyan belongs to the ethnic group of [MASK] .,Armenian is affiliated with the [MASK] religion .
+Q132238,Immanuel Faisst,P20,Q1022,Stuttgart,P361,Q451619,Stuttgart Metropolitan Region,1,Immanuel Faisst died in [MASK] .,Stuttgart is part of [MASK] .
+Q5076812,Charles Delagrave,P19,Q2145,"Quebec City, Quebec",P112,Q68529,Samuel de Champlain,1,Charles Delagrave was born in [MASK] .,"Quebec City, Quebec is founded by [MASK] ."
+Q369024,Lars Werner,P937,Q1754,Stockholm,P150,Q10436033,Bromma,1,Lars Werner used to work in [MASK] .,Stockholm contains the administrative territorial entity [MASK] .
+Q19878,Gaddafi,P27,Q1016,Libya,P30,Q15,Africa,1,Gaddafi is [MASK] citizen .,Libya is located in [MASK] .
+Q969393,Ernesto Nathan,P39,Q30185,mayor,P361,Q15284,municipality,1,Ernesto Nathan has the position of [MASK] .,mayor is part of [MASK] .
+Q15623861,Raul Renter,P641,Q718,chess,P31,Q131436,pawns,1,Raul Renter plays the sport [MASK] .,chess is a [MASK] .
+Q359521,Matthew Good,P551,Q24639,Vancouver,P131,Q1061069,Metro Vancouver,1,Matthew Good resides in [MASK] .,Vancouver is located in [MASK] .
+Q5252786,Deke Richards,P264,Q43327,Motown,P112,Q355288,"Berry Gordy, Jr.",1,Deke Richards is represented by music label [MASK] .,Motown is founded by [MASK] .
+Q713213,Giuseppe Colombo,P27,Q38,Italian,P206,Q13924,Adriatic coast,1,Giuseppe Colombo is [MASK] citizen .,Italian is located in or next to [MASK] .
+Q7241,Tagore,P69,Q1145306,Calcutta,P571,XMLSchema#dateTime,24 January 1857,1,Tagore is educated at [MASK] .,Calcutta was founded on [MASK] .
+Q7702095,Teresa Banham,P19,Q23276,Surrey,P159,Q2321706,Kingston,1,Teresa Banham was born in [MASK] .,The headquarter of Surrey is in [MASK] .
+Q4931171,Bo Siegbahn,P1412,Q9027,Swedish,P527,Q2417210,Old Swedish,1,Bo Siegbahn translating pled spoken callback fluent [MASK] .,Swedish consists of [MASK] .
+Q442056,Roger Q. Mills,P241,Q1125021,Confederate States Army,P17,Q30,American,1,Roger Q. Mills is the military branch of [MASK] .,Confederate States Army is located in [MASK] .
+Q82049,George Berkeley,P39,Q29182,bishop,P140,Q5043,Christian,1,George Berkeley has the position of [MASK] .,bishop is affiliated with the [MASK] religion .
+Q315128,Ralf Walter,P102,Q49768,Social Democratic Party,P156,Q156607,Spartakusbund,1,Ralf Walter is member of political party [MASK] .,Social Democratic Party is followed by [MASK] .
+Q61053,Olaf Scholz,P102,Q49768,SPD,P156,Q156607,Spartakusbund,1,Olaf Scholz is member of political party [MASK] .,SPD is followed by [MASK] .
+Q43179,Ellen Johnson-Sirleaf,P551,Q1014,Liberia,P31,Q7270,republic,1,Ellen Johnson-Sirleaf resides in [MASK] .,Liberia is a [MASK] .
+Q4726587,Alih Jey,P27,Q786,Dominican Republic,P706,Q664609,Caribbean,1,Alih Jey is [MASK] citizen .,Dominican Republic is located on [MASK] .
+Q2401031,Teizo Matsumura,P19,Q34600,Kyoto,P150,Q1197771,Fushimi-ku,1,Teizo Matsumura was born in [MASK] .,Kyoto contains the administrative territorial entity [MASK] .
+Q975245,John Whitehead (singer),P140,Q432,Islam,P112,Q9458,Muhammad,1,John Whitehead (singer) is affiliated with the [MASK] religion .,Islam is founded by [MASK] .
+Q72179,Erich Bagge,P20,Q1707,Kiel,P1376,Q1194,Schleswig-Holstein,1,Erich Bagge died in [MASK] .,Kiel is the capital of [MASK] .
+Q74295,Hermann Stieve,P108,Q152087,Berlin,P138,Q6694,Alexander von Humboldt,1,Hermann Stieve works for [MASK] .,Berlin is named after [MASK] .
+Q706935,William Nicholson (writer),P463,Q1468277,FRSL,P31,Q955824,learned society,1,William Nicholson (writer) is a member of [MASK] .,FRSL is a [MASK] .
+Q11624,Lois Haibt,P108,Q37156,IBM,P127,Q217583,Berkshire Hathaway,1,Lois Haibt works for [MASK] .,IBM is owned by [MASK] .
+Q2511766,Lado Asatiani,P172,Q18973,Georgian,P103,Q8108,Georgian,1,Lado Asatiani belongs to the ethnic group of [MASK] .,The native language of Georgian is [MASK] .
+Q3056892,Hampartsoum Limondjian,P172,Q79797,Armenian,P103,Q8785,Armenian,1,Hampartsoum Limondjian belongs to the ethnic group of [MASK] .,The native language of Armenian is [MASK] .
+Q315972,Yukiya Amano,P108,Q1065,United Nations,P527,Q47423,General Assembly,1,Yukiya Amano works for [MASK] .,United Nations consists of [MASK] .
+Q1043,Linnaeus,P937,Q25286,Uppsala,P1376,Q59091,Uppsala Municipality,1,Linnaeus used to work in [MASK] .,Uppsala is the capital of [MASK] .
+Q351481,Dewey F. Bartlett,P140,Q9592,Roman Catholic,P527,Q597526,Latin,1,Dewey F. Bartlett is affiliated with the [MASK] religion .,Roman Catholic consists of [MASK] .
+Q8004134,William Adam,P463,Q117467,FRSE,P159,Q23436,Edinburgh,1,William Adam is a member of [MASK] .,The headquarter of FRSE is in [MASK] .
+Q7489374,Sharadchandra Shankar Shrikhande,P108,Q192334,Chapel Hill,P361,Q1191202,UNC,1,Sharadchandra Shankar Shrikhande works for [MASK] .,Chapel Hill is part of [MASK] .
+Q358788,Gul Mohamad Zhowandai,P27,Q889,Afghanistan,P140,Q432,Islam,1,Gul Mohamad Zhowandai is [MASK] citizen .,Afghanistan is affiliated with the [MASK] religion .
+Q3888622,Kaveh Golestan,P1412,Q9168,Persian,P155,Q32063,Middle Persian,1,Kaveh Golestan translating pled spoken callback fluent [MASK] .,Persian follows [MASK] .
+Q1376036,Judah Leib Gordon,P27,Q34266,Russia,P112,Q8479,Peter I,1,Judah Leib Gordon is [MASK] citizen .,Russia is founded by [MASK] .
+Q245257,William Styron,P551,Q1370,Virginia,P17,Q30,American,1,William Styron resides in [MASK] .,Virginia is located in [MASK] .
+Q7554715,Sohini Paul,P19,Q1348,Kolkata,P30,Q48,Asia,1,Sohini Paul was born in [MASK] .,Kolkata is located in [MASK] .
+Q8004134,William Adam,P463,Q117467,FRSE,P131,Q23436,Edinburgh,1,William Adam is a member of [MASK] .,FRSE is located in [MASK] .
+Q4968550,Shelbee Myne,P106,Q488111,pornographic actress,P279,Q33999,film actress,1,Shelbee Myne is a [MASK] by profession .,pornographic actress is a subclass of [MASK] .
+Q5437938,Fatos Tarifa,P27,Q222,Albania,P31,Q7270,republic,1,Fatos Tarifa is [MASK] citizen .,Albania is a [MASK] .
+Q1279583,Tom Driberg,P69,Q745967,"Christ Church, Oxford",P31,Q2581649,constituent colleges,1,Tom Driberg is educated at [MASK] .,"Christ Church, Oxford is a [MASK] ."
+Q7529270,"Sir Thomas Smith, 1st Baronet, of Hatherton",P27,Q179876,English,P156,Q330362,Commonwealth,1,"Sir Thomas Smith, 1st Baronet, of Hatherton is [MASK] citizen .",English is followed by [MASK] .
+Q11638274,Kiyoto Tsuji,P69,Q49088,Columbia University,P527,Q5002628,Butler Library,1,Kiyoto Tsuji is educated at [MASK] .,Columbia University consists of [MASK] .
+Q190884,Viktor Chernomyrdin,P20,Q649,Moscow,P166,Q159438,Hero City,1,Viktor Chernomyrdin died in [MASK] .,Moscow was awarded [MASK] .
+Q41476,Hans Driesch,P108,Q154804,Leipzig,P17,Q183,Germany,1,Hans Driesch works for [MASK] .,Leipzig is located in [MASK] .
+Q368348,Paul Humphreys,P19,Q84,London,P30,Q46,Europe,1,Paul Humphreys was born in [MASK] .,London is located in [MASK] .
+Q5482134,Francis Palmer Smith,P937,Q23556,Atlanta,P131,Q486633,Fulton,1,Francis Palmer Smith used to work in [MASK] .,Atlanta is located in [MASK] .
+Q6137978,James Lentini,P108,Q349055,Wayne State University,P17,Q30,United States,1,James Lentini works for [MASK] .,Wayne State University is located in [MASK] .
+Q1267155,Nikola Đuričko,P27,Q403,Serbia,P131,Q83286,Yugoslavia,1,Nikola Đuričko is [MASK] citizen .,Serbia is located in [MASK] .
+Q237514,Laura Ingalls Wilder,P20,Q1581,Missouri,P36,Q28180,Jefferson City,1,Laura Ingalls Wilder died in [MASK] .,The capital of Missouri is [MASK] .
+Q91412,Dieter Lüst,P108,Q55044,Munich,P138,Q44319,Maximilian I,1,Dieter Lüst works for [MASK] .,Munich is named after [MASK] .
+Q886456,Pierre Théoma Boisrond-Canal,P27,Q790,Haiti,P361,Q12585,Latin America,1,Pierre Théoma Boisrond-Canal is [MASK] citizen .,Haiti is part of [MASK] .
+Q5232621,David Cowan (politician),P241,Q172771,Royal Navy,P241,Q4508,US Navy,1,David Cowan (politician) is the military branch of [MASK] .,Royal Navy is the military branch of [MASK] .
+Q6032518,Ingjald Nordstad,P27,Q20,Norway,P131,Q62589,Swedish-Norwegian,1,Ingjald Nordstad is [MASK] citizen .,Norway is located in [MASK] .
+Q2994881,Constant Lievens,P611,Q36380,Jesuit,P112,Q44281,Ignacio de Loyola,1,Constant Lievens belongs to the religious order of [MASK] .,Jesuit is founded by [MASK] .
+Q8753,Enrico Fermi,P19,Q220,Rome,P1376,Q38,Italy,1,Enrico Fermi was born in [MASK] .,Rome is the capital of [MASK] .
+Q6752823,Manuel Ray Rivero,P20,Q1183,Puerto Rico,P706,Q664609,Caribbean,1,Manuel Ray Rivero died in [MASK] .,Puerto Rico is located on [MASK] .
+Q1736547,Kathryn Tucker Windham,P551,Q173,Alabama,P47,Q1494,Mississippi,1,Kathryn Tucker Windham resides in [MASK] .,Alabama shares border with [MASK] .
+Q17388586,Mono Mohan Das,P102,Q10225,Congress,P463,Q159454,Socialist International,1,Mono Mohan Das is member of political party [MASK] .,Congress is a member of [MASK] .
+Q128686,John Sparrow David Thompson,P39,Q839078,Prime Minister,P1001,Q16,Canada,1,John Sparrow David Thompson has the position of [MASK] .,Prime Minister is a legal term in [MASK] .
+Q6760147,Margarita López,P19,Q1183,Puerto Rico,P937,Q61,Washington DC,1,Margarita López was born in [MASK] .,Puerto Rico used to work in [MASK] .
+Q673555,František Šebej,P27,Q33946,Czechoslovakia,P47,Q28,Hungary,1,František Šebej is [MASK] citizen .,Czechoslovakia shares border with [MASK] .
+Q1531312,Robert Charles Vaughan,P69,Q170027,London,P31,Q3918,affiliated University,1,Robert Charles Vaughan is educated at [MASK] .,London is a [MASK] .
+Q4766442,Ann Hartness,P106,Q182436,librarian,P937,Q7075,library,1,Ann Hartness is a [MASK] by profession .,librarian used to work in [MASK] .
+Q352,Hitler,P1411,Q35637,Nobel Peace Prize,P1346,Q677499,Friends Service Council,1,Hitler was nominated for [MASK] .,The winner of Nobel Peace Prize is [MASK] .
+Q606149,Antonio di Benedetto,P1412,Q1321,Spanish,P31,Q661936,pro-drop language,1,Antonio di Benedetto translating pled spoken callback fluent [MASK] .,Spanish is a [MASK] .
+Q4867280,Basil Wingfield Digby,P69,Q745967,"Christ Church, Oxford",P131,Q34217,Oxford,1,Basil Wingfield Digby is educated at [MASK] .,"Christ Church, Oxford is located in [MASK] ."
+Q484523,Jared Leto,P1411,Q106291,Best Supporting Actor,P1346,Q150943,Gene Hackman,1,Jared Leto was nominated for [MASK] .,The winner of Best Supporting Actor is [MASK] .
+Q816624,Ben W. Hooper,P20,Q1509,Tennessee,P150,Q501602,"Shelby County, Tennessee",1,Ben W. Hooper died in [MASK] .,Tennessee contains the administrative territorial entity [MASK] .
+Q551202,John Gregory (moralist),P20,Q23436,Edinburgh,P131,Q2379199,Edinburgh Council,1,John Gregory (moralist) died in [MASK] .,Edinburgh is located in [MASK] .
+Q195865,John Mackintosh Howie,P463,Q117467,FRSE,P159,Q23436,Edinburgh,1,John Mackintosh Howie is a member of [MASK] .,The headquarter of FRSE is in [MASK] .
+Q220286,György Matolcsy,P937,Q1781,Budapest,P571,XMLSchema#dateTime,17 November 1873,1,György Matolcsy used to work in [MASK] .,Budapest was founded on [MASK] .
+Q12365848,Jüri Randviir,P641,Q718,chess,P279,Q131436,pawns,1,Jüri Randviir plays the sport [MASK] .,chess is a subclass of [MASK] .
+Q359791,Chas Jankel,P264,Q277626,A&M Records,P138,Q344822,Herb Alpert,1,Chas Jankel is represented by music label [MASK] .,A&M Records is named after [MASK] .
+Q7172714,Peter Baume,P166,Q1141149,AC,P17,Q408,Australia,1,Peter Baume was awarded [MASK] .,AC is located in [MASK] .
+Q444651,Helen O'Connell,P264,Q557632,Decca,P17,Q30,United States,1,Helen O'Connell is represented by music label [MASK] .,Decca is located in [MASK] .
+Q3556414,Dimitrios Papadimoulis,P39,Q27169,MEP,P279,Q486839,Parliamentarians,1,Dimitrios Papadimoulis has the position of [MASK] .,MEP is a subclass of [MASK] .
+Q152474,Trujillo,P27,Q786,Dominican Republic,P31,Q112099,island country,1,Trujillo is [MASK] citizen .,Dominican Republic is a [MASK] .
+Q532053,Ralph Towner,P264,Q311439,ECM,P112,Q61919,Manfred Eicher,1,Ralph Towner is represented by music label [MASK] .,ECM is founded by [MASK] .
+Q6123432,Jai Pal Singh,P20,Q1353,Delhi,P47,Q1174,Haryana,1,Jai Pal Singh died in [MASK] .,Delhi shares border with [MASK] .
+Q348037,Taimanov,P641,Q718,chess,P279,Q131436,pawns,1,Taimanov plays the sport [MASK] .,chess is a subclass of [MASK] .
+Q5271170,Diana Goodman,P108,Q9531,BBC,P571,XMLSchema#dateTime,18 October 1922,1,Diana Goodman works for [MASK] .,BBC was founded on [MASK] .
+Q170147,Hans Reichenbach,P108,Q152087,Berlin,P159,Q160899,Unter den Linden,1,Hans Reichenbach works for [MASK] .,The headquarter of Berlin is in [MASK] .
+Q817488,Benjamin Butler (politician),P39,Q887117,Governor,P17,Q30,American,1,Benjamin Butler (politician) has the position of [MASK] .,Governor is located in [MASK] .
+Q188955,Matthew McConaughey,P1411,Q103916,Best Actor,P1346,Q41163,Al Pacino,1,Matthew McConaughey was nominated for [MASK] .,The winner of Best Actor is [MASK] .
+Q58311,Avigdor Lieberman,P103,Q7737,Russian,P361,Q23526,Slavic,1,The native language of Avigdor Lieberman is [MASK] .,Russian is part of [MASK] .
+Q4679366,Adam Kopyciński,P2632,Q7341,Auschwitz,P17,Q7318,Nazi,1,Adam Kopyciński was detained at [MASK] .,Auschwitz is located in [MASK] .
+Q253378,Malalai Joya,P27,Q889,Afghanistan,P36,Q5838,Kabul,1,Malalai Joya is [MASK] citizen .,The capital of Afghanistan is [MASK] .
+Q5294472,Donald Haderle,P108,Q37156,IBM,P127,Q217583,Berkshire Hathaway,1,Donald Haderle works for [MASK] .,IBM is owned by [MASK] .
+Q5217382,Daniel H. Jenkins,P735,Q14516546,Daniel,P407,Q7737,Russian,1,[MASK] is the given name of Daniel H. Jenkins .,Daniel was written in [MASK] .
+Q1129785,Cooper-Moore,P19,Q1370,Virginia,P36,Q43421,Richmond Virginia,1,Cooper-Moore was born in [MASK] .,The capital of Virginia is [MASK] .
+Q2492,Konrad Adenauer,P140,Q9592,Roman Catholic,P527,Q597526,Latin,1,Konrad Adenauer is affiliated with the [MASK] religion .,Roman Catholic consists of [MASK] .
+Q90311,Johannes Schaaf,P19,Q1022,Stuttgart,P361,Q451619,Stuttgart Metropolitan Region,1,Johannes Schaaf was born in [MASK] .,Stuttgart is part of [MASK] .
+Q655512,Stephen Lewis,P108,Q1065,United Nations,P166,Q35637,Nobel Peace Prize,1,Stephen Lewis works for [MASK] .,United Nations was awarded [MASK] .
+Q2404053,Gabriel Guist'hau,P20,Q12191,Nantes,P206,Q1469,Loire estuary,1,Gabriel Guist'hau died in [MASK] .,Nantes is located in or next to [MASK] .
+Q2841857,Cramer,P108,Q219563,Washington,P31,Q875538,public university,1,Cramer works for [MASK] .,Washington is a [MASK] .
+Q785790,Jonathan Schaffer,P69,Q499451,Rutgers University,P571,XMLSchema#dateTime,10 November 1766,1,Jonathan Schaffer is educated at [MASK] .,Rutgers University was founded on [MASK] .
+Q675465,Reteos Berberian,P172,Q79797,Armenian,P103,Q8785,Armenian,1,Reteos Berberian belongs to the ethnic group of [MASK] .,The native language of Armenian is [MASK] .
+Q7146989,Patrick Lawlor (politician),P102,Q827589,NDP,P463,Q130765,NDP,1,Patrick Lawlor (politician) is member of political party [MASK] .,NDP is a member of [MASK] .
+Q16866484,John Damiano Komba,P102,Q652091,CCM,P159,Q3866,Dodoma,1,John Damiano Komba is member of political party [MASK] .,The headquarter of CCM is in [MASK] .
+Q2014109,Odd Riisnæs,P1303,Q9798,saxophonist,P138,Q181995,Adolphe Sax,1,Odd Riisnæs plays [MASK] .,saxophonist is named after [MASK] .
+Q12270322,Lytvynenko Vitaliy Viktorovych,P1412,Q8798,Ukrainian,P279,Q144713,East Slavic languages,1,Lytvynenko Vitaliy Viktorovych translating pled spoken callback fluent [MASK] .,Ukrainian is a subclass of [MASK] .
+Q7346367,Robert King High,P607,Q362,World War II,P276,Q46,Europe,1,Robert King High participated in the conflict of [MASK] .,World War II is located in [MASK] .
+Q2613936,Joaquín Miguel Elizalde,P19,Q1461,Manila,P150,Q1903520,Binondo,1,Joaquín Miguel Elizalde was born in [MASK] .,Manila contains the administrative territorial entity [MASK] .
+Q8612,Andrew Johnson,P39,Q11696,President,P279,Q2285706,Prime minister,1,Andrew Johnson has the position of [MASK] .,President is a subclass of [MASK] .
+Q3271223,Teresa Carpio,P27,Q8646,Hong Kong,P17,Q148,China,1,Teresa Carpio is [MASK] citizen .,Hong Kong is located in [MASK] .
+Q3384401,Pierre Chastellain,P611,Q36380,Jesuit,P112,Q44281,Ignacio de Loyola,1,Pierre Chastellain belongs to the religious order of [MASK] .,Jesuit is founded by [MASK] .
+Q132984,Rustaveli,P172,Q18973,Georgian,P140,Q192173,Georgian Orthodox,1,Rustaveli belongs to the ethnic group of [MASK] .,Georgian is affiliated with the [MASK] religion .
+Q2420498,Saunders Lewis,P27,Q25,Wales,P17,Q145,United Kingdom,1,Saunders Lewis is [MASK] citizen .,Wales is located in [MASK] .
+Q1678890,Jakob Altmaier,P937,Q586,Bonn,P150,Q153260,Godesberg,1,Jakob Altmaier used to work in [MASK] .,Bonn contains the administrative territorial entity [MASK] .
+Q3612676,Luc Devroye,P108,Q201492,McGill,P463,Q1032195,Canadian Interuniversity Sport,1,Luc Devroye works for [MASK] .,McGill is a member of [MASK] .
+Q8003444,Willard L. Miranker,P108,Q37156,IBM,P155,Q5157637,Computing-Tabulating-Recording Company,1,Willard L. Miranker works for [MASK] .,IBM follows [MASK] .
+Q5106907,Chris Holstein,P102,Q241149,Liberal Party,P155,Q1728956,United Australia Party,1,Chris Holstein is member of political party [MASK] .,Liberal Party follows [MASK] .
+Q1645624,John J. Milligan,P551,Q174224,Wilmington,P1376,Q156156,"New Castle County, Delaware",1,John J. Milligan resides in [MASK] .,Wilmington is the capital of [MASK] .
+Q17382309,Matti Luoma-aho,P1412,Q1412,Finnish,P279,Q33328,Finnic languages,1,Matti Luoma-aho translating pled spoken callback fluent [MASK] .,Finnish is a subclass of [MASK] .
+Q107886,Walter Brugmann,P937,Q2090,Nuremberg,P31,Q57318,Free imperial city,1,Walter Brugmann used to work in [MASK] .,Nuremberg is a [MASK] .
+Q84663,Alexander Ecker,P937,Q2833,Freiburg,P30,Q46,Europe,1,Alexander Ecker used to work in [MASK] .,Freiburg is located in [MASK] .
+Q5468846,Forest Dewey Dodrill,P108,Q349055,Wayne State University,P138,Q195664,Wayne County,1,Forest Dewey Dodrill works for [MASK] .,Wayne State University is named after [MASK] .
+Q212676,Petliura,P27,Q34266,Russian,P112,Q8479,Peter I,1,Petliura is [MASK] citizen .,Russian is founded by [MASK] .
+Q1058,Narendra Modi,P551,Q987,New Delhi,P30,Q48,Asia,1,Narendra Modi resides in [MASK] .,New Delhi is located in [MASK] .
+Q984278,Hrvoje Šarinić,P69,Q675848,Zagreb,P571,XMLSchema#dateTime,"September 23, 1669",1,Hrvoje Šarinić is educated at [MASK] .,Zagreb was founded on [MASK] .
+Q7782107,Theodore Wirth,P20,Q36091,Minneapolis,P47,Q985235,Fridley,1,Theodore Wirth died in [MASK] .,Minneapolis shares border with [MASK] .
+Q76,Barack Obama,P937,Q61,Washington DC,P30,Q828,Americas,1,Barack Obama used to work in [MASK] .,Washington DC is located in [MASK] .
+Q5751662,Hidayat Inayat Khan,P1066,Q140619,Nadia Boulanger,P570,XMLSchema#dateTime,22 October 1979,1,Hidayat Inayat Khan is the student of [MASK] .,Nadia Boulanger died on [MASK] .
+Q11857126,Eino Kujanpää,P1412,Q1412,Finnish,P31,Q171263,agglutinative,1,Eino Kujanpää translating pled spoken callback fluent [MASK] .,Finnish is a [MASK] .
+Q2892236,Richard Valentine Morris,P241,Q11220,United States Navy,P361,Q742787,United States Navy Department,1,Richard Valentine Morris is the military branch of [MASK] .,United States Navy is part of [MASK] .
+Q3034723,Domenico Bresolin,P20,Q641,Venice,P1435,Q9259,UNESCO World Heritage List,1,Domenico Bresolin died in [MASK] .,Venice has the heritage status of [MASK] .
+Q15428873,Oliver Sims,P108,Q37156,IBM,P112,Q2960084,Charles Ranlett Flint,1,Oliver Sims works for [MASK] .,IBM is founded by [MASK] .
+Q16588782,Johnley Hatimoana,P509,Q12192,pneumonia,P279,Q3631290,Lower respiratory infections,1,Johnley Hatimoana died due to [MASK] .,pneumonia is a subclass of [MASK] .
+Q4220929,Sayaka Kinoshita,P19,Q80011,Chiba Prefecture,P706,Q13989,Honshu,1,Sayaka Kinoshita was born in [MASK] .,Chiba Prefecture is located on [MASK] .
+Q12742,François Sudre (1787–1862),P27,Q142,France,P138,Q43482,Franks,1,François Sudre (1787–1862) is [MASK] citizen .,France is named after [MASK] .
+Q120488,Friedrich Heinrich Kern,P108,Q49167,Wesleyan University,P361,Q6652270,Little Three,1,Friedrich Heinrich Kern works for [MASK] .,Wesleyan University is part of [MASK] .
+Q65542,Theodor Blank,P20,Q586,Bonn,P206,Q584,Rhine,1,Theodor Blank died in [MASK] .,Bonn is located in or next to [MASK] .
+Q2074596,Leora Dana,P19,Q60,"New York City, New York",P206,Q3140,Hudson River,1,Leora Dana was born in [MASK] .,"New York City, New York is located in or next to [MASK] ."
+Q3430766,Richard Fletcher (bishop),P69,Q332342,"Trinity College, Cambridge",P138,Q37090,Trinity,1,Richard Fletcher (bishop) is educated at [MASK] .,"Trinity College, Cambridge is named after [MASK] ."
+Q16018630,Simeon R. Wilson,P241,Q11220,United States Navy,P361,Q742787,United States Navy Department,1,Simeon R. Wilson is the military branch of [MASK] .,United States Navy is part of [MASK] .
+Q5024397,Calvin Gotlieb,P463,Q94301,FRSC,P159,Q1930,Ottawa,1,Calvin Gotlieb is a member of [MASK] .,The headquarter of FRSC is in [MASK] .
+Q3428934,Reza Ghassemi,P1412,Q9168,Persian,P155,Q32063,Middle Persian,1,Reza Ghassemi translating pled spoken callback fluent [MASK] .,Persian follows [MASK] .
+Q2705170,Dionýz Ilkovič,P20,Q1780,Bratislava,P150,Q1091791,Rusovce,1,Dionýz Ilkovič died in [MASK] .,Bratislava contains the administrative territorial entity [MASK] .
+Q210069,Milton Obote,P27,Q1036,Uganda,P30,Q15,Africa,1,Milton Obote is [MASK] citizen .,Uganda is located in [MASK] .
+Q706363,Cassius Marcellus Clay,P937,Q1603,Kentucky,P138,Q1544834,Kentucky River,1,Cassius Marcellus Clay used to work in [MASK] .,Kentucky is named after [MASK] .
+Q76365,Regiomontanus,P937,Q2090,Nuremberg,P361,Q980,Bavaria,1,Regiomontanus used to work in [MASK] .,Nuremberg is part of [MASK] .
+Q188939,Emilio Aguinaldo,P39,Q1209571,President,P571,XMLSchema#dateTime,"November 15, 1935",1,Emilio Aguinaldo has the position of [MASK] .,President was founded on [MASK] .
+Q327616,Auguste Magdalene of Hessen-Darmstadt,P20,Q2973,Darmstadt,P1376,Q7916,Darmstadt-Dieburg,1,Auguste Magdalene of Hessen-Darmstadt died in [MASK] .,Darmstadt is the capital of [MASK] .
+Q1903142,Martial Asselin,P20,Q2145,Quebec City,P150,Q1659468,Beauport,1,Martial Asselin died in [MASK] .,Quebec City contains the administrative territorial entity [MASK] .
+Q7592420,"St Andrew St John, 14th Baron St John of Bletso",P463,Q123885,Royal Society,P155,Q5607577,1645 Group,1,"St Andrew St John, 14th Baron St John of Bletso is a member of [MASK] .",Royal Society follows [MASK] .
+Q4011283,Victoria Cabello,P19,Q84,London,P30,Q46,Europe,1,Victoria Cabello was born in [MASK] .,London is located in [MASK] .
+Q9030694,Mauricio Santa María Salamanca,P69,Q333886,Georgetown University,P463,Q7820700,Big East,1,Mauricio Santa María Salamanca is educated at [MASK] .,Georgetown University is a member of [MASK] .
+Q15616100,Justin Olson,P108,Q1444543,Arizona House,P131,Q816,Arizona,1,Justin Olson works for [MASK] .,Arizona House is located in [MASK] .
+Q297821,Lena Adelsohn Liljeroth,P102,Q110843,Moderate Party,P31,Q7278,political party,1,Lena Adelsohn Liljeroth is member of political party [MASK] .,Moderate Party is a [MASK] .
+Q11541339,Asako Narahashi,P19,Q1490,Tokyo,P527,Q308891,special wards,1,Asako Narahashi was born in [MASK] .,Tokyo consists of [MASK] .
+Q2299640,Lúcia Benedetti,P20,Q8678,Rio de Janeiro,P166,Q9259,UNESCO,1,Lúcia Benedetti died in [MASK] .,Rio de Janeiro was awarded [MASK] .
+Q272774,John Hancock,P39,Q887117,Governor,P17,Q30,American,1,John Hancock has the position of [MASK] .,Governor is located in [MASK] .
+Q15615850,Thomas Forese,P19,Q100,"Boston, Massachusetts",P112,Q720766,John Winthrop,1,Thomas Forese was born in [MASK] .,"Boston, Massachusetts is founded by [MASK] ."
+Q7528453,"Sir Peter Agnew, 1st Baronet",P241,Q172771,Royal Navy,P17,Q145,United Kingdom,1,"Sir Peter Agnew, 1st Baronet is the military branch of [MASK] .",Royal Navy is located in [MASK] .
+Q239917,Tina Arena,P264,Q183412,EMI,P740,Q84,London,1,Tina Arena is represented by music label [MASK] .,EMI was founded in [MASK] .
+Q5044530,Carol Rosenberger,P1066,Q140619,Nadia Boulanger,P569,XMLSchema#dateTime,16 September 1887,1,Carol Rosenberger is the student of [MASK] .,Nadia Boulanger was born on [MASK] .
+Q4307791,Musa Muradov,P1412,Q7737,Russian,P17,Q30,American,1,Musa Muradov translating pled spoken callback fluent [MASK] .,Russian is located in [MASK] .
+Q3814581,Kenneth Craik,P69,Q160302,Edinburgh,P276,Q23436,Edinburgh,1,Kenneth Craik is educated at [MASK] .,Edinburgh is located in [MASK] .
+Q544512,Angus Macintyre,P463,Q117467,FRSE,P159,Q23436,Edinburgh,1,Angus Macintyre is a member of [MASK] .,The headquarter of FRSE is in [MASK] .
+Q298726,John Zorn,P1303,Q9798,saxophonist,P138,Q181995,Adolphe Sax,1,John Zorn plays [MASK] .,saxophonist is named after [MASK] .
+Q15926046,Gonzalo Escudero,P20,Q240,Brussels,P155,Q848831,Brabant,1,Gonzalo Escudero died in [MASK] .,Brussels follows [MASK] .
+Q104372,Doris Day,P264,Q183387,Columbia Records,P31,Q18127,record label,1,Doris Day is represented by music label [MASK] .,Columbia Records is a [MASK] .
+Q1324685,Mihona Fujii,P106,Q191633,manga artist,P17,Q17,Japan,1,Mihona Fujii is a [MASK] by profession .,manga artist is located in [MASK] .
+Q572924,Anthony Braxton,P108,Q49167,Wesleyan University,P131,Q779,Connecticut,1,Anthony Braxton works for [MASK] .,Wesleyan University is located in [MASK] .
+Q3308077,Michael Burrows,P463,Q123885,FRS,P112,Q170373,Christopher Wren,1,Michael Burrows is a member of [MASK] .,FRS is founded by [MASK] .
+Q5218094,Daniel McCook,P607,Q8676,American Civil War,P17,Q30,American,1,Daniel McCook participated in the conflict of [MASK] .,American Civil War is located in [MASK] .
+Q1065014,Charles James (chemist),P69,Q193196,University College London,P361,Q170027,London,1,Charles James (chemist) is educated at [MASK] .,University College London is part of [MASK] .
+Q3048651,Knud Holmboe,P140,Q432,Islam,P112,Q9458,Muhammad,1,Knud Holmboe is affiliated with the [MASK] religion .,Islam is founded by [MASK] .
+Q3068598,Fernand Kazadi Lupelekese,P27,Q974,Congo,P47,Q967,Burundi,1,Fernand Kazadi Lupelekese is [MASK] citizen .,Congo shares border with [MASK] .
+Q31966,Saint Mark,P20,Q87,Alexandria,P138,Q8409,Alexander,1,Saint Mark died in [MASK] .,Alexandria is named after [MASK] .
+Q15781101,A. P. Venkateswaran,P20,Q1355,Bangalore,P17,Q668,India,1,A. P. Venkateswaran died in [MASK] .,Bangalore is located in [MASK] .
+Q5415923,Evans John Price,P19,Q176,Quebec,P571,XMLSchema#dateTime,"July 1, 1867",1,Evans John Price was born in [MASK] .,Quebec was founded on [MASK] .
+Q66619,Andreas von Bülow,P19,Q1731,Dresden,P706,Q314741,Dresden Basin,1,Andreas von Bülow was born in [MASK] .,Dresden is located on [MASK] .
+Q92666,Mark Jerrum,P69,Q160302,Edinburgh,P276,Q23436,Edinburgh,1,Mark Jerrum is educated at [MASK] .,Edinburgh is located in [MASK] .
+Q529707,Patrick Coveney,P140,Q9592,Roman Catholic,P527,Q597526,Latin,1,Patrick Coveney is affiliated with the [MASK] religion .,Roman Catholic consists of [MASK] .
+Q8298,David Guetta,P264,Q183412,EMI,P127,Q2405098,Terra Firma,1,David Guetta is represented by music label [MASK] .,EMI is owned by [MASK] .
+Q5237312,David McCurdy Baird,P463,Q94301,FRSC,P17,Q16,Canada,1,David McCurdy Baird is a member of [MASK] .,FRSC is located in [MASK] .
+Q89916,Friedrich Groos,P937,Q2966,Heidelberg,P206,Q1673,Neckar,1,Friedrich Groos used to work in [MASK] .,Heidelberg is located in or next to [MASK] .
+Q96687,Bastian Pastewka,P937,Q365,Cologne,P138,Q23048,Colonia Agrippina,1,Bastian Pastewka used to work in [MASK] .,Cologne is named after [MASK] .
+Q1251694,Doug Anthony,P102,Q946040,National Party,P159,Q3114,Canberra,1,Doug Anthony is member of political party [MASK] .,The headquarter of National Party is in [MASK] .
+Q6253338,John Prebble,P463,Q1468277,FRSL,P31,Q955824,learned society,1,John Prebble is a member of [MASK] .,FRSL is a [MASK] .
+Q281742,Peter Beets,P103,Q7411,Dutch,P17,Q730,Suriname,1,The native language of Peter Beets is [MASK] .,Dutch is located in [MASK] .
+Q18210691,Albert Wagelmans,P108,Q633529,Erasmus University Rotterdam,P138,Q43499,Erasmus,1,Albert Wagelmans works for [MASK] .,Erasmus University Rotterdam is named after [MASK] .
+Q3416050,Racha Arodaky,P19,Q3766,Damascus,P206,Q765106,Barada River,1,Racha Arodaky was born in [MASK] .,Damascus is located in or next to [MASK] .
+Q1375532,Otto Tief,P937,Q1770,Tallinn,P17,Q191,Estonian,1,Otto Tief used to work in [MASK] .,Tallinn is located in [MASK] .
+Q6293353,José María Vélaz,P611,Q36380,Jesuit,P112,Q44281,Ignacio de Loyola,1,José María Vélaz belongs to the religious order of [MASK] .,Jesuit is founded by [MASK] .
+Q369067,William Fletcher Barrett,P463,Q123885,FRS,P155,Q5607577,1645 Group,1,William Fletcher Barrett is a member of [MASK] .,FRS follows [MASK] .
+Q3391529,Antonio Zabálburu,P19,Q8692,Bilbao,P276,Q3995,Euskadi,1,Antonio Zabálburu was born in [MASK] .,Bilbao is located in [MASK] .
+Q1876086,Luigi Aldrovandi Marescotti,P27,Q172579,Italy,P571,XMLSchema#dateTime,17 March 1861,1,Luigi Aldrovandi Marescotti is [MASK] citizen .,Italy was founded on [MASK] .
+Q4720922,Alexandre de Riquer,P1412,Q7026,Catalan,P131,Q5720,Valencian Country,1,Alexandre de Riquer translating pled spoken callback fluent [MASK] .,Catalan is located in [MASK] .
+Q350781,Caecilius,P27,Q1747689,Rome,P527,Q17167,Roman Republic,1,Caecilius is [MASK] citizen .,Rome consists of [MASK] .
+Q332613,Salaheddine Bahaaeddin,P27,Q796,Iraq,P150,Q190131,Saladin Province,1,Salaheddine Bahaaeddin is [MASK] citizen .,Iraq contains the administrative territorial entity [MASK] .
+Q4275772,Chris McKenna (actor),P19,Q18424,"Queens, New York",P131,Q60,New York City,1,Chris McKenna (actor) was born in [MASK] .,"Queens, New York is located in [MASK] ."
+Q860271,Tomo Matsumoto,P19,Q35765,Osaka,P31,Q1749269,designated city,1,Tomo Matsumoto was born in [MASK] .,Osaka is a [MASK] .
+Q132148,St Aidan,P140,Q9592,Roman Catholic,P140,Q1841,Catholicity,1,St Aidan is affiliated with the [MASK] religion .,Roman Catholic is affiliated with the [MASK] religion .
+Q503264,Gregg Allman,P136,Q11399,rock,P31,Q188451,musical genre,1,Gregg Allman plays [MASK] music .,rock is a [MASK] .
+Q1371315,Hossein Amini,P1412,Q9168,Persian,P155,Q32063,Middle Persian,1,Hossein Amini translating pled spoken callback fluent [MASK] .,Persian follows [MASK] .
+Q173637,Ice Cube,P140,Q432,Islam,P279,Q47280,Abrahamic Faith,1,Ice Cube is affiliated with the [MASK] religion .,Islam is a subclass of [MASK] .
+Q251853,Ángel Reyes,P27,Q241,Cuba,P361,Q12585,Latin America,1,Ángel Reyes is [MASK] citizen .,Cuba is part of [MASK] .
+Q216199,Gunther Plaut,P20,Q172,Toronto,P30,Q49,North America,1,Gunther Plaut died in [MASK] .,Toronto is located in [MASK] .
+Q463194,Alexander Arutiunian,P136,Q9730,classical,P279,Q1583807,art music,1,Alexander Arutiunian plays [MASK] music .,classical is a subclass of [MASK] .
+Q9032662,Miguel Brieva,P19,Q8717,Seville,P31,Q2074737,municipality,1,Miguel Brieva was born in [MASK] .,Seville is a [MASK] .
+Q51472,Rouben Mamoulian,P172,Q79797,Armenian,P31,Q41710,ethnic group,1,Rouben Mamoulian belongs to the ethnic group of [MASK] .,Armenian is a [MASK] .
+Q6437921,Kristian Johan Bodøgaard,P1412,Q9043,Norwegian,P279,Q106085,North Germanic languages,1,Kristian Johan Bodøgaard translating pled spoken callback fluent [MASK] .,Norwegian is a subclass of [MASK] .
+Q377870,Deve Gowda,P39,Q192711,Prime Minister,P571,XMLSchema#dateTime,15 August 1947,1,Deve Gowda has the position of [MASK] .,Prime Minister was founded on [MASK] .
+Q989826,Enrique Rocha,P27,Q96,Mexico,P30,Q49,North America,1,Enrique Rocha is [MASK] citizen .,Mexico is located in [MASK] .
+Q321386,Mariano Egaña,P20,Q2887,Santiago,P131,Q45632,"Santiago Province, Chile",1,Mariano Egaña died in [MASK] .,Santiago is located in [MASK] .
+Q37767,Eliot,P551,Q1581,Missouri,P36,Q28180,Jefferson City,1,Eliot resides in [MASK] .,The capital of Missouri is [MASK] .
+Q6212557,Joe Sulzer,P241,Q9212,United States Army,P607,Q40949,Revolutionary War,1,Joe Sulzer is the military branch of [MASK] .,United States Army participated in the conflict of [MASK] .
+Q78100,Christian Gerthsen,P108,Q309988,Karlsruhe,P131,Q1040,Karlsruhe,1,Christian Gerthsen works for [MASK] .,Karlsruhe is located in [MASK] .
+Q273080,Patsy Cline,P264,Q557632,Decca,P159,Q21,England,1,Patsy Cline is represented by music label [MASK] .,The headquarter of Decca is in [MASK] .
+Q96666,Harro Heuser,P108,Q309988,Karlsruhe,P131,Q1040,Karlsruhe,1,Harro Heuser works for [MASK] .,Karlsruhe is located in [MASK] .
+Q5704092,Ariel Rivas,P27,Q786,Dominican,P706,Q664609,Caribbean,1,Ariel Rivas is [MASK] citizen .,Dominican is located on [MASK] .
+Q3525101,"Thomas Ewing, Jr.",P607,Q8676,American Civil War,P276,Q49042,American South,1,"Thomas Ewing, Jr. participated in the conflict of [MASK] .",American Civil War is located in [MASK] .
+Q16013982,Bill Warrender,P102,Q826977,Progressive Conservative,P159,Q172,Toronto,1,Bill Warrender is member of political party [MASK] .,The headquarter of Progressive Conservative is in [MASK] .
+Q2318350,Breck Eisner,P69,Q333886,Georgetown University,P140,Q9592,Roman Catholic,1,Breck Eisner is educated at [MASK] .,Georgetown University is affiliated with the [MASK] religion .
+Q7495300,Sherod Santos,P166,Q1316544,Guggenheim Fellowship,P138,Q724113,Simon Guggenheim,1,Sherod Santos was awarded [MASK] .,Guggenheim Fellowship is named after [MASK] .
+Q728214,Christian-Jaque,P19,Q90,Paris,P166,Q163700,Chevalier de la Légion d'honneur,1,Christian-Jaque was born in [MASK] .,Paris was awarded [MASK] .
+Q3087915,Joseph Sweetman Ames,P108,Q193727,Johns Hopkins University,P112,Q129598,Daniel Coit Gilman,1,Joseph Sweetman Ames works for [MASK] .,Johns Hopkins University is founded by [MASK] .
+Q153670,Primo Levi,P2632,Q7341,Auschwitz,P527,Q700356,Auschwitz III (Monowitz),1,Primo Levi was detained at [MASK] .,Auschwitz consists of [MASK] .
+Q1702129,John Weldon,P135,Q8361,Baroque,P31,Q188451,musical genre,1,John Weldon participated in the movement of [MASK] .,Baroque is a [MASK] .
+Q458650,António Vieira,P611,Q36380,Jesuit,P31,Q2061186,religious congregation,1,António Vieira belongs to the religious order of [MASK] .,Jesuit is a [MASK] .
+Q2080723,Petros Peloponnesios,P20,Q16869,Constantinople,P155,Q13089982,New Rome,1,Petros Peloponnesios died in [MASK] .,Constantinople follows [MASK] .
+Q18348303,Hans Wortmann,P108,Q850730,Groningen,P276,Q749,Groningen,1,Hans Wortmann works for [MASK] .,Groningen is located in [MASK] .
+Q6775090,Martin Burrell,P937,Q1930,Ottawa,P571,XMLSchema#dateTime,"January 1, 1850",1,Martin Burrell used to work in [MASK] .,Ottawa was founded on [MASK] .
+Q13053091,Levon Larents,P1412,Q8785,Armenian,P279,Q19860,Indo-European,1,Levon Larents translating pled spoken callback fluent [MASK] .,Armenian is a subclass of [MASK] .
+Q4701847,Aksu Hanttu,P27,Q33,Finland,P138,Q170284,Finn,1,Aksu Hanttu is [MASK] citizen .,Finland is named after [MASK] .
+Q6294148,Conny Varela,P102,Q199319,Popular Democratic Party,P31,Q7278,political party,1,Conny Varela is member of political party [MASK] .,Popular Democratic Party is a [MASK] .
+Q5112836,Christopher Mayo,P69,Q180865,Toronto,P159,Q172,Toronto,1,Christopher Mayo is educated at [MASK] .,The headquarter of Toronto is in [MASK] .
+Q5077695,Charles Flaherty,P19,Q100,"Boston, Massachusetts",P112,Q720766,John Winthrop,1,Charles Flaherty was born in [MASK] .,"Boston, Massachusetts is founded by [MASK] ."
+Q6144835,James W. LaBelle,P69,Q41506,Stanford University,P527,Q1147088,Hoover Institution,1,James W. LaBelle is educated at [MASK] .,Stanford University consists of [MASK] .
+Q4152095,Joseph Friedrich Hummel,P937,Q34713,Salzburg,P206,Q152661,Salzach,1,Joseph Friedrich Hummel used to work in [MASK] .,Salzburg is located in or next to [MASK] .
+Q2909723,Eli Ben-Menachem,P102,Q210703,Labor Party,P31,Q7278,political party,1,Eli Ben-Menachem is member of political party [MASK] .,Labor Party is a [MASK] .
+Q72979,Oskar Anderson,P19,Q2280,Minsk,P166,Q159438,hero cities,1,Oskar Anderson was born in [MASK] .,Minsk was awarded [MASK] .
+Q8939649,Chi Zijian,P1412,Q7850,Chinese,P279,Q45961,Sino-Tibetan language family,1,Chi Zijian translating pled spoken callback fluent [MASK] .,Chinese is a subclass of [MASK] .
+Q7620742,Stoyanka Mutafova,P551,Q472,Sofia,P17,Q219,Bulgaria,1,Stoyanka Mutafova resides in [MASK] .,Sofia is located in [MASK] .
+Q512156,Saturnin,P39,Q29182,bishop,P140,Q5043,Christian,1,Saturnin has the position of [MASK] .,bishop is affiliated with the [MASK] religion .
+Q6370919,Karin S. Woldseth,P937,Q585,Oslo,P31,Q5119,national capital,1,Karin S. Woldseth used to work in [MASK] .,Oslo is a [MASK] .
+Q139549,Zachris Topelius,P937,Q1757,Helsinki,P1376,Q33,Finland,1,Zachris Topelius used to work in [MASK] .,Helsinki is the capital of [MASK] .
+Q110024,Wilhelmine Kähler,P20,Q586,Bonn,P361,Q164903,Rhine-Ruhr,1,Wilhelmine Kähler died in [MASK] .,Bonn is part of [MASK] .
+Q4356643,Jacob Lorhard,P937,Q3869,Marburg,P1376,Q7902,Marburg-Biedenkopf,1,Jacob Lorhard used to work in [MASK] .,Marburg is the capital of [MASK] .
+Q7358707,Roger Najar,P27,Q419,Peru,P463,Q1065,United Nations,1,Roger Najar is [MASK] citizen .,Peru is a member of [MASK] .
+Q7794586,Thomas Tulis,P241,Q9212,United States Army,P571,XMLSchema#dateTime,14 June 1775,1,Thomas Tulis is the military branch of [MASK] .,United States Army was founded on [MASK] .
+Q3121086,Gustave-Antoine Richelot,P19,Q12191,Nantes,P166,Q686681,European Green Capital,1,Gustave-Antoine Richelot was born in [MASK] .,Nantes was awarded [MASK] .
+Q1405455,Terry Lyons (mathematician),P463,Q117467,FRSE,P131,Q23436,Edinburgh,1,Terry Lyons (mathematician) is a member of [MASK] .,FRSE is located in [MASK] .
+Q880908,Friend Richardson,P39,Q887010,Governor,P17,Q30,USA,1,Friend Richardson has the position of [MASK] .,Governor is located in [MASK] .
+Q151967,Saint Blase,P39,Q29182,bishop,P140,Q5043,Christian,1,Saint Blase has the position of [MASK] .,bishop is affiliated with the [MASK] religion .
+Q5341454,Edward A. Gilbert,P19,Q1204,Illinois,P571,XMLSchema#dateTime,"December 3, 1818",1,Edward A. Gilbert was born in [MASK] .,Illinois was founded on [MASK] .
+Q3565202,Wajid Ali Khan,P19,Q11739,Lahore,P131,Q4478,"Punjab, Pakistan",1,Wajid Ali Khan was born in [MASK] .,Lahore is located in [MASK] .
+Q6525205,Leonard Culhane,P108,Q193196,University College London,P361,Q170027,London,1,Leonard Culhane works for [MASK] .,University College London is part of [MASK] .
+Q391262,Merav Michaeli,P102,Q210703,Labor Party,P463,Q159454,Socialist International,1,Merav Michaeli is member of political party [MASK] .,Labor Party is a member of [MASK] .
+Q110758,Klaus Wiswe,P102,Q49762,CDU,P17,Q183,Germany,1,Klaus Wiswe is member of political party [MASK] .,CDU is located in [MASK] .
+Q972007,Eduardo Paes,P19,Q8678,Rio de Janeiro,P166,Q9259,UNESCO,1,Eduardo Paes was born in [MASK] .,Rio de Janeiro was awarded [MASK] .
+Q726972,Daniel J. King,P735,Q14516546,Daniel,P407,Q7737,Russian,1,[MASK] is the given name of Daniel J. King .,Daniel was written in [MASK] .
+Q6490125,Larry Cordle,P19,Q1603,Kentucky,P571,XMLSchema#dateTime,"June 1, 1792",1,Larry Cordle was born in [MASK] .,Kentucky was founded on [MASK] .
+Q766185,James B. Frazier,P19,Q1509,Tennessee,P571,XMLSchema#dateTime,"June 1, 1796",1,James B. Frazier was born in [MASK] .,Tennessee was founded on [MASK] .
+Q7527696,"Sir John Curzon, 1st Baronet",P27,Q179876,England,P155,Q330362,Commonwealth,1,"Sir John Curzon, 1st Baronet is [MASK] citizen .",England follows [MASK] .
+Q4631,Mohamed Morsi,P140,Q432,Islam,P31,Q9174,religious movement,1,Mohamed Morsi is affiliated with the [MASK] religion .,Islam is a [MASK] .
+Q1872007,Louis Tiercelin,P19,Q647,Rennes,P131,Q12549,Ille-et-Vilaine,1,Louis Tiercelin was born in [MASK] .,Rennes is located in [MASK] .
+Q2706048,Thomas Brown,P463,Q117467,FRSE,P131,Q23436,Edinburgh,1,Thomas Brown is a member of [MASK] .,FRSE is located in [MASK] .
+Q931209,Harry Vandiver,P166,Q1316544,Guggenheim Fellowship,P17,Q30,American,1,Harry Vandiver was awarded [MASK] .,Guggenheim Fellowship is located in [MASK] .
+Q4820205,Audrius Rudys,P937,Q216,Vilnius,P17,Q37,Lithuania,1,Audrius Rudys used to work in [MASK] .,Vilnius is located in [MASK] .
+Q1736547,Kathryn Tucker Windham,P551,Q173,Alabama,P150,Q503088,Winston County,1,Kathryn Tucker Windham resides in [MASK] .,Alabama contains the administrative territorial entity [MASK] .
+Q543409,Nils Flyg,P937,Q1754,Stockholm,P150,Q10436033,Bromma,1,Nils Flyg used to work in [MASK] .,Stockholm contains the administrative territorial entity [MASK] .
+Q2644084,Alexina Louie,P463,Q94301,FRSC,P17,Q16,Canada,1,Alexina Louie is a member of [MASK] .,FRSC is located in [MASK] .
+Q6821244,Mesh Flinders,P551,Q99,California,P17,Q30,United States,1,Mesh Flinders resides in [MASK] .,California is located in [MASK] .
+Q128911,Ezer Weizman,P241,Q165862,Royal Air Force,P361,Q275482,British Armed Forces,1,Ezer Weizman is the military branch of [MASK] .,Royal Air Force is part of [MASK] .
+Q5694126,Heather Stefanson,P27,Q16,Canada,P36,Q1930,Ottawa,1,Heather Stefanson is [MASK] citizen .,The capital of Canada is [MASK] .
+Q19370765,Laurie Graff,P19,Q1384,New York,P36,Q24861,Albany,1,Laurie Graff was born in [MASK] .,The capital of New York is [MASK] .
+Q4418102,Narek Seferjan,P641,Q718,chess,P31,Q131436,pawns,1,Narek Seferjan plays the sport [MASK] .,chess is a [MASK] .
+Q1448465,Jan Widacki,P69,Q189441,Kraków,P527,Q24101,Jagiellonian Library,1,Jan Widacki is educated at [MASK] .,Kraków consists of [MASK] .
+Q2156904,Dilworth,P20,Q99,California,P36,Q18013,"Sacramento, California",1,Dilworth died in [MASK] .,The capital of California is [MASK] .
+Q5919821,Howard H. Dunn,P102,Q7314659,Republican,P131,Q1527,Minnesota,1,Howard H. Dunn is member of political party [MASK] .,Republican is located in [MASK] .
+Q2962121,Cheikh Tidiane Gadio,P27,Q1041,Senegal,P138,Q3569,Sénégal,1,Cheikh Tidiane Gadio is [MASK] citizen .,Senegal is named after [MASK] .
+Q123829,George Gershwin,P20,Q34006,Hollywood,P131,Q65,"Los Angeles, California",1,George Gershwin died in [MASK] .,Hollywood is located in [MASK] .
+Q1200458,Des McNulty,P102,Q3179541,Labour,P1001,Q145,UK,1,Des McNulty is member of political party [MASK] .,Labour is a legal term in [MASK] .
+Q1295611,Toby Emmerich,P69,Q49167,Wesleyan University,P138,Q213393,John Wesley,1,Toby Emmerich is educated at [MASK] .,Wesleyan University is named after [MASK] .
+Q2545334,Walter Ledermann,P463,Q117467,FRSE,P131,Q23436,Edinburgh,1,Walter Ledermann is a member of [MASK] .,FRSE is located in [MASK] .
+Q5423839,F. Burton Jones,P108,Q49213,Texas,P31,Q875538,public university,1,F. Burton Jones works for [MASK] .,Texas is a [MASK] .
+Q15830508,Vanessa Cailhol,P19,Q7880,Toulouse,P131,Q12538,Haute-Garonne,1,Vanessa Cailhol was born in [MASK] .,Toulouse is located in [MASK] .
+Q5525123,Gary George (Wisconsin politician),P19,Q37836,"Milwaukee, Wisconsin",P1376,Q502294,Milwaukee County,1,Gary George (Wisconsin politician) was born in [MASK] .,"Milwaukee, Wisconsin is the capital of [MASK] ."
+Q1356470,Ernest McCulloch,P108,Q180865,Toronto,P527,Q2156146,Robarts Library,1,Ernest McCulloch works for [MASK] .,Toronto consists of [MASK] .
+Q239501,Fay Weldon,P463,Q1468277,FRSL,P31,Q955824,learned society,1,Fay Weldon is a member of [MASK] .,FRSL is a [MASK] .
+Q5079511,Charles John Barnett,P241,Q222595,British Army,P138,Q9682,Her Britannic Majesty,1,Charles John Barnett is the military branch of [MASK] .,British Army is named after [MASK] .
+Q3160296,Jacques de Lamberville,P611,Q36380,Jesuit,P112,Q44281,Ignacio de Loyola,1,Jacques de Lamberville belongs to the religious order of [MASK] .,Jesuit is founded by [MASK] .
+Q6220080,John Burnett Parkin,P20,Q65,"Los Angeles, California",P30,Q49,North America,1,John Burnett Parkin died in [MASK] .,"Los Angeles, California is located in [MASK] ."
+Q1178477,Dawaun Parker,P69,Q248970,Berklee,P159,Q100,Boston,1,Dawaun Parker is educated at [MASK] .,The headquarter of Berklee is in [MASK] .
+Q271032,Arnold,P69,Q805285,"Balliol College, Oxford",P361,Q34433,Oxford,1,Arnold is educated at [MASK] .,"Balliol College, Oxford is part of [MASK] ."
+Q2716914,Pauline Johnson,P20,Q24639,Vancouver,P47,Q991329,West Vancouver,1,Pauline Johnson died in [MASK] .,Vancouver shares border with [MASK] .
+Q3328184,Murray Campbell,P641,Q718,chess,P279,Q131436,pawns,1,Murray Campbell plays the sport [MASK] .,chess is a subclass of [MASK] .
+Q4733330,Allu Rama Lingaiah,P103,Q8097,Telugu,P279,Q33311,Dravidian languages,1,The native language of Allu Rama Lingaiah is [MASK] .,Telugu is a subclass of [MASK] .
+Q192185,Aaron Copland,P1066,Q140619,Nadia Boulanger,P569,XMLSchema#dateTime,16 September 1887,1,Aaron Copland is the student of [MASK] .,Nadia Boulanger was born on [MASK] .
+Q13052750,Yenovk Shahen,P172,Q79797,Armenian,P31,Q41710,ethnic group,1,Yenovk Shahen belongs to the ethnic group of [MASK] .,Armenian is a [MASK] .
+Q3554558,Vanessa Wagner,P19,Q647,Rennes,P31,Q484170,commune,1,Vanessa Wagner was born in [MASK] .,Rennes is a [MASK] .
+Q10375292,Suzy King,P19,Q155,Brazil,P155,Q2088324,Portuguese colony,1,Suzy King was born in [MASK] .,Brazil follows [MASK] .
+Q1749745,L. Irving Handy,P551,Q174224,Wilmington,P1376,Q156156,"New Castle County, Delaware",1,L. Irving Handy resides in [MASK] .,Wilmington is the capital of [MASK] .
+Q707511,Itzhak Katzenelson,P2632,Q7341,Auschwitz,P1435,Q9259,World Heritage Site,1,Itzhak Katzenelson was detained at [MASK] .,Auschwitz has the heritage status of [MASK] .
+Q560535,George Pisida,P20,Q16869,Constantinople,P155,Q13089982,New Rome,1,George Pisida died in [MASK] .,Constantinople follows [MASK] .
+Q5216450,Daniel Awdry,P735,Q14516546,Daniel,P407,Q7737,Russian,1,[MASK] is the given name of Daniel Awdry .,Daniel was written in [MASK] .
+Q3318377,Mohammed Aziz Lahbabi,P69,Q209842,Paris,P112,Q508679,Robert de Sorbon,1,Mohammed Aziz Lahbabi is educated at [MASK] .,Paris is founded by [MASK] .
+Q287514,Marc Bolan,P27,Q21,England,P131,Q145,United Kingdom,1,Marc Bolan is [MASK] citizen .,England is located in [MASK] .
+Q2238704,Zuhal Demir,P102,Q28982,N-VA,P31,Q7278,political party,1,Zuhal Demir is member of political party [MASK] .,N-VA is a [MASK] .
+Q230136,Teresa Wright,P1411,Q103618,Best Actress,P31,Q19020,Academy Award,1,Teresa Wright was nominated for [MASK] .,Best Actress is a [MASK] .
+Q418621,Akio Yashiro,P1066,Q140619,Nadia Boulanger,P570,XMLSchema#dateTime,22 October 1979,1,Akio Yashiro is the student of [MASK] .,Nadia Boulanger died on [MASK] .
+Q3704277,Deantoni Parks,P69,Q248970,Berklee,P159,Q100,Boston,1,Deantoni Parks is educated at [MASK] .,The headquarter of Berklee is in [MASK] .
+Q1985740,Sheram,P172,Q79797,Armenian,P140,Q683724,Armenian Apostolic,1,Sheram belongs to the ethnic group of [MASK] .,Armenian is affiliated with the [MASK] religion .
+Q62330,Ferdinand Sauerbruch,P108,Q55044,Munich,P17,Q183,Germany,1,Ferdinand Sauerbruch works for [MASK] .,Munich is located in [MASK] .
+Q51068,Karl,P140,Q9592,Roman Catholic,P159,Q159583,Rome,1,Karl is affiliated with the [MASK] religion .,The headquarter of Roman Catholic is in [MASK] .
+Q674592,Joan Martorell,P1412,Q7026,Catalan,P279,Q599958,Occitano-Romance,1,Joan Martorell translating pled spoken callback fluent [MASK] .,Catalan is a subclass of [MASK] .
+Q3801707,Ippolit Monighetti,P27,Q34266,Russia,P155,Q186096,Russia,1,Ippolit Monighetti is [MASK] citizen .,Russia follows [MASK] .
+Q235203,Angela Aki,P27,Q17,Japan,P571,XMLSchema#dateTime,"May 3, 1947",1,Angela Aki is [MASK] citizen .,Japan was founded on [MASK] .
+Q1029499,Alexander Moyzes,P27,Q214,Slovak,P131,Q140359,Czechoslovakia,1,Alexander Moyzes is [MASK] citizen .,Slovak is located in [MASK] .
+Q189597,Philo,P19,Q87,Alexandria,P138,Q8409,Alexander,1,Philo was born in [MASK] .,Alexandria is named after [MASK] .
+Q90210,Hanns-Peter Boehm,P108,Q55044,Munich,P138,Q44319,Maximilian I,1,Hanns-Peter Boehm works for [MASK] .,Munich is named after [MASK] .
+Q7803867,Tim Macindoe,P102,Q204716,National Party,P31,Q7278,political party,1,Tim Macindoe is member of political party [MASK] .,National Party is a [MASK] .
+Q4958197,Åsa-Britt Karlsson,P1412,Q9027,Swedish,P527,Q2417210,Old Swedish,1,Åsa-Britt Karlsson translating pled spoken callback fluent [MASK] .,Swedish consists of [MASK] .
+Q2146535,Reuben Kamanga,P27,Q953,Zambia,P30,Q15,Africa,1,Reuben Kamanga is [MASK] citizen .,Zambia is located in [MASK] .
+Q205519,Jacopo Peri,P135,Q8361,Baroque,P361,Q37853,baroque,1,Jacopo Peri participated in the movement of [MASK] .,Baroque is part of [MASK] .
+Q8015338,William McClintock-Bunbury,P241,Q172771,Royal Navy,P241,Q4508,US Navy,1,William McClintock-Bunbury is the military branch of [MASK] .,Royal Navy is the military branch of [MASK] .
+Q1695639,Johann Nauwach,P20,Q1731,Dresden,P706,Q314741,Dresden Basin,1,Johann Nauwach died in [MASK] .,Dresden is located on [MASK] .
+Q2941824,Catherine Baker,P19,Q648,Lille,P166,Q163700,Légion d'honneur,1,Catherine Baker was born in [MASK] .,Lille was awarded [MASK] .
+Q312692,Bud Powell,P264,Q885833,Blue Note,P17,Q30,American,1,Bud Powell is represented by music label [MASK] .,Blue Note is located in [MASK] .
+Q4937406,Silvia Balletti,P19,Q7880,Toulouse,P276,Q104285,Occitania,1,Silvia Balletti was born in [MASK] .,Toulouse is located in [MASK] .
+Q101740,Benoit Mandelbrot,P108,Q37156,IBM,P112,Q2960084,Charles Ranlett Flint,1,Benoit Mandelbrot works for [MASK] .,IBM is founded by [MASK] .
+Q1034754,Friedrich Hefty,P607,Q361,World War I,P276,Q46,Europe,1,Friedrich Hefty participated in the conflict of [MASK] .,World War I is located in [MASK] .
+Q1059948,Khalifa,P140,Q432,Islam,P31,Q9174,religious movement,1,Khalifa is affiliated with the [MASK] religion .,Islam is a [MASK] .
+Q5537280,George Bromley (politician),P27,Q179876,English,P156,Q330362,Commonwealth,1,George Bromley (politician) is [MASK] citizen .,English is followed by [MASK] .
+Q340200,William A. Trimble,P102,Q42186,Democratic-Republican,P155,Q574557,Anti-Administration,1,William A. Trimble is member of political party [MASK] .,Democratic-Republican follows [MASK] .
+Q282121,Yoshiyuki Sadamoto,P27,Q17,Japan,P150,Q1490,Tokyo,1,Yoshiyuki Sadamoto is [MASK] citizen .,Japan contains the administrative territorial entity [MASK] .
+Q8002885,Will Hubbard,P607,Q361,World War I,P1346,Q30,American,1,Will Hubbard participated in the conflict of [MASK] .,The winner of World War I is [MASK] .
+Q3251404,Viviana Gibelli,P19,Q1533,Caracas,P112,Q2352507,Diego de Losada,1,Viviana Gibelli was born in [MASK] .,Caracas is founded by [MASK] .
+Q76356,Hans-Georg Gadamer,P108,Q151510,Heidelberg,P159,Q2966,Heidelberg,1,Hans-Georg Gadamer works for [MASK] .,The headquarter of Heidelberg is in [MASK] .
+Q4722769,Alfred H. Moses,P69,Q49116,Dartmouth College,P463,Q49113,Ivy League,1,Alfred H. Moses is educated at [MASK] .,Dartmouth College is a member of [MASK] .
+Q7175983,Peter Muller (architect),P19,Q5112,Adelaide,P138,Q57645,Queen Adelaide,1,Peter Muller (architect) was born in [MASK] .,Adelaide is named after [MASK] .
+Q36949,Robert De Niro,P551,Q11299,Manhattan,P47,Q18419,"Brooklyn, NY",1,Robert De Niro resides in [MASK] .,Manhattan shares border with [MASK] .
+Q722432,Sam Rivers,P1303,Q9798,saxophonist,P138,Q181995,Adolphe Sax,1,Sam Rivers plays [MASK] .,saxophonist is named after [MASK] .
+Q351904,Adams George Archibald,P937,Q1930,Ottawa,P206,Q60974,Ottawa River,1,Adams George Archibald used to work in [MASK] .,Ottawa is located in or next to [MASK] .
+Q272069,Damon Albarn,P136,Q11366,alternative rock,P31,Q188451,musical genre,1,Damon Albarn plays [MASK] music .,alternative rock is a [MASK] .
+Q3101552,George Edwin King,P69,Q49167,Wesleyan University,P138,Q213393,John Wesley,1,George Edwin King is educated at [MASK] .,Wesleyan University is named after [MASK] .
+Q350360,Adam Makowicz,P937,Q172,Toronto,P30,Q49,North America,1,Adam Makowicz used to work in [MASK] .,Toronto is located in [MASK] .
+Q189375,Apollodorus,P27,Q1747689,Rome,P706,Q72499,Mediterranean Basin,1,Apollodorus is [MASK] citizen .,Rome is located on [MASK] .
+Q7787096,Thomas Anthony Dooley III,P241,Q11220,United States Navy,P31,Q4508,naval,1,Thomas Anthony Dooley III is the military branch of [MASK] .,United States Navy is a [MASK] .
+Q744052,Simon-Pierre Diamond,P102,Q1631384,Liberal,P159,Q2145,Quebec City,1,Simon-Pierre Diamond is member of political party [MASK] .,The headquarter of Liberal is in [MASK] .
+Q695501,Hans Krása,P2632,Q7341,Auschwitz,P31,Q328468,Nazi concentration camps,1,Hans Krása was detained at [MASK] .,Auschwitz is a [MASK] .
+Q447516,Dušan Dragosavac,P69,Q675848,Zagreb,P571,XMLSchema#dateTime,"September 23, 1669",1,Dušan Dragosavac is educated at [MASK] .,Zagreb was founded on [MASK] .
+Q4798925,Arthur H. Bulbulian,P69,Q238101,Minnesota,P159,Q36091,"Minneapolis, MN",1,Arthur H. Bulbulian is educated at [MASK] .,The headquarter of Minnesota is in [MASK] .
+Q540225,Gamze Özçelik,P19,Q406,Istanbul,P155,Q16869,Constantinopel,1,Gamze Özçelik was born in [MASK] .,Istanbul follows [MASK] .
+Q28614,Garry Kasparov,P641,Q718,chess,P279,Q131436,pawns,1,Garry Kasparov plays the sport [MASK] .,chess is a subclass of [MASK] .
+Q1662842,Inge von Wangenheim,P102,Q153401,Communist Party,P156,Q49750,Socialist Unity Party,1,Inge von Wangenheim is member of political party [MASK] .,Communist Party is followed by [MASK] .
+Q2960945,Charlotte Barnum,P69,Q49112,Yale University,P527,Q2784420,Yale University,1,Charlotte Barnum is educated at [MASK] .,Yale University consists of [MASK] .
+Q6696677,Lucia Witbooi,P102,Q467711,SWAPO,P571,XMLSchema#dateTime,19 April 1960,1,Lucia Witbooi is member of political party [MASK] .,SWAPO was founded on [MASK] .
+Q57180,Frederick William IV,P20,Q1711,Potsdam,P150,Q797635,Babelsberg,1,Frederick William IV died in [MASK] .,Potsdam contains the administrative territorial entity [MASK] .
+Q1891789,Manuel del Cabral,P27,Q786,Dominican Republic,P463,Q1065,UN,1,Manuel del Cabral is [MASK] citizen .,Dominican Republic is a member of [MASK] .
+Q730149,Samuel Johnston,P39,Q16202700,Governor,P1001,Q1454,North Carolina,1,Samuel Johnston has the position of [MASK] .,Governor is a legal term in [MASK] .
+Q100255,Paul Schäfer (politician),P551,Q1720,Mainz,P47,Q8569,Mainz-Bingen,1,Paul Schäfer (politician) resides in [MASK] .,Mainz shares border with [MASK] .
+Q86191,Wolfgang Abel,P102,Q7320,NSDAP,P156,Q151250,neo-Nazi,1,Wolfgang Abel is member of political party [MASK] .,NSDAP is followed by [MASK] .
+Q7606513,Stefanos Granitsas,P1412,Q9129,Greek,P17,Q41,Greece,1,Stefanos Granitsas translating pled spoken callback fluent [MASK] .,Greek is located in [MASK] .
+Q6160024,Jared Maddux,P19,Q1509,Tennessee,P571,XMLSchema#dateTime,"June 1, 1796",1,Jared Maddux was born in [MASK] .,Tennessee was founded on [MASK] .
+Q3140441,Horace B. Carpenter,P509,Q12152,heart attack,P31,Q12136,morbidity,1,Horace B. Carpenter died due to [MASK] .,heart attack is a [MASK] .
+Q3160296,Jacques de Lamberville,P611,Q36380,Jesuit,P31,Q2061186,religious congregation,1,Jacques de Lamberville belongs to the religious order of [MASK] .,Jesuit is a [MASK] .
+Q3263187,Louis Thuillier,P20,Q87,Alexandria,P30,Q15,Africa,1,Louis Thuillier died in [MASK] .,Alexandria is located in [MASK] .
+Q210564,Michael VII Doukas,P19,Q16869,Constantinople,P155,Q13089982,New Rome,1,Michael VII Doukas was born in [MASK] .,Constantinople follows [MASK] .
+Q7173689,Peter Doig (politician),P102,Q9630,British Labour Party,P527,Q3179541,Scottish Labour Party,1,Peter Doig (politician) is member of political party [MASK] .,British Labour Party consists of [MASK] .
+Q5540872,"George Hunter (politician, born 1859)",P20,Q23661,Wellington,P527,Q1015681,Lower Hutt,1,"George Hunter (politician, born 1859) died in [MASK] .",Wellington consists of [MASK] .
+Q234807,Carmen Maura,P27,Q29,Spain,P47,Q142,France,1,Carmen Maura is [MASK] citizen .,Spain shares border with [MASK] .
+Q116141,Sergius Golowin,P106,Q182436,librarian,P937,Q7075,library,1,Sergius Golowin is a [MASK] by profession .,librarian used to work in [MASK] .
+Q5401189,Esther Hall,P69,Q503424,Leeds,P527,Q6516149,Leeds University Business School,1,Esther Hall is educated at [MASK] .,Leeds consists of [MASK] .
+Q15844693,C. R. Simha,P20,Q1355,Bangalore,P1376,Q1185,Karnataka,1,C. R. Simha died in [MASK] .,Bangalore is the capital of [MASK] .
+Q5230539,David A. Verhaagen,P69,Q192334,Chapel Hill,P361,Q1191202,UNC,1,David A. Verhaagen is educated at [MASK] .,Chapel Hill is part of [MASK] .
+Q6280445,Josep Carcoler,P1412,Q7026,Catalan,P131,Q5720,Valencian Country,1,Josep Carcoler translating pled spoken callback fluent [MASK] .,Catalan is located in [MASK] .
+Q1701035,John McKay (mathematician),P69,Q230899,Manchester,P463,Q590631,Russell Group,1,John McKay (mathematician) is educated at [MASK] .,Manchester is a member of [MASK] .
+Q294109,Michael Psellus,P19,Q16869,Constantinople,P155,Q13089982,New Rome,1,Michael Psellus was born in [MASK] .,Constantinople follows [MASK] .
+Q6297584,Joyce Mekeel,P1066,Q140619,Nadia Boulanger,P27,Q142,France,1,Joyce Mekeel is the student of [MASK] .,Nadia Boulanger is [MASK] citizen .
+Q2644646,"Easley Blackwood, Jr.",P1066,Q140619,Nadia Boulanger,P108,Q470082,American Conservatory,1,"Easley Blackwood, Jr. is the student of [MASK] .",Nadia Boulanger works for [MASK] .
+Q191819,George Martin,P264,Q183412,EMI,P740,Q84,London,1,George Martin is represented by music label [MASK] .,EMI was founded in [MASK] .
+Q237994,Carol Ann Duffy,P463,Q1468277,FRSL,P31,Q955824,learned society,1,Carol Ann Duffy is a member of [MASK] .,FRSL is a [MASK] .
+Q1047948,Kálmán Tihanyi,P20,Q1781,Budapest,P17,Q28,Hungary,1,Kálmán Tihanyi died in [MASK] .,Budapest is located in [MASK] .
+Q724121,Pat Brown,P39,Q887010,Governor,P17,Q30,USA,1,Pat Brown has the position of [MASK] .,Governor is located in [MASK] .
+Q1527667,Johann Gerhard Reinhard Andreae,P20,Q1715,Hanover,P206,Q161051,River Leine,1,Johann Gerhard Reinhard Andreae died in [MASK] .,Hanover is located in or next to [MASK] .
+Q107264,"Robert Lucas, Jr.",P108,Q131252,Chicago,P527,Q7895255,Divinity School,1,"Robert Lucas, Jr. works for [MASK] .",Chicago consists of [MASK] .
+Q4865504,Bartolomeo Barbarino,P135,Q8361,Baroque,P31,Q188451,musical genre,1,Bartolomeo Barbarino participated in the movement of [MASK] .,Baroque is a [MASK] .
+Q34424,Shakira,P108,Q216364,Epic Records,P127,Q330629,Sony Music Entertainment,1,Shakira works for [MASK] .,Epic Records is owned by [MASK] .
+Q4937486,Bogdan Žižić,P69,Q675848,Zagreb,P571,XMLSchema#dateTime,"September 23, 1669",1,Bogdan Žižić is educated at [MASK] .,Zagreb was founded on [MASK] .
+Q76819,Christoph Waltz,P1411,Q106291,Best Supporting Actor,P1346,Q150943,Gene Hackman,1,Christoph Waltz was nominated for [MASK] .,The winner of Best Supporting Actor is [MASK] .
+Q113803,Rudolf Simek,P108,Q165980,Vienna,P112,Q156404,Rudolf IV,1,Rudolf Simek works for [MASK] .,Vienna is founded by [MASK] .
+Q1247554,Jim Tolson,P39,Q1711695,MSP,P1001,Q22,Scotland,1,Jim Tolson has the position of [MASK] .,MSP is a legal term in [MASK] .
+Q362919,František Kriegel,P102,Q727724,Communist Party,P31,Q7278,political party,1,František Kriegel is member of political party [MASK] .,Communist Party is a [MASK] .
+Q5993313,Igor Gräzin,P19,Q13972,Tartu,P138,Q2610857,Taara,1,Igor Gräzin was born in [MASK] .,Tartu is named after [MASK] .
+Q245257,William Styron,P551,Q1370,Virginia,P206,Q97,Atlantic,1,William Styron resides in [MASK] .,Virginia is located in or next to [MASK] .
+Q2471171,Siarhiej Dubaviec,P27,Q184,Belarusian,P571,XMLSchema#dateTime,25 August 1991,1,Siarhiej Dubaviec is [MASK] citizen .,Belarusian was founded on [MASK] .
+Q7810605,Tjekero Tweya,P102,Q467711,SWAPO,P17,Q1030,Namibia,1,Tjekero Tweya is member of political party [MASK] .,SWAPO is located in [MASK] .
+Q116639,Patriarch Nicephorus,P20,Q16869,Constantinople,P156,Q406,Istanbul,1,Patriarch Nicephorus died in [MASK] .,Constantinople is followed by [MASK] .
+Q3938271,Robert Flint,P27,Q22,Scottish,P131,Q145,United Kingdom,1,Robert Flint is [MASK] citizen .,Scottish is located in [MASK] .
+Q2153541,Johann van Beethoven,P20,Q586,Bonn,P361,Q164903,Rhine-Ruhr,1,Johann van Beethoven died in [MASK] .,Bonn is part of [MASK] .
+Q6755397,Marc Biedermann,P1303,Q6607,guitar,P279,Q230262,plucked string instrument,1,Marc Biedermann plays [MASK] .,guitar is a subclass of [MASK] .
+Q603103,Antonio Magliabechi,P106,Q182436,librarian,P937,Q7075,library,1,Antonio Magliabechi is a [MASK] by profession .,librarian used to work in [MASK] .
+Q4587714,Ottar Brox,P69,Q486156,Oslo,P17,Q20,Norwegian,1,Ottar Brox is educated at [MASK] .,Oslo is located in [MASK] .
+Q1200458,Des McNulty,P102,Q3179541,Labour,P361,Q9630,Labour Party (UK),1,Des McNulty is member of political party [MASK] .,Labour is part of [MASK] .
+Q3051063,Elisa Cegani,P1412,Q652,Italian,P31,Q661936,pro-drop,1,Elisa Cegani translating pled spoken callback fluent [MASK] .,Italian is a [MASK] .
+Q608706,Ángela Figuera Aymerich,P19,Q8692,Bilbao,P276,Q3995,Euskadi,1,Ángela Figuera Aymerich was born in [MASK] .,Bilbao is located in [MASK] .
+Q15731153,Jelena Gavrilović,P19,Q3711,Belgrade,P1376,Q403,Serbia,1,Jelena Gavrilović was born in [MASK] .,Belgrade is the capital of [MASK] .
+Q3506567,Karol Zachar,P20,Q1780,Bratislava,P206,Q1653,Danube,1,Karol Zachar died in [MASK] .,Bratislava is located in or next to [MASK] .
+Q468838,Griselda Gambaro,P166,Q1316544,Guggenheim Fellowship,P138,Q724113,Simon Guggenheim,1,Griselda Gambaro was awarded [MASK] .,Guggenheim Fellowship is named after [MASK] .
+Q211588,Nick Drake,P264,Q190585,Island Records,P112,Q861129,Chris Blackwell,1,Nick Drake is represented by music label [MASK] .,Island Records is founded by [MASK] .
+Q6390199,Kenneth Hecht,P69,Q49116,Dartmouth College,P463,Q49113,Ivy League,1,Kenneth Hecht is educated at [MASK] .,Dartmouth College is a member of [MASK] .
+Q19414005,Maximilian Herzberger,P20,Q34404,New Orleans,P47,Q503883,Saint Bernard Parish,1,Maximilian Herzberger died in [MASK] .,New Orleans shares border with [MASK] .
+Q1346769,Jeremy Collier,P39,Q29182,bishop,P140,Q5043,Christian,1,Jeremy Collier has the position of [MASK] .,bishop is affiliated with the [MASK] religion .
+Q15056400,Hans Konrad Biesalski,P19,Q3869,Marburg,P31,Q1187811,university town,1,Hans Konrad Biesalski was born in [MASK] .,Marburg is a [MASK] .
+Q11641,Grace Hopper,P241,Q11220,United States Navy,P159,Q61,"Washington, D.C., USA",1,Grace Hopper is the military branch of [MASK] .,The headquarter of United States Navy is in [MASK] .
+Q5129165,Claudia Emerson,P166,Q2117891,Pulitzer Prize,P31,Q618779,award,1,Claudia Emerson was awarded [MASK] .,Pulitzer Prize is a [MASK] .
+Q1071573,Dmitry Girs,P20,Q656,Petersburg,P138,Q33923,Peter,1,Dmitry Girs died in [MASK] .,Petersburg is named after [MASK] .
+Q60779,Curt von Bardeleben,P641,Q718,chess,P279,Q131436,pawns,1,Curt von Bardeleben plays the sport [MASK] .,chess is a subclass of [MASK] .
+Q1646476,Agnes Lum,P19,Q18094,"Honolulu, Hawaii",P131,Q547795,Hawaii,1,Agnes Lum was born in [MASK] .,"Honolulu, Hawaii is located in [MASK] ."
+Q323768,Johann Wilhelm Furchheim,P19,Q1731,Dresden,P706,Q314741,Dresden Basin,1,Johann Wilhelm Furchheim was born in [MASK] .,Dresden is located on [MASK] .
+Q1317610,Kumiko Watanabe,P19,Q80011,Chiba Prefecture,P706,Q13989,Honshu,1,Kumiko Watanabe was born in [MASK] .,Chiba Prefecture is located on [MASK] .
+Q1563403,Robert Kurbaša,P1412,Q6654,Croatian,P361,Q9301,Serbo-Croatian,1,Robert Kurbaša translating pled spoken callback fluent [MASK] .,Croatian is part of [MASK] .
+Q5485887,Junior Coghlan,P241,Q11220,United States Navy,P159,Q61,"Washington, D.C., USA",1,Junior Coghlan is the military branch of [MASK] .,The headquarter of United States Navy is in [MASK] .
+Q131318,Juan Ramón Jiménez,P1411,Q37922,Nobel Prize,P31,Q7191,Nobel Prize,1,Juan Ramón Jiménez was nominated for [MASK] .,Nobel Prize is a [MASK] .
+Q4859179,Barbara Myerhoff,P108,Q4614,Southern California,P31,Q163740,not-for-profit,1,Barbara Myerhoff works for [MASK] .,Southern California is a [MASK] .
+Q7677326,Takashi Iwashige,P106,Q191633,manga artist,P17,Q17,Japan,1,Takashi Iwashige is a [MASK] by profession .,manga artist is located in [MASK] .
+Q109217,Walter Köbel,P102,Q49768,SPD,P156,Q156607,Spartakusbund,1,Walter Köbel is member of political party [MASK] .,SPD is followed by [MASK] .
+Q5506694,Frédéric Guirma,P27,Q965,Burkina Faso,P150,Q665514,Sahel Region,1,Frédéric Guirma is [MASK] citizen .,Burkina Faso contains the administrative territorial entity [MASK] .
+Q7228909,Poovilangu Mohan,P1412,Q5885,Tamil film,P131,Q334,Singapore,1,Poovilangu Mohan translating pled spoken callback fluent [MASK] .,Tamil film is located in [MASK] .
+Q133009,Gro Harlem Brundtland,P108,Q1065,United Nations,P166,Q35637,Nobel Peace Prize,1,Gro Harlem Brundtland works for [MASK] .,United Nations was awarded [MASK] .
+Q110714,Lester Young,P551,Q1581,Missouri,P36,Q28180,Jefferson City,1,Lester Young resides in [MASK] .,The capital of Missouri is [MASK] .
+Q7334539,Rin Saitō,P106,Q191633,manga artist,P17,Q17,Japan,1,Rin Saitō is a [MASK] by profession .,manga artist is located in [MASK] .
+Q3564955,Eman Fiala,P20,Q33946,Czechoslovak,P571,XMLSchema#dateTime,28 October 1918,1,Eman Fiala died in [MASK] .,Czechoslovak was founded on [MASK] .
+Q953882,Simcha Dinitz,P27,Q801,Israel,P206,Q40059,Jordan,1,Simcha Dinitz is [MASK] citizen .,Israel is located in or next to [MASK] .
+Q435936,Terentia,P27,Q1747689,Rome,P527,Q17167,Roman Republic,1,Terentia is [MASK] citizen .,Rome consists of [MASK] .
+Q5344530,Edward Mortimer Macdonald,P102,Q3366494,Liberal,P138,Q1952,Nova Scotia,1,Edward Mortimer Macdonald is member of political party [MASK] .,Liberal is named after [MASK] .
+Q1237514,Domingo de Soto,P611,Q131479,Dominican,P159,Q220,Rome,1,Domingo de Soto belongs to the religious order of [MASK] .,The headquarter of Dominican is in [MASK] .
+Q155985,Rick Santorum,P551,Q1400,Pennsylvania,P17,Q30,United States,1,Rick Santorum resides in [MASK] .,Pennsylvania is located in [MASK] .
+Q19585477,Alexandra Mary Chalmers Watson,P69,Q160302,Edinburgh,P276,Q23436,Edinburgh,1,Alexandra Mary Chalmers Watson is educated at [MASK] .,Edinburgh is located in [MASK] .
+Q1187350,Denis Dodart,P463,Q188771,French Academy,P112,Q188971,Jean-Baptiste Colbert,1,Denis Dodart is a member of [MASK] .,French Academy is founded by [MASK] .
+Q2905842,Blake Richards,P102,Q488523,Conservative,P31,Q7278,political party,1,Blake Richards is member of political party [MASK] .,Conservative is a [MASK] .
+Q80910,Robert Lefkowitz,P108,Q168751,Duke University,P131,Q49229,"Durham, NC",1,Robert Lefkowitz works for [MASK] .,Duke University is located in [MASK] .
+Q28614,Garry Kasparov,P19,Q9248,Baku,P206,Q5484,Caspian Sea,1,Garry Kasparov was born in [MASK] .,Baku is located in or next to [MASK] .
+Q9640,Lyndon Johnson,P937,Q61,Washington DC,P138,Q23,Washington,1,Lyndon Johnson used to work in [MASK] .,Washington DC is named after [MASK] .
+Q6774947,Martin Barry,P463,Q117467,FRSE,P131,Q23436,Edinburgh,1,Martin Barry is a member of [MASK] .,FRSE is located in [MASK] .
+Q2857468,Antonio Somma,P20,Q641,Venice,P1435,Q9259,UNESCO World Heritage List,1,Antonio Somma died in [MASK] .,Venice has the heritage status of [MASK] .
+Q3653273,Mirza Gelovani,P172,Q18973,Georgian,P140,Q192173,Georgian Orthodox,1,Mirza Gelovani belongs to the ethnic group of [MASK] .,Georgian is affiliated with the [MASK] religion .
+Q1347647,Mateo Romero (composer),P135,Q8361,Baroque,P31,Q188451,musical genre,1,Mateo Romero (composer) participated in the movement of [MASK] .,Baroque is a [MASK] .
+Q730367,Paul Janson,P20,Q240,Brussels,P17,Q31,Belgium,1,Paul Janson died in [MASK] .,Brussels is located in [MASK] .
+Q2131994,Gala Videnović,P19,Q3711,Belgrade,P206,Q14383,Sava,1,Gala Videnović was born in [MASK] .,Belgrade is located in or next to [MASK] .
+Q5964144,14th Lord Lovat,P166,Q615838,DSO,P17,Q145,United Kingdom,1,14th Lord Lovat was awarded [MASK] .,DSO is located in [MASK] .
+Q945492,Richard Bright (physician),P937,Q23436,Edinburgh,P17,Q145,United Kingdom,1,Richard Bright (physician) used to work in [MASK] .,Edinburgh is located in [MASK] .
+Q7859618,Ty Lund,P102,Q1518057,Progressive Conservative,P159,Q2096,"Edmonton, Alberta",1,Ty Lund is member of political party [MASK] .,The headquarter of Progressive Conservative is in [MASK] .
+Q17496221,Hoai Lam,P27,Q881,Vietnam,P47,Q148,China,1,Hoai Lam is [MASK] citizen .,Vietnam shares border with [MASK] .
+Q3674672,Nef'i,P27,Q12560,Ottoman,P140,Q483654,Islam,1,Nef'i is [MASK] citizen .,Ottoman is affiliated with the [MASK] religion .
+Q76985,Samson Raphael Hirsch,P20,Q1794,Frankfurt,P937,Q586,Bonn,1,Samson Raphael Hirsch died in [MASK] .,Frankfurt used to work in [MASK] .
+Q5539101,"George F. Gunn, Jr.",P241,Q11220,United States Navy,P159,Q61,"Washington, D.C., USA",1,"George F. Gunn, Jr. is the military branch of [MASK] .",The headquarter of United States Navy is in [MASK] .
+Q92973,Wietse Venema,P108,Q37156,IBM,P127,Q217583,Berkshire Hathaway,1,Wietse Venema works for [MASK] .,IBM is owned by [MASK] .
+Q4116454,Afdal al-Din Kashani,P1412,Q9168,Persian,P155,Q32063,Middle Persian,1,Afdal al-Din Kashani translating pled spoken callback fluent [MASK] .,Persian follows [MASK] .
+Q8827,Propertius,P27,Q1747689,Rome,P706,Q72499,Mediterranean Basin,1,Propertius is [MASK] citizen .,Rome is located on [MASK] .
+Q321345,Robert Whytlaw-Gray,P19,Q84,"London, England",P159,Q1093950,"City Hall, London",1,Robert Whytlaw-Gray was born in [MASK] .,"The headquarter of London, England is in [MASK] ."
+Q380723,Hart Crane,P20,Q812,Florida,P36,Q37043,"Tallahassee, FL",1,Hart Crane died in [MASK] .,The capital of Florida is [MASK] .
+Q4081219,John Robert Baylor,P241,Q1125021,Confederate States Army,P31,Q37726,force,1,John Robert Baylor is the military branch of [MASK] .,Confederate States Army is a [MASK] .
+Q4237822,Victor Krasin,P27,Q15180,Russian,P156,Q7779,CIS,1,Victor Krasin is [MASK] citizen .,Russian is followed by [MASK] .
+Q7599791,Stanley Meadows,P19,Q84,London,P155,Q927198,Londinium,1,Stanley Meadows was born in [MASK] .,London follows [MASK] .
+Q77525,Angelika Beer,P937,Q1707,Kiel,P17,Q183,Germany,1,Angelika Beer used to work in [MASK] .,Kiel is located in [MASK] .
+Q5217975,Daniel Lugay,P735,Q14516546,Daniel,P407,Q7737,Russian,1,[MASK] is the given name of Daniel Lugay .,Daniel was written in [MASK] .
+Q5751662,Hidayat Inayat Khan,P1066,Q140619,Nadia Boulanger,P135,Q9730,classical,1,Hidayat Inayat Khan is the student of [MASK] .,Nadia Boulanger participated in the movement of [MASK] .
+Q2587134,Stepanov,P27,Q15180,Soviet,P112,Q2184,RSFSR,1,Stepanov is [MASK] citizen .,Soviet is founded by [MASK] .
+Q5342159,Edward C. Pierce,P69,Q230492,Michigan,P131,Q485172,"Ann Arbor, Michigan",1,Edward C. Pierce is educated at [MASK] .,Michigan is located in [MASK] .
+Q313009,Chris Isaak,P264,Q843402,Warner Bros.,P136,Q8341,jazz,1,Chris Isaak is represented by music label [MASK] .,Warner Bros. plays [MASK] music .
+Q1187114,Lev Naumov,P69,Q215539,Moscow Conservatory,P112,Q87567,Anton Rubinstein,1,Lev Naumov is educated at [MASK] .,Moscow Conservatory is founded by [MASK] .
+Q6081448,Isla Cameron,P19,Q22,Scotland,P150,Q100166,Orkney,1,Isla Cameron was born in [MASK] .,Scotland contains the administrative territorial entity [MASK] .
+Q5408398,Eugeniusz Kłopotek,P39,Q27169,European Parliament,P279,Q486839,Parliamentarians,1,Eugeniusz Kłopotek has the position of [MASK] .,European Parliament is a subclass of [MASK] .
+Q837814,Géza Jeszenszky,P1412,Q9067,Hungarian,P31,Q171263,agglutinative language,1,Géza Jeszenszky translating pled spoken callback fluent [MASK] .,Hungarian is a [MASK] .
+Q3955752,Serafino Raffaele Minich,P20,Q617,Padua,P17,Q38,Italy,1,Serafino Raffaele Minich died in [MASK] .,Padua is located in [MASK] .
+Q351652,Kōki Hirota,P39,Q274948,Prime Minister,P1001,Q17,Japan,1,Kōki Hirota has the position of [MASK] .,Prime Minister is a legal term in [MASK] .
+Q3809025,John Adair (anthropologist),P20,Q62,"San Francisco, California",P30,Q49,North America,1,John Adair (anthropologist) died in [MASK] .,"San Francisco, California is located in [MASK] ."
+Q1078067,Christa Goetsch,P937,Q1055,Hamburg,P361,Q3969,Hamburg Metropolitan Region,1,Christa Goetsch used to work in [MASK] .,Hamburg is part of [MASK] .
+Q178698,W. H. Auden,P551,Q40,Austria,P150,Q37985,Carinthia,1,W. H. Auden resides in [MASK] .,Austria contains the administrative territorial entity [MASK] .
+Q1243366,Jiří Pelikán (politician),P102,Q727724,Communist Party,P156,Q913567,KSČM,1,Jiří Pelikán (politician) is member of political party [MASK] .,Communist Party is followed by [MASK] .
+Q7549850,Soara-Joye Ross,P19,Q18424,"Queens, New York",P150,Q1190597,Long Island City,1,Soara-Joye Ross was born in [MASK] .,"Queens, New York contains the administrative territorial entity [MASK] ."
+Q323331,Peter Lax,P69,Q49210,NYU,P112,Q500046,Albert Gallatin,1,Peter Lax is educated at [MASK] .,NYU is founded by [MASK] .
+Q14918665,Sanda Rašković Ivić,P103,Q9299,Serbian,P279,Q9301,Serbo-Croatian,1,The native language of Sanda Rašković Ivić is [MASK] .,Serbian is a subclass of [MASK] .
+Q16006594,Elizabeth Laird (physicist),P69,Q180865,Toronto,P17,Q16,Canada,1,Elizabeth Laird (physicist) is educated at [MASK] .,Toronto is located in [MASK] .
+Q17125965,Hans Robert Müller,P19,Q13298,Graz,P1435,Q9259,World Cultural Heritage Sites,1,Hans Robert Müller was born in [MASK] .,Graz has the heritage status of [MASK] .
+Q706641,Chad Hugo,P136,Q45981,R&B,P279,Q373342,popular music,1,Chad Hugo plays [MASK] music .,R&B is a subclass of [MASK] .
+Q1154210,Tomomi Itano,P136,Q131578,Japanese pop,P495,Q17,Japan,1,Tomomi Itano plays [MASK] music .,Japanese pop was created in [MASK] .
+Q128604,Lester Pearson,P108,Q1065,United Nations,P166,Q35637,Nobel Peace Prize,1,Lester Pearson works for [MASK] .,United Nations was awarded [MASK] .
+Q5443,Greta Garbo,P937,Q34006,Hollywood,P131,Q65,"Los Angeles, California",1,Greta Garbo used to work in [MASK] .,Hollywood is located in [MASK] .
+Q365199,Victor Young,P264,Q557632,Decca,P127,Q1127887,Vivendi,1,Victor Young is represented by music label [MASK] .,Decca is owned by [MASK] .
+Q483709,Yakub Kolas,P20,Q2280,Minsk,P166,Q159438,hero cities,1,Yakub Kolas died in [MASK] .,Minsk was awarded [MASK] .
+Q2439870,Michael McMahon (Scottish politician),P102,Q3179541,Labour,P361,Q9630,Labour Party (UK),1,Michael McMahon (Scottish politician) is member of political party [MASK] .,Labour is part of [MASK] .
+Q5273848,Dicky Moore,P1303,Q6607,guitar,P279,Q230262,plucked string instrument,1,Dicky Moore plays [MASK] .,guitar is a subclass of [MASK] .
+Q211588,Nick Drake,P264,Q190585,Island Records,P740,Q766,Jamaica,1,Nick Drake is represented by music label [MASK] .,Island Records was founded in [MASK] .
+Q255,Beethoven,P135,Q9730,classical music,P31,Q188451,musical genre,1,Beethoven participated in the movement of [MASK] .,classical music is a [MASK] .
+Q4020177,William W. Averell,P607,Q8676,American Civil War,P31,Q8465,civil war,1,William W. Averell participated in the conflict of [MASK] .,American Civil War is a [MASK] .
+Q388233,Spurius Postumius Albinus,P27,Q1747689,Rome,P527,Q17167,Roman Republic,1,Spurius Postumius Albinus is [MASK] citizen .,Rome consists of [MASK] .
+Q714526,Niyazi,P20,Q9248,Baku,P1376,Q227,Azerbaijan,1,Niyazi died in [MASK] .,Baku is the capital of [MASK] .
+Q885455,Robert Stockton Green,P39,Q3112728,Governor,P17,Q30,American,1,Robert Stockton Green has the position of [MASK] .,Governor is located in [MASK] .
+Q18070354,Shriswara,P551,Q1156,Mumbai,P1376,Q1191,Maharashtra,1,Shriswara resides in [MASK] .,Mumbai is the capital of [MASK] .
+Q536071,Tioulong Saumura,P69,Q209842,Paris,P159,Q90,Paris,1,Tioulong Saumura is educated at [MASK] .,The headquarter of Paris is in [MASK] .
+Q15992990,Don Friedman (Colorado politician),P937,Q16554,"Denver, Colorado",P1376,Q1261,Colorado,1,Don Friedman (Colorado politician) used to work in [MASK] .,"Denver, Colorado is the capital of [MASK] ."
+Q7346883,Robert Lewis Morgan,P69,Q499451,Rutgers University,P31,Q615150,land-grant university,1,Robert Lewis Morgan is educated at [MASK] .,Rutgers University is a [MASK] .
+Q8016,Sir Winston Churchill,P166,Q37922,Nobel Prize,P361,Q7191,Nobel Prize,1,Sir Winston Churchill was awarded [MASK] .,Nobel Prize is part of [MASK] .
+Q123164,Arthur Honegger,P135,Q9730,classical,P31,Q188451,musical genre,1,Arthur Honegger participated in the movement of [MASK] .,classical is a [MASK] .
+Q7549850,Soara-Joye Ross,P19,Q18424,"Queens, New York",P17,Q30,United States,1,Soara-Joye Ross was born in [MASK] .,"Queens, New York is located in [MASK] ."
+Q6531981,Lester Wilson,P20,Q65,Los Angeles,P937,Q61,Washington DC,1,Lester Wilson died in [MASK] .,Los Angeles used to work in [MASK] .
+Q444899,Yoriko Kawaguchi,P69,Q49112,Yale University,P463,Q49113,Ivy League,1,Yoriko Kawaguchi is educated at [MASK] .,Yale University is a member of [MASK] .
+Q753126,Armand de Turenne,P106,Q222982,flying ace,P279,Q618694,fighter pilot,1,Armand de Turenne is a [MASK] by profession .,flying ace is a subclass of [MASK] .
+Q355720,Symmachus,P27,Q1747689,Rome,P527,Q17167,Roman Republic,1,Symmachus is [MASK] citizen .,Rome consists of [MASK] .
+Q822678,Bernard Rogers,P1066,Q140619,Nadia Boulanger,P19,Q90,Paris,1,Bernard Rogers is the student of [MASK] .,Nadia Boulanger was born in [MASK] .
+Q58142,George Yeo,P19,Q334,Singapore,P463,Q1065,United Nations,1,George Yeo was born in [MASK] .,Singapore is a member of [MASK] .
+Q253060,Albert Balink,P19,Q55,Netherlands,P463,Q458,EU,1,Albert Balink was born in [MASK] .,Netherlands is a member of [MASK] .
+Q676747,Peter Ochs,P937,Q78,Basel,P17,Q39,Swiss,1,Peter Ochs used to work in [MASK] .,Basel is located in [MASK] .
+Q2548836,Leen Ryckaert,P19,Q1296,Ghent,P527,Q1260195,Drongen,1,Leen Ryckaert was born in [MASK] .,Ghent consists of [MASK] .
+Q978793,Shakin' Stevens,P27,Q25,Wales,P17,Q145,United Kingdom,1,Shakin' Stevens is [MASK] citizen .,Wales is located in [MASK] .
+Q160852,Gladstone,P140,Q6423963,Anglican,P279,Q5043,Christian,1,Gladstone is affiliated with the [MASK] religion .,Anglican is a subclass of [MASK] .
+Q2603360,Alfred Goldie,P108,Q503424,Leeds,P527,Q6516149,Leeds University Business School,1,Alfred Goldie works for [MASK] .,Leeds consists of [MASK] .
+Q650029,Harold LeVander,P102,Q7314659,Republican,P17,Q30,United States,1,Harold LeVander is member of political party [MASK] .,Republican is located in [MASK] .
+Q19664237,Alan Mauritz Swanson,P108,Q850730,Groningen,P276,Q749,Groningen,1,Alan Mauritz Swanson works for [MASK] .,Groningen is located in [MASK] .
+Q1253326,Vesna Pešić,P27,Q403,Serbia,P47,Q1246,Kosovan,1,Vesna Pešić is [MASK] citizen .,Serbia shares border with [MASK] .
+Q3704799,Deidre Downs,P19,Q173,Alabama,P17,Q30,US,1,Deidre Downs was born in [MASK] .,Alabama is located in [MASK] .
+Q2683087,Henry Herbert,P27,Q179876,England,P156,Q330362,Commonwealth,1,Henry Herbert is [MASK] citizen .,England is followed by [MASK] .
+Q3723881,Emanuele Barbella,P19,Q2634,Neapolitan,P47,Q72414,Portici,1,Emanuele Barbella was born in [MASK] .,Neapolitan shares border with [MASK] .
+Q236705,Meg Tilly,P1411,Q106301,Best Supporting Actress,P1346,Q230138,Tatum O'Neal,1,Meg Tilly was nominated for [MASK] .,The winner of Best Supporting Actress is [MASK] .
+Q1179675,Hessel de Vries,P108,Q850730,Groningen,P276,Q749,Groningen,1,Hessel de Vries works for [MASK] .,Groningen is located in [MASK] .
+Q1964059,Edward Topol,P1412,Q7737,Russian,P17,Q30,American,1,Edward Topol translating pled spoken callback fluent [MASK] .,Russian is located in [MASK] .
+Q345849,Pedro Albizu Campos,P69,Q49122,Harvard Law School,P31,Q13220391,graduate school,1,Pedro Albizu Campos is educated at [MASK] .,Harvard Law School is a [MASK] .
+Q5556898,Gholamreza Rouhani,P1412,Q9168,Persian,P155,Q32063,Middle Persian,1,Gholamreza Rouhani translating pled spoken callback fluent [MASK] .,Persian follows [MASK] .
+Q4166395,Mikhail Donskoy,P69,Q13164,Moscow State University,P112,Q58720,Lomonosov,1,Mikhail Donskoy is educated at [MASK] .,Moscow State University is founded by [MASK] .
+Q3443149,Joachim Grieg,P1412,Q9043,Norwegian,P279,Q106085,North Germanic languages,1,Joachim Grieg translating pled spoken callback fluent [MASK] .,Norwegian is a subclass of [MASK] .
+Q4885997,Ben Kimura,P69,Q815432,Keio University,P112,Q355447,Fukuzawa Yukichi,1,Ben Kimura is educated at [MASK] .,Keio University is founded by [MASK] .
+Q61520,August Hirt,P937,Q6602,Strasbourg,P31,Q484170,communes,1,August Hirt used to work in [MASK] .,Strasbourg is a [MASK] .
+Q527796,Johnny Bristol,P264,Q43327,Motown,P112,Q355288,"Berry Gordy, Jr.",1,Johnny Bristol is represented by music label [MASK] .,Motown is founded by [MASK] .
+Q530983,Bernard Lonergan,P611,Q36380,Jesuit,P31,Q2061186,religious congregation,1,Bernard Lonergan belongs to the religious order of [MASK] .,Jesuit is a [MASK] .
+Q16201053,Nick Rush,P241,Q9212,United States Army,P571,XMLSchema#dateTime,14 June 1775,1,Nick Rush is the military branch of [MASK] .,United States Army was founded on [MASK] .
+Q4834013,B. H. Friedman,P509,Q12192,pneumonia,P31,Q12136,morbidity,1,B. H. Friedman died due to [MASK] .,pneumonia is a [MASK] .
+Q4963217,Brian Browne,P264,Q193023,Capitol Records,P112,Q363698,Mercer,1,Brian Browne is represented by music label [MASK] .,Capitol Records is founded by [MASK] .
+Q71505,Ludwig Lange (architect),P19,Q2973,Darmstadt,P527,Q1166422,Arheilgen,1,Ludwig Lange (architect) was born in [MASK] .,Darmstadt consists of [MASK] .
+Q7040049,Nirmala Sitharaman,P102,Q10230,Bharatiya Janata Party,P17,Q668,India,1,Nirmala Sitharaman is member of political party [MASK] .,Bharatiya Janata Party is located in [MASK] .
+Q233265,Robert Browning,P20,Q641,Venice,P131,Q16310,Venezia,1,Robert Browning died in [MASK] .,Venice is located in [MASK] .
+Q4776958,Antônio Salim Curiati,P27,Q155,Brazil,P138,Q216469,brazilwood,1,Antônio Salim Curiati is [MASK] citizen .,Brazil is named after [MASK] .
+Q7172714,Peter Baume,P166,Q1141149,AC,P279,Q3721675,Australia Day honours,1,Peter Baume was awarded [MASK] .,AC is a subclass of [MASK] .
+Q377,Yanka Kupala,P103,Q9091,Belarusian,P361,Q144713,East Slavic languages,1,The native language of Yanka Kupala is [MASK] .,Belarusian is part of [MASK] .
+Q7964535,Walter Channing (physician),P69,Q160302,Edinburgh,P276,Q23436,Edinburgh,1,Walter Channing (physician) is educated at [MASK] .,Edinburgh is located in [MASK] .
+Q55430,Zhang Yimou,P1412,Q7850,Chinese,P17,Q148,China,1,Zhang Yimou translating pled spoken callback fluent [MASK] .,Chinese is located in [MASK] .
+Q504314,Andrew Claude de la Cherois Crommelin,P69,Q332342,"Trinity College, Cambridge",P138,Q37090,Trinity,1,Andrew Claude de la Cherois Crommelin is educated at [MASK] .,"Trinity College, Cambridge is named after [MASK] ."
+Q182781,Muhammad Ali,P27,Q12560,Ottoman,P140,Q483654,Islam,1,Muhammad Ali is [MASK] citizen .,Ottoman is affiliated with the [MASK] religion .
+Q7526860,"Sir George Clerk, 6th Baronet",P463,Q117467,FRSE,P131,Q23436,Edinburgh,1,"Sir George Clerk, 6th Baronet is a member of [MASK] .",FRSE is located in [MASK] .
+Q41523,Plutarch,P27,Q1747689,Roman Empire,P706,Q72499,Mediterranean Basin,1,Plutarch is [MASK] citizen .,Roman Empire is located on [MASK] .
+Q6767308,"Mark ""Marty"" DeBarge",P264,Q43327,Motown,P31,Q18127,record label,1,"Mark ""Marty"" DeBarge is represented by music label [MASK] .",Motown is a [MASK] .
+Q5386533,Eric Fructuoso,P19,Q928,Filipino,P138,Q34417,Philip II,1,Eric Fructuoso was born in [MASK] .,Filipino is named after [MASK] .
+Q290263,Antonia Prebble,P19,Q23661,Wellington,P527,Q1015681,Lower Hutt,1,Antonia Prebble was born in [MASK] .,Wellington consists of [MASK] .
+Q89524,Peter Cornelius (photographer),P937,Q1707,Kiel,P31,Q262166,municipality,1,Peter Cornelius (photographer) used to work in [MASK] .,Kiel is a [MASK] .
+Q16144886,Rigoberto Chang Castillo,P27,Q783,Honduras,P361,Q12585,Latin America,1,Rigoberto Chang Castillo is [MASK] citizen .,Honduras is part of [MASK] .
+Q2869849,Atsushi Kaneko,P106,Q191633,manga artist,P17,Q17,Japan,1,Atsushi Kaneko is a [MASK] by profession .,manga artist is located in [MASK] .
+Q560598,Edward Burr Van Vleck,P69,Q49167,Wesleyan University,P361,Q6652270,Little Three,1,Edward Burr Van Vleck is educated at [MASK] .,Wesleyan University is part of [MASK] .
+Q128563,Brian Mulroney,P39,Q839078,Prime Minister,P17,Q16,Canada,1,Brian Mulroney has the position of [MASK] .,Prime Minister is located in [MASK] .
+Q34105,Hosni Mubarak,P551,Q85,Cairo,P1376,Q79,Egypt,1,Hosni Mubarak resides in [MASK] .,Cairo is the capital of [MASK] .
+Q293087,Adelaide Hall,P264,Q557632,Decca,P740,Q145,United Kingdom,1,Adelaide Hall is represented by music label [MASK] .,Decca was founded in [MASK] .
+Q1021850,Yūsuke Numata,P19,Q127513,Kanagawa,P361,Q328121,Greater Tokyo,1,Yūsuke Numata was born in [MASK] .,Kanagawa is part of [MASK] .
+Q829248,Liutbert,P937,Q1720,Mainz,P150,Q317819,Mombach,1,Liutbert used to work in [MASK] .,Mainz contains the administrative territorial entity [MASK] .
+Q1848579,Piet de Visser (politician),P102,Q275441,PvdA,P17,Q55,Dutch,1,Piet de Visser (politician) is member of political party [MASK] .,PvdA is located in [MASK] .
+Q847386,Noriyuki Makihara,P136,Q131578,Japanese pop,P495,Q17,Japan,1,Noriyuki Makihara plays [MASK] music .,Japanese pop was created in [MASK] .
+Q11395620,Satoshi Dezaki,P19,Q1490,Tokyo,P361,Q328121,Greater Tokyo,1,Satoshi Dezaki was born in [MASK] .,Tokyo is part of [MASK] .
+Q5257164,Denis Coe,P102,Q9630,British Labour Party,P527,Q3179541,Scottish Labour Party,1,Denis Coe is member of political party [MASK] .,British Labour Party consists of [MASK] .
+Q15440644,Louis Coudouret,P607,Q361,World War I,P1346,Q30,American,1,Louis Coudouret participated in the conflict of [MASK] .,The winner of World War I is [MASK] .
+Q7082993,Olaf Skramstad,P102,Q587803,Communist Party,P17,Q20,Norway,1,Olaf Skramstad is member of political party [MASK] .,Communist Party is located in [MASK] .
+Q722150,Alexander Roshal,P641,Q718,chess,P279,Q131436,pawns,1,Alexander Roshal plays the sport [MASK] .,chess is a subclass of [MASK] .
+Q8006346,William C. Lyon,P20,Q1397,Ohio,P36,Q16567,"Columbus,Ohio",1,William C. Lyon died in [MASK] .,The capital of Ohio is [MASK] .
+Q2471336,Vardan Ajemian,P172,Q79797,Armenian,P103,Q8785,Armenian,1,Vardan Ajemian belongs to the ethnic group of [MASK] .,The native language of Armenian is [MASK] .
+Q84186,Ivan Illich,P140,Q9592,Roman Catholic,P159,Q159583,Rome,1,Ivan Illich is affiliated with the [MASK] religion .,The headquarter of Roman Catholic is in [MASK] .
+Q878516,Henry A. Wise,P241,Q1125021,Confederate States Army,P1344,Q8676,American Civil War,1,Henry A. Wise is the military branch of [MASK] .,Confederate States Army participated in [MASK] .
+Q472942,Jiang Yanyong,P102,Q17427,Communist Party,P112,Q369681,Chen Duxiu,1,Jiang Yanyong is member of political party [MASK] .,Communist Party is founded by [MASK] .
+Q4755770,Andrei Dapkiunas,P27,Q184,Belarus,P571,XMLSchema#dateTime,25 August 1991,1,Andrei Dapkiunas is [MASK] citizen .,Belarus was founded on [MASK] .
+Q4700602,Akemi Matsunae,P19,Q1490,Tokyo,P155,Q1207735,Tokyo City,1,Akemi Matsunae was born in [MASK] .,Tokyo follows [MASK] .
+Q5079652,Charles K. Graham,P607,Q8676,American Civil War,P17,Q30,American,1,Charles K. Graham participated in the conflict of [MASK] .,American Civil War is located in [MASK] .
+Q1652128,Lêdo Ivo,P20,Q8717,Seville,P1376,Q5783,Andalusia,1,Lêdo Ivo died in [MASK] .,Seville is the capital of [MASK] .
+Q1066403,Charles L. Weltner,P551,Q23556,Atlanta,P131,Q486633,Fulton,1,Charles L. Weltner resides in [MASK] .,Atlanta is located in [MASK] .
+Q3011315,DJ Mam's,P19,Q23482,Marseille,P166,Q129372,European cultural capital,1,DJ Mam's was born in [MASK] .,Marseille was awarded [MASK] .
+Q7787575,Thomas Bennett,P106,Q42973,architect,P279,Q483501,painter,1,Thomas Bennett is a [MASK] by profession .,architect is a subclass of [MASK] .
+Q1586794,David Lang (Civil War),P241,Q1125021,Confederate States Army,P571,XMLSchema#dateTime,"February 28, 1861",1,David Lang (Civil War) is the military branch of [MASK] .,Confederate States Army was founded on [MASK] .
+Q5493143,William George Ward,P140,Q9592,Roman Catholic,P112,Q302,Jesus,1,William George Ward is affiliated with the [MASK] religion .,Roman Catholic is founded by [MASK] .
+Q82674,Mary I,P27,Q179876,England,P140,Q9592,Roman Catholic Church,1,Mary I is [MASK] citizen .,England is affiliated with the [MASK] religion .
+Q4720889,Alexandre Paul,P69,Q332498,Brigham Young University,P140,Q42504,Latter-day Saint,1,Alexandre Paul is educated at [MASK] .,Brigham Young University is affiliated with the [MASK] religion .
+Q7159933,Pedro Sainz Rodríguez,P937,Q2807,Madrid,P47,Q592747,Las Rozas,1,Pedro Sainz Rodríguez used to work in [MASK] .,Madrid shares border with [MASK] .
+Q633483,Archibald T. MacIntyre,P241,Q1125021,Confederate States Army,P1344,Q8676,American Civil War,1,Archibald T. MacIntyre is the military branch of [MASK] .,Confederate States Army participated in [MASK] .
+Q291405,Sky Ferreira,P264,Q193023,Capitol Records,P159,Q65,Los Angeles,1,Sky Ferreira is represented by music label [MASK] .,The headquarter of Capitol Records is in [MASK] .
+Q128967,Edward Heath,P69,Q805285,"Balliol College, Oxford",P361,Q34433,Oxford,1,Edward Heath is educated at [MASK] .,"Balliol College, Oxford is part of [MASK] ."
+Q244616,George Grenville,P39,Q14211,Prime Minister,P361,Q112014,Cabinet,1,George Grenville has the position of [MASK] .,Prime Minister is part of [MASK] .
+Q698797,Johann Nicolaus Bach,P135,Q8361,Baroque,P361,Q37853,baroque,1,Johann Nicolaus Bach participated in the movement of [MASK] .,Baroque is part of [MASK] .
+Q722528,Giovanni Domenico Maraldi,P463,Q188771,French Academy,P361,Q377066,Institut de France,1,Giovanni Domenico Maraldi is a member of [MASK] .,French Academy is part of [MASK] .
+Q633076,Joseph di Trani,P20,Q16869,Constantinople,P30,Q48,Asia,1,Joseph di Trani died in [MASK] .,Constantinople is located in [MASK] .
+Q1153370,Brian McKnight,P264,Q43327,Motown,P159,Q12439,Detroit,1,Brian McKnight is represented by music label [MASK] .,The headquarter of Motown is in [MASK] .
+Q1059934,Chieko Hosokawa,P106,Q191633,manga artist,P17,Q17,Japan,1,Chieko Hosokawa is a [MASK] by profession .,manga artist is located in [MASK] .
+Q5294668,Donald L. Katz,P108,Q230492,Michigan,P159,Q485172,"Ann Arbor, Michigan",1,Donald L. Katz works for [MASK] .,The headquarter of Michigan is in [MASK] .
+Q354075,Stanisław Gołąb,P108,Q189441,Kraków,P527,Q24101,Jagiellonian Library,1,Stanisław Gołąb works for [MASK] .,Kraków consists of [MASK] .
+Q2916030,Sarmad Kashani,P140,Q432,Islam,P279,Q47280,Abrahamic Faith,1,Sarmad Kashani is affiliated with the [MASK] religion .,Islam is a subclass of [MASK] .
+Q347699,Perrault,P27,Q70972,France,P155,Q46370,West Francia,1,Perrault is [MASK] citizen .,France follows [MASK] .
+Q118201,Georges-André Chevallaz,P20,Q807,Lausanne,P17,Q39,Switzerland,1,Georges-André Chevallaz died in [MASK] .,Lausanne is located in [MASK] .
+Q4706771,Alan Griffin,P102,Q216082,Australian Labor Party,P1001,Q408,Australia,1,Alan Griffin is member of political party [MASK] .,Australian Labor Party is a legal term in [MASK] .
+Q4088030,Anatoly Blatov,P102,Q79854,Communist Party,P112,Q1394,Lenin,1,Anatoly Blatov is member of political party [MASK] .,Communist Party is founded by [MASK] .
+Q7198,Ovid,P27,Q1747689,Rome,P706,Q72499,Mediterranean Basin,1,Ovid is [MASK] citizen .,Rome is located on [MASK] .
+Q4148771,Mykhailo Hrechyna,P27,Q15180,Soviet,P156,Q7779,CIS,1,Mykhailo Hrechyna is [MASK] citizen .,Soviet is followed by [MASK] .
+Q721315,Kenny Drew,P264,Q885833,Blue Note,P17,Q30,American,1,Kenny Drew is represented by music label [MASK] .,Blue Note is located in [MASK] .
+Q2827485,Ahmed Akhchichine,P27,Q1028,Morocco,P36,Q3551,Rabat,1,Ahmed Akhchichine is [MASK] citizen .,The capital of Morocco is [MASK] .
+Q6986831,Neely Bruce,P108,Q49167,Wesleyan University,P361,Q6652270,Little Three,1,Neely Bruce works for [MASK] .,Wesleyan University is part of [MASK] .
+Q310757,Roger Boscovich,P611,Q36380,Jesuit,P112,Q44281,Ignacio de Loyola,1,Roger Boscovich belongs to the religious order of [MASK] .,Jesuit is founded by [MASK] .
+Q726972,Daniel J. King,P641,Q718,chess,P279,Q131436,pawns,1,Daniel J. King plays the sport [MASK] .,chess is a subclass of [MASK] .
+Q53660,Per Albin Hansson,P937,Q1754,Stockholm,P1376,Q34,Sweden,1,Per Albin Hansson used to work in [MASK] .,Stockholm is the capital of [MASK] .
+Q532117,William Thierry Preyer,P108,Q154561,Jena,P131,Q3150,Jena,1,William Thierry Preyer works for [MASK] .,Jena is located in [MASK] .
+Q4440913,Leonard Geluk,P69,Q633529,Erasmus University Rotterdam,P527,Q3126873,Erasmus MC,1,Leonard Geluk is educated at [MASK] .,Erasmus University Rotterdam consists of [MASK] .
+Q272588,Abdullah Ahmad Badawi,P140,Q432,Islam,P31,Q9174,religious movement,1,Abdullah Ahmad Badawi is affiliated with the [MASK] religion .,Islam is a [MASK] .
+Q5486066,Frank Cunimondo,P19,Q1342,"Pittsburgh, Pennsylvania",P112,Q3181518,John Forbes,1,Frank Cunimondo was born in [MASK] .,"Pittsburgh, Pennsylvania is founded by [MASK] ."
+Q55238,Ken Loach,P108,Q9531,BBC,P166,Q838121,Peabody award,1,Ken Loach works for [MASK] .,BBC was awarded [MASK] .
+Q735370,Paul Bert,P108,Q209842,Sorbonne,P17,Q142,France,1,Paul Bert works for [MASK] .,Sorbonne is located in [MASK] .
+Q4165162,Yousef Azizi (Bani-Torof),P1412,Q9168,Persian,P155,Q32063,Middle Persian,1,Yousef Azizi (Bani-Torof) translating pled spoken callback fluent [MASK] .,Persian follows [MASK] .
+Q10487561,Xiao Fuxing,P1412,Q7850,Chinese,P279,Q45961,Sino-Tibetan language family,1,Xiao Fuxing translating pled spoken callback fluent [MASK] .,Chinese is a subclass of [MASK] .
+Q4424894,Reginald Smith Brindle,P136,Q1344,opera,P31,Q862597,musical form,1,Reginald Smith Brindle plays [MASK] music .,opera is a [MASK] .
+Q4998903,Burkard Huwiler,P39,Q29182,bishop,P140,Q5043,Christian,1,Burkard Huwiler has the position of [MASK] .,bishop is affiliated with the [MASK] religion .
+Q559542,Hong In-young,P27,Q884,South Korea,P206,Q37960,Yellow Sea,1,Hong In-young is [MASK] citizen .,South Korea is located in or next to [MASK] .
+Q5388930,Erik von Heland,P1412,Q9027,Swedish,P527,Q2417210,Old Swedish,1,Erik von Heland translating pled spoken callback fluent [MASK] .,Swedish consists of [MASK] .
+Q1388942,John Patrick Higgins,P241,Q11220,United States Navy,P159,Q61,"Washington, D.C., USA",1,John Patrick Higgins is the military branch of [MASK] .,The headquarter of United States Navy is in [MASK] .
+Q3082781,Frank Branch,P102,Q2867848,Liberal,P159,Q2138,"Fredericton, New Brunswick",1,Frank Branch is member of political party [MASK] .,The headquarter of Liberal is in [MASK] .
+Q332055,Omar Torrijos,P20,Q804,Panama,P150,Q593137,Veraguas,1,Omar Torrijos died in [MASK] .,Panama contains the administrative territorial entity [MASK] .
+Q4188534,Witold Zacharewicz,P2632,Q7341,Auschwitz,P31,Q328468,Nazi concentration camps,1,Witold Zacharewicz was detained at [MASK] .,Auschwitz is a [MASK] .
+Q5497586,Frederick Courtenay Morgan,P241,Q222595,British Army,P138,Q9682,Her Britannic Majesty,1,Frederick Courtenay Morgan is the military branch of [MASK] .,British Army is named after [MASK] .
+Q7527444,"Sir James Hutchison, 1st Baronet",P241,Q222595,British army,P138,Q9682,Her Britannic Majesty,1,"Sir James Hutchison, 1st Baronet is the military branch of [MASK] .",British army is named after [MASK] .
+Q1136761,Fatma Aliye,P27,Q12560,Ottoman,P140,Q483654,Islam,1,Fatma Aliye is [MASK] citizen .,Ottoman is affiliated with the [MASK] religion .
+Q16121579,Michael Laizer,P102,Q652091,CCM,P112,Q186525,Julius Nyerere,1,Michael Laizer is member of political party [MASK] .,CCM is founded by [MASK] .
+Q434968,Bill Frisell,P264,Q311439,ECM,P112,Q61919,Manfred Eicher,1,Bill Frisell is represented by music label [MASK] .,ECM is founded by [MASK] .
+Q15900137,Yang Zishan,P103,Q7850,Chinese,P31,Q25295,language family,1,The native language of Yang Zishan is [MASK] .,Chinese is a [MASK] .
+Q101740,Benoit Mandelbrot,P108,Q37156,IBM,P159,Q688830,"Armonk, New York",1,Benoit Mandelbrot works for [MASK] .,The headquarter of IBM is in [MASK] .
+Q152451,Jerry Brown,P39,Q887010,Governor,P17,Q30,USA,1,Jerry Brown has the position of [MASK] .,Governor is located in [MASK] .
+Q276968,Thomas Downey,P69,Q49115,Cornell University,P31,Q615150,land-grant,1,Thomas Downey is educated at [MASK] .,Cornell University is a [MASK] .
+Q4799741,Arthur Montagu Brookfield,P241,Q222595,British army,P138,Q9682,Her Britannic Majesty,1,Arthur Montagu Brookfield is the military branch of [MASK] .,British army is named after [MASK] .
+Q3504047,Saša Rašilov,P20,Q33946,Czechoslovak,P571,XMLSchema#dateTime,28 October 1918,1,Saša Rašilov died in [MASK] .,Czechoslovak was founded on [MASK] .
+Q6145348,James West (antiquary),P463,Q123885,Royal Society,P112,Q170373,Christopher Wren,1,James West (antiquary) is a member of [MASK] .,Royal Society is founded by [MASK] .
+Q2098858,Clarence Paul,P264,Q43327,Motown,P127,Q2937480,Capitol Music Group,1,Clarence Paul is represented by music label [MASK] .,Motown is owned by [MASK] .
+Q19560844,James Newill,P19,Q1342,Pittsburgh,P112,Q3181518,John Forbes,1,James Newill was born in [MASK] .,Pittsburgh is founded by [MASK] .
+Q5770923,Hiroshi Koizumi,P509,Q12192,pneumonia,P279,Q3631290,Lower respiratory infections,1,Hiroshi Koizumi died due to [MASK] .,pneumonia is a subclass of [MASK] .
+Q11991506,Nils Retterstøl,P106,Q211346,psychiatrist,P279,Q6817473,mental health professional,1,Nils Retterstøl is a [MASK] by profession .,psychiatrist is a subclass of [MASK] .
+Q4354173,Alice Åström,P102,Q110837,Left Party,P361,Q272930,Riksdag,1,Alice Åström is member of political party [MASK] .,Left Party is part of [MASK] .
+Q707155,Max Newman,P607,Q362,World War II,P276,Q46,Europe,1,Max Newman participated in the conflict of [MASK] .,World War II is located in [MASK] .
+Q6411578,King Floyd,P19,Q34404,New Orleans,P31,Q44782,port,1,King Floyd was born in [MASK] .,New Orleans is a [MASK] .
+Q455001,Julius Petersen,P20,Q1748,Copenhagen,P17,Q35,Denmark,1,Julius Petersen died in [MASK] .,Copenhagen is located in [MASK] .
+Q445152,Rafael Schächter,P20,Q7341,Auschwitz,P527,Q700356,Auschwitz III (Monowitz),1,Rafael Schächter died in [MASK] .,Auschwitz consists of [MASK] .
+Q6218631,John Alexander Smith,P69,Q805285,"Balliol College, Oxford",P361,Q34433,Oxford,1,John Alexander Smith is educated at [MASK] .,"Balliol College, Oxford is part of [MASK] ."
+Q1628464,Horng-Tzer Yau,P19,Q865,Taiwan,P463,Q1065,U.N.,1,Horng-Tzer Yau was born in [MASK] .,Taiwan is a member of [MASK] .
+Q299595,Vannevar Bush,P108,Q49108,MIT,P276,Q49111,"Cambridge, Mass.",1,Vannevar Bush works for [MASK] .,MIT is located in [MASK] .
+Q4795130,Arnold Kosevich,P27,Q15180,Soviet,P112,Q2184,RSFSR,1,Arnold Kosevich is [MASK] citizen .,Soviet is founded by [MASK] .
+Q298419,Sokollu Mehmet Paşa,P103,Q9299,Serbian,P361,Q146665,South Slavic,1,The native language of Sokollu Mehmet Paşa is [MASK] .,Serbian is part of [MASK] .
+Q2388576,Taika Waititi,P19,Q23661,Wellington,P527,Q1015681,Lower Hutt,1,Taika Waititi was born in [MASK] .,Wellington consists of [MASK] .
+Q3925,Grace Kelly,P140,Q9592,Roman Catholic,P140,Q1841,Catholicity,1,Grace Kelly is affiliated with the [MASK] religion .,Roman Catholic is affiliated with the [MASK] religion .
+Q4388117,Sunao Sonoda,P102,Q232595,Liberal Democratic Party (LDP),P17,Q17,Japan,1,Sunao Sonoda is member of political party [MASK] .,Liberal Democratic Party (LDP) is located in [MASK] .
+Q2834123,Alexander Vesnin,P20,Q649,Moscow,P112,Q275106,Yuriy Dolgorukiy,1,Alexander Vesnin died in [MASK] .,Moscow is founded by [MASK] .
+Q50023,Yōko Hikasa,P19,Q127513,Kanagawa,P361,Q328121,Greater Tokyo,1,Yōko Hikasa was born in [MASK] .,Kanagawa is part of [MASK] .
+Q2833532,Hippolyte Metdepenningen,P19,Q1296,Ghent,P527,Q1260195,Drongen,1,Hippolyte Metdepenningen was born in [MASK] .,Ghent consists of [MASK] .
+Q1007206,Gabriel Porras,P551,Q1489,"Mexico City, Mexico",P131,Q96,Mexican,1,Gabriel Porras resides in [MASK] .,"Mexico City, Mexico is located in [MASK] ."
+Q41914,Manmohan Singh,P39,Q192711,Prime Minister,P279,Q14212,Prime Minister,1,Manmohan Singh has the position of [MASK] .,Prime Minister is a subclass of [MASK] .
+Q121072,Bernhard Hess,P937,Q70,Bern,P31,Q70208,municipality,1,Bernhard Hess used to work in [MASK] .,Bern is a [MASK] .
+Q3335849,Naomi Wallace,P551,Q1603,Kentucky,P571,XMLSchema#dateTime,"June 1, 1792",1,Naomi Wallace resides in [MASK] .,Kentucky was founded on [MASK] .
+Q17279248,Quentin Crewe,P19,Q84,London,P159,Q1093950,"City Hall, London",1,Quentin Crewe was born in [MASK] .,The headquarter of London is in [MASK] .
+Q40067,Candy Clark,P1411,Q106301,Best Supporting Actress,P1346,Q230138,Tatum O'Neal,1,Candy Clark was nominated for [MASK] .,The winner of Best Supporting Actress is [MASK] .
+Q3311473,Edgar Krahn,P69,Q204181,Tartu,P17,Q191,Estonia,1,Edgar Krahn is educated at [MASK] .,Tartu is located in [MASK] .
+Q3383393,Pierre-Michel Auger,P102,Q1631384,Liberal,P31,Q7278,political party,1,Pierre-Michel Auger is member of political party [MASK] .,Liberal is a [MASK] .
+Q87807,Trude Fleischmann,P19,Q1741,Vienna,P131,Q40,Austria,1,Trude Fleischmann was born in [MASK] .,Vienna is located in [MASK] .
+Q6766909,Mark Buesgens,P102,Q7314659,Republican,P131,Q1527,Minnesota,1,Mark Buesgens is member of political party [MASK] .,Republican is located in [MASK] .
+Q304592,Dava Sobel,P19,Q18426,The Bronx,P206,Q597451,Harlem River,1,Dava Sobel was born in [MASK] .,The Bronx is located in or next to [MASK] .
+Q4462411,Rudolf Trenkel,P607,Q362,World War II,P276,Q46,Europe,1,Rudolf Trenkel participated in the conflict of [MASK] .,World War II is located in [MASK] .
+Q6737862,Majid Sharif,P1412,Q9168,Persian,P155,Q32063,Middle Persian,1,Majid Sharif translating pled spoken callback fluent [MASK] .,Persian follows [MASK] .
+Q1157119,Peter Lehel,P1303,Q9798,saxophonist,P279,Q181247,Woodwinds,1,Peter Lehel plays [MASK] .,saxophonist is a subclass of [MASK] .
+Q1088737,Giuseppe Toaldo,P463,Q123885,Royal Society,P155,Q5607577,1645 Group,1,Giuseppe Toaldo is a member of [MASK] .,Royal Society follows [MASK] .
+Q2038113,Louis Scutenaire,P20,Q240,Brussels,P36,Q239,Brussels,1,Louis Scutenaire died in [MASK] .,The capital of Brussels is [MASK] .
+Q1062486,Hiroyuki Yoshino (screenwriter),P19,Q80011,Chiba Prefecture,P706,Q13989,Honshu,1,Hiroyuki Yoshino (screenwriter) was born in [MASK] .,Chiba Prefecture is located on [MASK] .
+Q12630437,Edo Šen,P108,Q675848,Zagreb,P571,XMLSchema#dateTime,"September 23, 1669",1,Edo Šen works for [MASK] .,Zagreb was founded on [MASK] .
+Q8005560,William Bird Herapath,P463,Q123885,Royal Society,P159,Q84,London,1,William Bird Herapath is a member of [MASK] .,The headquarter of Royal Society is in [MASK] .
+Q115067,Christoph Graupner,P20,Q2973,Darmstadt,P361,Q707278,Frankfurt Rhein-Main Region,1,Christoph Graupner died in [MASK] .,Darmstadt is part of [MASK] .
+Q333688,Charles Vere Ferrers Townshend,P166,Q615838,DSO,P17,Q145,United Kingdom,1,Charles Vere Ferrers Townshend was awarded [MASK] .,DSO is located in [MASK] .
+Q6733070,Mahamoud Adam Béchir,P27,Q657,Chad,P206,Q125309,Lake Chad,1,Mahamoud Adam Béchir is [MASK] citizen .,Chad is located in or next to [MASK] .
+Q4691268,Agar Rodney Adamson,P241,Q165862,Royal Air Force,P571,XMLSchema#dateTime,1 April 1918,1,Agar Rodney Adamson is the military branch of [MASK] .,Royal Air Force was founded on [MASK] .
+Q236370,Souad Massi,P264,Q190585,Island Records,P112,Q861129,Chris Blackwell,1,Souad Massi is represented by music label [MASK] .,Island Records is founded by [MASK] .
+Q6302807,Judi Dutcher,P102,Q7314659,Republican,P131,Q1527,Minnesota,1,Judi Dutcher is member of political party [MASK] .,Republican is located in [MASK] .
+Q7279198,Rachel Cheung,P136,Q9730,classical,P31,Q188451,musical genre,1,Rachel Cheung plays [MASK] music .,classical is a [MASK] .
+Q90198,Hans Nieland,P102,Q7320,NSDAP,P156,Q151250,neo-Nazi,1,Hans Nieland is member of political party [MASK] .,NSDAP is followed by [MASK] .
+Q5628667,H. Wildon Carr,P108,Q4614,Southern California,P276,Q65,Los Angeles,1,H. Wildon Carr works for [MASK] .,Southern California is located in [MASK] .
+Q182349,Broderick Crawford,P166,Q103916,Best Actor,P1346,Q41163,Al Pacino,1,Broderick Crawford was awarded [MASK] .,The winner of Best Actor is [MASK] .
+Q15711484,Sathish,P106,Q33999,actor,P279,Q483501,painter,1,Sathish is a [MASK] by profession .,actor is a subclass of [MASK] .
+Q5314527,"Duncan McNeill, 1st Baron Colonsay",P463,Q117467,FRSE,P131,Q23436,Edinburgh,1,"Duncan McNeill, 1st Baron Colonsay is a member of [MASK] .",FRSE is located in [MASK] .
+Q2363587,Vikram,P1412,Q8097,Telugu,P279,Q33311,Dravidian languages,1,Vikram translating pled spoken callback fluent [MASK] .,Telugu is a subclass of [MASK] .
+Q312264,Captain Beefheart & His Magic Band,P264,Q277626,A&M Records,P136,Q37073,pop,1,Captain Beefheart & His Magic Band is represented by music label [MASK] .,A&M Records plays [MASK] music .
+Q6752595,Manuel Gallent Nicola,P1412,Q1321,Spanish,P31,Q661936,pro-drop language,1,Manuel Gallent Nicola translating pled spoken callback fluent [MASK] .,Spanish is a [MASK] .
+Q511689,Wendy Alexander,P102,Q3179541,Labour,P361,Q9630,Labour Party (UK),1,Wendy Alexander is member of political party [MASK] .,Labour is part of [MASK] .
+Q193800,Juvenal,P27,Q1747689,Rome,P706,Q72499,Mediterranean Basin,1,Juvenal is [MASK] citizen .,Rome is located on [MASK] .
+Q4801454,David Whitaker,P108,Q9531,BBC,P112,Q320851,John Reith,1,David Whitaker works for [MASK] .,BBC is founded by [MASK] .
+Q6372549,Karlous Marx Shinohamba,P102,Q467711,SWAPO,P571,XMLSchema#dateTime,19 April 1960,1,Karlous Marx Shinohamba is member of political party [MASK] .,SWAPO was founded on [MASK] .
+Q2791923,Elena Kazantseva,P19,Q2280,Minsk,P166,Q159438,hero cities,1,Elena Kazantseva was born in [MASK] .,Minsk was awarded [MASK] .
+Q61670,Hans Berger,P108,Q154561,Jena,P159,Q3150,Jena,1,Hans Berger works for [MASK] .,The headquarter of Jena is in [MASK] .
+Q6443895,Kumiko Takizawa,P19,Q1490,Tokyo,P361,Q328121,Greater Tokyo,1,Kumiko Takizawa was born in [MASK] .,Tokyo is part of [MASK] .
+Q4023260,Yuri Yamaoka,P19,Q128186,Saitama Prefecture,P150,Q824009,Sayama,1,Yuri Yamaoka was born in [MASK] .,Saitama Prefecture contains the administrative territorial entity [MASK] .
+Q382368,Kosuke Hori,P19,Q1490,Tokyo,P155,Q1207735,Tokyo City,1,Kosuke Hori was born in [MASK] .,Tokyo follows [MASK] .
+Q505938,Narcisse-Fortunat Belleau,P19,Q2145,Quebec,P112,Q68529,Samuel de Champlain,1,Narcisse-Fortunat Belleau was born in [MASK] .,Quebec is founded by [MASK] .
+Q947202,Hans Riddervold,P937,Q585,Kristiania,P131,Q216065,Eastern Norway,1,Hans Riddervold used to work in [MASK] .,Kristiania is located in [MASK] .
+Q1700472,William A. Pile,P607,Q8676,American Civil War,P276,Q49042,American South,1,William A. Pile participated in the conflict of [MASK] .,American Civil War is located in [MASK] .
+Q11110326,Jan Brinkhuis,P108,Q633529,Erasmus University Rotterdam,P138,Q43499,Erasmus,1,Jan Brinkhuis works for [MASK] .,Erasmus University Rotterdam is named after [MASK] .
+Q68643,Robert Ritter,P69,Q55044,Munich,P159,Q1726,Munich,1,Robert Ritter is educated at [MASK] .,The headquarter of Munich is in [MASK] .
+Q1409,Caligula,P27,Q1747689,Rome,P527,Q17167,Roman Republic,1,Caligula is [MASK] citizen .,Rome consists of [MASK] .
+Q962432,Jan Kasprowicz,P27,Q36,Polish,P206,Q545,Baltic coast,1,Jan Kasprowicz is [MASK] citizen .,Polish is located in or next to [MASK] .
+Q470417,Sim Gokkes,P2632,Q7341,Auschwitz,P527,Q700356,Auschwitz III (Monowitz),1,Sim Gokkes was detained at [MASK] .,Auschwitz consists of [MASK] .
+Q42493,Katy Perry,P264,Q193023,Capitol Records,P112,Q363698,Mercer,1,Katy Perry is represented by music label [MASK] .,Capitol Records is founded by [MASK] .
+Q506231,Michael Frayn,P463,Q1468277,FRSL,P31,Q955824,learned society,1,Michael Frayn is a member of [MASK] .,FRSL is a [MASK] .
+Q5228717,Dave Edwards (Wyoming politician),P241,Q11220,United States Navy,P361,Q742787,United States Navy Department,1,Dave Edwards (Wyoming politician) is the military branch of [MASK] .,United States Navy is part of [MASK] .
+Q6845290,Mihkel Poll,P27,Q191,Estonian,P36,Q1770,Tallinn,1,Mihkel Poll is [MASK] citizen .,The capital of Estonian is [MASK] .
+Q6266095,Johnnie Mae Matthews,P136,Q45981,R&B,P279,Q373342,popular music,1,Johnnie Mae Matthews plays [MASK] music .,R&B is a subclass of [MASK] .
+Q5703370,Helen Watson (singer-songwriter),P136,Q235858,folk,P31,Q188451,musical genre,1,Helen Watson (singer-songwriter) plays [MASK] music .,folk is a [MASK] .
+Q6773521,Marshall Colt,P241,Q11220,United States Navy,P159,Q61,"Washington, D.C., USA",1,Marshall Colt is the military branch of [MASK] .,The headquarter of United States Navy is in [MASK] .
+Q6059873,Najibullah Quraishi,P19,Q889,Afghanistan,P463,Q1065,United Nations,1,Najibullah Quraishi was born in [MASK] .,Afghanistan is a member of [MASK] .
+Q3076718,Jesús Aparicio-Bernal Sánchez,P937,Q2807,Madrid,P150,Q2000929,Arganzuela,1,Jesús Aparicio-Bernal Sánchez used to work in [MASK] .,Madrid contains the administrative territorial entity [MASK] .
+Q101390,Kurt Heinig,P937,Q1754,Stockholm,P31,Q5119,national capital,1,Kurt Heinig used to work in [MASK] .,Stockholm is a [MASK] .
+Q18631146,Agripino Cawich,P27,Q242,Belize,P361,Q27611,Central America,1,Agripino Cawich is [MASK] citizen .,Belize is part of [MASK] .
+Q3304350,Megan Leitch,P19,Q24639,Vancouver,P30,Q49,North America,1,Megan Leitch was born in [MASK] .,Vancouver is located in [MASK] .
+Q1911426,Maurice Sauvé,P937,Q1930,Ottawa,P17,Q16,Canada,1,Maurice Sauvé used to work in [MASK] .,Ottawa is located in [MASK] .
+Q5247780,Deb Matthews,P102,Q1553186,Liberal,P31,Q7278,political party,1,Deb Matthews is member of political party [MASK] .,Liberal is a [MASK] .
+Q6169197,Jean-Efflam Bavouzet,P1303,Q5994,piano,P279,Q52954,keyboards,1,Jean-Efflam Bavouzet plays [MASK] .,piano is a subclass of [MASK] .
+Q2595546,Yasushi Akashi,P69,Q213439,Virginia,P159,Q123766,Charlottesville,1,Yasushi Akashi is educated at [MASK] .,The headquarter of Virginia is in [MASK] .
+Q315621,Pedro Lascuráin,P39,Q628004,President,P17,Q96,Mexico,1,Pedro Lascuráin has the position of [MASK] .,President is located in [MASK] .
+Q250979,Jeffrey Osborne,P264,Q277626,A&M Records,P112,Q344822,Herb Alpert,1,Jeffrey Osborne is represented by music label [MASK] .,A&M Records is founded by [MASK] .
+Q122392,Jakob,P937,Q78,Basel,P1376,Q12172,Basel-Stadt,1,Jakob used to work in [MASK] .,Basel is the capital of [MASK] .
+Q310939,Walton,P69,Q745967,"Christ Church, Oxford",P31,Q2581649,constituent colleges,1,Walton is educated at [MASK] .,"Christ Church, Oxford is a [MASK] ."
+Q461138,Gō Ikeyamada,P106,Q191633,manga artist,P17,Q17,Japan,1,Gō Ikeyamada is a [MASK] by profession .,manga artist is located in [MASK] .
+Q2514387,"James Reid, Baron Reid",P463,Q117467,FRSE,P131,Q23436,Edinburgh,1,"James Reid, Baron Reid is a member of [MASK] .",FRSE is located in [MASK] .
+Q4968025,Pedro Jorge Vera,P27,Q736,Ecuador,P463,Q1065,UN,1,Pedro Jorge Vera is [MASK] citizen .,Ecuador is a member of [MASK] .
+Q1970615,Robert Toombs,P241,Q1125021,Confederate States Army,P31,Q37726,force,1,Robert Toombs is the military branch of [MASK] .,Confederate States Army is a [MASK] .
+Q6499555,Kastus Moskalik,P27,Q184,Belarusian,P150,Q192959,Minsk Voblast,1,Kastus Moskalik is [MASK] citizen .,Belarusian contains the administrative territorial entity [MASK] .
+Q101740,Benoit Mandelbrot,P108,Q37156,IBM,P155,Q5157637,Computing-Tabulating-Recording Company,1,Benoit Mandelbrot works for [MASK] .,IBM follows [MASK] .
+Q709437,Giovanni Maria Trabaci,P135,Q8361,Baroque,P361,Q37853,baroque,1,Giovanni Maria Trabaci participated in the movement of [MASK] .,Baroque is part of [MASK] .
+Q68421,Lorenz Diefenbach,P20,Q2973,Darmstadt,P17,Q183,Germany,1,Lorenz Diefenbach died in [MASK] .,Darmstadt is located in [MASK] .
+Q7087955,Oliver Young,P241,Q172771,Royal Navy,P31,Q4508,US Navy,1,Oliver Young is the military branch of [MASK] .,Royal Navy is a [MASK] .
+Q612027,Tommy Cooper,P509,Q12152,heart attack,P31,Q12136,morbidity,1,Tommy Cooper died due to [MASK] .,heart attack is a [MASK] .
+Q487861,Jung Ryeo-won,P19,Q8684,Seoul,P150,Q50190,Yeongdeungpo-gu,1,Jung Ryeo-won was born in [MASK] .,Seoul contains the administrative territorial entity [MASK] .
+Q865906,Nao Tōyama,P19,Q1490,Tokyo,P527,Q308891,special wards,1,Nao Tōyama was born in [MASK] .,Tokyo consists of [MASK] .
+Q7143712,Pat Mazorol,P102,Q7314659,Republican,P131,Q1527,Minnesota,1,Pat Mazorol is member of political party [MASK] .,Republican is located in [MASK] .
+Q1563403,Robert Kurbaša,P103,Q6654,Croatian,P361,Q9301,Serbo-Croatian,1,The native language of Robert Kurbaša is [MASK] .,Croatian is part of [MASK] .
+Q4960732,Brenda Maddox,P463,Q1468277,FRSL,P31,Q955824,learned society,1,Brenda Maddox is a member of [MASK] .,FRSL is a [MASK] .
+Q3299298,Avni Mula,P27,Q222,Albania,P31,Q7270,republic,1,Avni Mula is [MASK] citizen .,Albania is a [MASK] .
+Q463374,Elijah Mizrachi,P19,Q16869,Constantinople,P155,Q13089982,New Rome,1,Elijah Mizrachi was born in [MASK] .,Constantinople follows [MASK] .
+Q1210577,Didier Rimaud,P611,Q36380,Jesuit,P31,Q2061186,religious congregation,1,Didier Rimaud belongs to the religious order of [MASK] .,Jesuit is a [MASK] .
+Q357980,Elin Pelin,P1412,Q7918,Bulgarian,P131,Q23522,Balkan peninsula,1,Elin Pelin translating pled spoken callback fluent [MASK] .,Bulgarian is located in [MASK] .
+Q74856,Otto Selz,P20,Q7341,Auschwitz,P527,Q700356,Auschwitz III (Monowitz),1,Otto Selz died in [MASK] .,Auschwitz consists of [MASK] .
+Q1392611,Venceslau de Sousa Pereira de Lima,P19,Q36433,Porto,P166,Q93932,GCTE,1,Venceslau de Sousa Pereira de Lima was born in [MASK] .,Porto was awarded [MASK] .
+Q16123691,Jaroslav Jakubovič,P19,Q33946,Czechoslovakia,P463,Q41644,Warsaw Pact,1,Jaroslav Jakubovič was born in [MASK] .,Czechoslovakia is a member of [MASK] .
+Q5726562,Hilding Faxén,P69,Q185246,Uppsala University,P527,Q2901382,Uppsala University Library,1,Hilding Faxén is educated at [MASK] .,Uppsala University consists of [MASK] .
+Q4706627,Alan Fitch,P102,Q9630,British Labour Party,P527,Q3179541,Scottish Labour Party,1,Alan Fitch is member of political party [MASK] .,British Labour Party consists of [MASK] .
+Q17180850,Henry Puckering,P69,Q332342,"Trinity College, Cambridge",P17,Q145,U.K,1,Henry Puckering is educated at [MASK] .,"Trinity College, Cambridge is located in [MASK] ."
+Q1399066,Jiří Maštálka,P102,Q727724,Communist Party,P156,Q913567,KSČM,1,Jiří Maštálka is member of political party [MASK] .,Communist Party is followed by [MASK] .
+Q80871,Gabriela Mistral,P166,Q37922,Nobel Prize,P361,Q7191,Nobel Prize,1,Gabriela Mistral was awarded [MASK] .,Nobel Prize is part of [MASK] .
+Q2907550,Eli Goldschmidt,P1412,Q9288,Hebrew,P138,Q570868,Hebrew people,1,Eli Goldschmidt translating pled spoken callback fluent [MASK] .,Hebrew is named after [MASK] .
+Q117139,Wiz Khalifa,P551,Q1342,Pittsburgh,P1376,Q156291,"Allegheny County, Pennsylvania",1,Wiz Khalifa resides in [MASK] .,Pittsburgh is the capital of [MASK] .
+Q970679,Pitigrilli,P20,Q495,Turin,P131,Q426025,Savoy,1,Pitigrilli died in [MASK] .,Turin is located in [MASK] .
+Q5083368,Charles Warren Greene,P69,Q49116,Dartmouth College,P463,Q49113,Ivy League,1,Charles Warren Greene is educated at [MASK] .,Dartmouth College is a member of [MASK] .
+Q505575,Alfred A. Cohn,P20,Q65,Los Angeles,P30,Q49,North America,1,Alfred A. Cohn died in [MASK] .,Los Angeles is located in [MASK] .
+Q5488256,Frank McClean,P463,Q123885,FRS,P159,Q84,London,1,Frank McClean is a member of [MASK] .,The headquarter of FRS is in [MASK] .
+Q453430,Pascal Schumacher,P27,Q32,Luxembourg,P155,Q151624,German Confederation,1,Pascal Schumacher is [MASK] citizen .,Luxembourg follows [MASK] .
+Q7152821,Paul Okoumba d'Okwatsegue,P27,Q1000,Gabon,P150,Q281109,Estuaire Province,1,Paul Okoumba d'Okwatsegue is [MASK] citizen .,Gabon contains the administrative territorial entity [MASK] .
+Q6776992,Martin van Hees,P108,Q850730,Groningen,P276,Q749,Groningen,1,Martin van Hees works for [MASK] .,Groningen is located in [MASK] .
+Q929630,Franco Basaglia,P20,Q641,Venice,P1435,Q9259,UNESCO World Heritage List,1,Franco Basaglia died in [MASK] .,Venice has the heritage status of [MASK] .
+Q7610735,Stephen Urice,P69,Q49122,Harvard Law School,P361,Q13371,Harvard University,1,Stephen Urice is educated at [MASK] .,Harvard Law School is part of [MASK] .
+Q7913444,Van Hunt,P264,Q193023,Capitol Records,P159,Q65,Los Angeles,1,Van Hunt is represented by music label [MASK] .,The headquarter of Capitol Records is in [MASK] .
+Q5868696,Jack Whitehall,P106,Q245068,comedian,P279,Q33999,actress,1,Jack Whitehall is a [MASK] by profession .,comedian is a subclass of [MASK] .
+Q4948585,Elisabeth Forsselius,P19,Q34,Swedish,P206,Q545,Baltic Sea,1,Elisabeth Forsselius was born in [MASK] .,Swedish is located in or next to [MASK] .
+Q7965228,Walter J. Kavanaugh,P69,Q178848,Notre Dame,P140,Q9592,Catholic Church,1,Walter J. Kavanaugh is educated at [MASK] .,Notre Dame is affiliated with the [MASK] religion .
+Q4078539,Joseph Barsky,P19,Q1874,Odessa,P131,Q171852,Odessa oblast,1,Joseph Barsky was born in [MASK] .,Odessa is located in [MASK] .
+Q4719298,Alexander Kenneth Maclean,P102,Q3366494,Liberal,P138,Q1952,Nova Scotia,1,Alexander Kenneth Maclean is member of political party [MASK] .,Liberal is named after [MASK] .
+Q14949179,Jenny Hill (journalist),P108,Q9531,BBC,P112,Q320851,John Reith,1,Jenny Hill (journalist) works for [MASK] .,BBC is founded by [MASK] .
+Q467539,Frédy Girardet,P19,Q807,Lausanne,P47,Q69738,Pully,1,Frédy Girardet was born in [MASK] .,Lausanne shares border with [MASK] .
+Q6526743,Leontia Flynn,P19,Q26,Northern Ireland,P361,Q22890,Éire,1,Leontia Flynn was born in [MASK] .,Northern Ireland is part of [MASK] .
+Q1729163,Karel Husa,P1066,Q140619,Nadia Boulanger,P20,Q90,Paris,1,Karel Husa is the student of [MASK] .,Nadia Boulanger died in [MASK] .
+Q2246461,Akira Nishimura,P19,Q35765,Osaka,P31,Q1749269,designated city,1,Akira Nishimura was born in [MASK] .,Osaka is a [MASK] .
+Q16007601,Kamal Dasgupta,P140,Q432,Islam,P279,Q47280,Abrahamic Faith,1,Kamal Dasgupta is affiliated with the [MASK] religion .,Islam is a subclass of [MASK] .
+Q2383884,Adolfo Aguilar Zínser,P937,Q1489,Mexico City,P47,Q82112,Mexico,1,Adolfo Aguilar Zínser used to work in [MASK] .,Mexico City shares border with [MASK] .
+Q153753,Albert Bandura,P108,Q41506,Stanford University,P527,Q1147088,Hoover Institution,1,Albert Bandura works for [MASK] .,Stanford University consists of [MASK] .
+Q369446,Charles Gayle,P1303,Q9798,saxophonist,P138,Q181995,Adolphe Sax,1,Charles Gayle plays [MASK] .,saxophonist is named after [MASK] .
+Q247270,Anthony Neyrot,P611,Q131479,Dominican,P159,Q220,Rome,1,Anthony Neyrot belongs to the religious order of [MASK] .,The headquarter of Dominican is in [MASK] .
+Q886913,Preston Lea,P551,Q174224,Wilmington,P131,Q156156,"New Castle County, Delaware",1,Preston Lea resides in [MASK] .,Wilmington is located in [MASK] .
+Q1377326,Teixeira de Pascoaes,P1411,Q37922,Nobel Prize,P361,Q7191,Nobel Prize,1,Teixeira de Pascoaes was nominated for [MASK] .,Nobel Prize is part of [MASK] .
+Q522153,André Oscar Wallenberg,P937,Q1754,Stockholm,P31,Q5119,national capital,1,André Oscar Wallenberg used to work in [MASK] .,Stockholm is a [MASK] .
+Q34190,Henry Fielding,P20,Q597,Lisbon,P206,Q14294,River Tagus,1,Henry Fielding died in [MASK] .,Lisbon is located in or next to [MASK] .
+Q12109809,Luka Kyzya,P108,Q1065,United Nations,P112,Q30,American,1,Luka Kyzya works for [MASK] .,United Nations is founded by [MASK] .
+Q4820205,Audrius Rudys,P937,Q216,Vilnius,P206,Q207903,Neris River,1,Audrius Rudys used to work in [MASK] .,Vilnius is located in or next to [MASK] .
+Q544485,Virgil Thomson,P1066,Q140619,Nadia Boulanger,P27,Q142,France,1,Virgil Thomson is the student of [MASK] .,Nadia Boulanger is [MASK] citizen .
+Q3123761,Gérard Berry,P463,Q188771,French Academy,P159,Q90,Paris,1,Gérard Berry is a member of [MASK] .,The headquarter of French Academy is in [MASK] .
+Q250979,Jeffrey Osborne,P264,Q277626,A&M Records,P17,Q30,US,1,Jeffrey Osborne is represented by music label [MASK] .,A&M Records is located in [MASK] .
+Q139642,Zachary Quinto,P19,Q1342,Pittsburgh,P112,Q3181518,John Forbes,1,Zachary Quinto was born in [MASK] .,Pittsburgh is founded by [MASK] .
+Q4768276,Anne Doherty,P19,Q6346,Indianapolis,P527,Q182666,Broad Ripple,1,Anne Doherty was born in [MASK] .,Indianapolis consists of [MASK] .
+Q213742,Reichardt,P937,Q64,Berlin,P47,Q1208,Brandenburg,1,Reichardt used to work in [MASK] .,Berlin shares border with [MASK] .
+Q14949194,Martine Croxall,P108,Q9531,BBC,P112,Q320851,John Reith,1,Martine Croxall works for [MASK] .,BBC is founded by [MASK] .
+Q362289,Nader Dahabi,P27,Q810,Jordan,P36,Q3805,Amman,1,Nader Dahabi is [MASK] citizen .,The capital of Jordan is [MASK] .
+Q2405512,Chiyoko Kawashima,P19,Q1490,Tokyo,P155,Q1207735,Tokyo City,1,Chiyoko Kawashima was born in [MASK] .,Tokyo follows [MASK] .
+Q2835269,Alfred Lefurgey,P69,Q49122,Harvard Law School,P276,Q49111,"Cambridge, Mass.",1,Alfred Lefurgey is educated at [MASK] .,Harvard Law School is located in [MASK] .
+Q3160640,Jake Thackray,P264,Q183412,EMI,P159,Q84,London,1,Jake Thackray is represented by music label [MASK] .,The headquarter of EMI is in [MASK] .
+Q7050296,Norbert Barlicki,P2632,Q7341,Auschwitz,P31,Q328468,Nazi concentration camps,1,Norbert Barlicki was detained at [MASK] .,Auschwitz is a [MASK] .
+Q285116,Bruce Fairbairn,P551,Q24639,Vancouver,P131,Q1061069,Metro Vancouver,1,Bruce Fairbairn resides in [MASK] .,Vancouver is located in [MASK] .
+Q2505097,Dimitris Kontopoulos,P136,Q37073,pop,P279,Q373342,popular music,1,Dimitris Kontopoulos plays [MASK] music .,pop is a subclass of [MASK] .
+Q6775881,Martin Kettle,P69,Q805285,"Balliol College, Oxford",P361,Q34433,Oxford,1,Martin Kettle is educated at [MASK] .,"Balliol College, Oxford is part of [MASK] ."
+Q101740,Benoit Mandelbrot,P108,Q37156,IBM,P127,Q217583,Berkshire Hathaway,1,Benoit Mandelbrot works for [MASK] .,IBM is owned by [MASK] .
+Q2447954,Volodymyr Zatonsky,P27,Q15180,Soviet,P112,Q2184,RSFSR,1,Volodymyr Zatonsky is [MASK] citizen .,Soviet is founded by [MASK] .
+Q570511,Efim Jourist,P27,Q212,Ukrainian,P155,Q133356,Ukrainian SSR,1,Efim Jourist is [MASK] citizen .,Ukrainian follows [MASK] .
+Q14954581,Stuart Wells,P241,Q222595,British Army,P361,Q275482,British armed forces,1,Stuart Wells is the military branch of [MASK] .,British Army is part of [MASK] .
+Q15997907,Patrick James Byrne,P39,Q29182,bishop,P140,Q5043,Christian,1,Patrick James Byrne has the position of [MASK] .,bishop is affiliated with the [MASK] religion .
+Q7159524,Pedro Cintrón Rodríguez,P102,Q1076562,PNP,P131,Q1183,Puerto Rico,1,Pedro Cintrón Rodríguez is member of political party [MASK] .,PNP is located in [MASK] .
+Q6968508,Natasha Trethewey,P166,Q2117891,Pulitzer Prize,P31,Q618779,award,1,Natasha Trethewey was awarded [MASK] .,Pulitzer Prize is a [MASK] .
+Q5765703,Zbignev Balcevič,P27,Q37,Lithuania,P706,Q39731,Baltic,1,Zbignev Balcevič is [MASK] citizen .,Lithuania is located on [MASK] .
+Q2621553,Alexander Campbell (American politician),P20,Q1397,Ohio,P138,Q4915,Ohio River,1,Alexander Campbell (American politician) died in [MASK] .,Ohio is named after [MASK] .
+Q892110,Bonaventura Aliotti,P19,Q2656,Palermo,P17,Q38,Italy,1,Bonaventura Aliotti was born in [MASK] .,Palermo is located in [MASK] .
+Q4760595,Andy Devine (English actor),P19,Q23276,Surrey,P131,Q48015,South East England,1,Andy Devine (English actor) was born in [MASK] .,Surrey is located in [MASK] .
+Q7562482,Sony Esteus,P27,Q790,Haiti,P36,Q34261,Port-au-Prince,1,Sony Esteus is [MASK] citizen .,The capital of Haiti is [MASK] .
+Q7130159,Panos Zavos,P27,Q229,Cyprus,P206,Q4918,Mediterranean,1,Panos Zavos is [MASK] citizen .,Cyprus is located in or next to [MASK] .
+Q1285718,Stipe Šuvar,P1412,Q6654,Croatian,P279,Q9301,Serbo-Croatian,1,Stipe Šuvar translating pled spoken callback fluent [MASK] .,Croatian is a subclass of [MASK] .
+Q5393389,Ernest Kinghorn,P241,Q165862,Royal Air Force,P361,Q275482,British Armed Forces,1,Ernest Kinghorn is the military branch of [MASK] .,Royal Air Force is part of [MASK] .
+Q8004460,William Angwin,P102,Q216082,Labor Party,P17,Q408,Australia,1,William Angwin is member of political party [MASK] .,Labor Party is located in [MASK] .
+Q979510,William Kelly (senator),P102,Q42186,Democratic-Republican,P156,Q29552,Democratic (D),1,William Kelly (senator) is member of political party [MASK] .,Democratic-Republican is followed by [MASK] .
+Q109063,Jimmy Cliff,P264,Q190585,Island Records,P740,Q766,Jamaica,1,Jimmy Cliff is represented by music label [MASK] .,Island Records was founded in [MASK] .
+Q6376648,Kathleen A. Blatz,P69,Q178848,Notre Dame,P140,Q9592,Catholic Church,1,Kathleen A. Blatz is educated at [MASK] .,Notre Dame is affiliated with the [MASK] religion .
+Q531256,Catherine Rouvel,P19,Q23482,Marseille,P166,Q129372,European cultural capital,1,Catherine Rouvel was born in [MASK] .,Marseille was awarded [MASK] .
+Q2983484,Ingrīda Circene,P27,Q211,Latvia,P31,Q185441,European Union,1,Ingrīda Circene is [MASK] citizen .,Latvia is a [MASK] .
+Q435010,Mel Martínez,P140,Q9592,Roman Catholic,P112,Q302,Jesus,1,Mel Martínez is affiliated with the [MASK] religion .,Roman Catholic is founded by [MASK] .
+Q4560207,Lise Christoffersen,P27,Q20,Norwegian,P47,Q35,Danish,1,Lise Christoffersen is [MASK] citizen .,Norwegian shares border with [MASK] .
+Q434435,Soha Ali Khan,P140,Q432,Islam,P279,Q47280,Abrahamic Faith,1,Soha Ali Khan is affiliated with the [MASK] religion .,Islam is a subclass of [MASK] .
+Q2146535,Reuben Kamanga,P20,Q953,Zambia,P150,Q819998,Lusaka,1,Reuben Kamanga died in [MASK] .,Zambia contains the administrative territorial entity [MASK] .
+Q192112,Higgs,P463,Q117467,FRSE,P131,Q23436,Edinburgh,1,Higgs is a member of [MASK] .,FRSE is located in [MASK] .
+Q365670,Roy Harper,P27,Q21,England,P131,Q145,United Kingdom,1,Roy Harper is [MASK] citizen .,England is located in [MASK] .
+Q2431435,Ján Ševčík,P27,Q33946,Czechoslovakia,P463,Q41644,Warsaw Pact,1,Ján Ševčík is [MASK] citizen .,Czechoslovakia is a member of [MASK] .
+Q72106,Bruno Bauch,P20,Q3150,Jena,P131,Q1205,Thuringia,1,Bruno Bauch died in [MASK] .,Jena is located in [MASK] .
+Q2275893,Gerrit Paape,P20,Q36600,The Hague,P30,Q46,Europe,1,Gerrit Paape died in [MASK] .,The Hague is located in [MASK] .
+Q471965,Yuval Ne'eman,P1412,Q9288,Hebrew,P138,Q570868,Hebrew people,1,Yuval Ne'eman translating pled spoken callback fluent [MASK] .,Hebrew is named after [MASK] .
+Q18353105,Elda Gómez Lugo,P19,Q82112,Mexico,P17,Q96,United Mexican States,1,Elda Gómez Lugo was born in [MASK] .,Mexico is located in [MASK] .
+Q983583,Jan Stráský,P102,Q727724,Communist Party,P156,Q913567,KSČM,1,Jan Stráský is member of political party [MASK] .,Communist Party is followed by [MASK] .
+Q4800347,Arthur Stanhope,P27,Q179876,English,P156,Q330362,Commonwealth,1,Arthur Stanhope is [MASK] citizen .,English is followed by [MASK] .
+Q5277558,Dimitrije Nešić,P27,Q403,Serbia,P131,Q83286,Yugoslavia,1,Dimitrije Nešić is [MASK] citizen .,Serbia is located in [MASK] .
+Q297024,Demetrius Vikelas,P551,Q16869,Constantinople,P30,Q48,Asia,1,Demetrius Vikelas resides in [MASK] .,Constantinople is located in [MASK] .
+Q577897,Pamela Nash,P102,Q9630,British Labour Party,P527,Q3179541,Scottish Labour Party,1,Pamela Nash is member of political party [MASK] .,British Labour Party consists of [MASK] .
+Q76951,George de Hevesy,P108,Q153987,Freiburg,P17,Q183,Germany,1,George de Hevesy works for [MASK] .,Freiburg is located in [MASK] .
+Q255,Ludwig van Beethoven,P937,Q586,Bonn,P361,Q164903,Rhine-Ruhr,1,Ludwig van Beethoven used to work in [MASK] .,Bonn is part of [MASK] .
+Q1429102,Joey Calderazzo,P264,Q885833,Blue Note,P136,Q8341,jazz,1,Joey Calderazzo is represented by music label [MASK] .,Blue Note plays [MASK] music .
+Q5622212,Ulf Dinkelspiel,P27,Q34,Sweden,P527,Q180756,Skåne,1,Ulf Dinkelspiel is [MASK] citizen .,Sweden consists of [MASK] .
+Q684141,Averky Aristov,P27,Q15180,Soviet,P112,Q2184,RSFSR,1,Averky Aristov is [MASK] citizen .,Soviet is founded by [MASK] .
+Q109063,Jimmy Cliff,P264,Q190585,Island Records,P136,Q8341,jazz,1,Jimmy Cliff is represented by music label [MASK] .,Island Records plays [MASK] music .
+Q3742511,Ferdinand Fränzl,P20,Q2119,Mannheim,P47,Q2966,Heidelberg,1,Ferdinand Fränzl died in [MASK] .,Mannheim shares border with [MASK] .
+Q7789493,"Thomas Fairfax, 1st Lord Fairfax of Cameron",P27,Q179876,English,P140,Q9592,Roman Catholic Church,1,"Thomas Fairfax, 1st Lord Fairfax of Cameron is [MASK] citizen .",English is affiliated with the [MASK] religion .
+Q7329349,Richard T. Gill,P241,Q9212,United States Army,P31,Q37726,force,1,Richard T. Gill is the military branch of [MASK] .,United States Army is a [MASK] .
+Q1347221,Jimmy McCulloch,P27,Q22,Scotland,P159,Q2379199,Edinburgh Council,1,Jimmy McCulloch is [MASK] citizen .,The headquarter of Scotland is in [MASK] .
+Q5850351,Eugene Allen Smith,P241,Q1125021,Confederate States Army,P17,Q30,American,1,Eugene Allen Smith is the military branch of [MASK] .,Confederate States Army is located in [MASK] .
+Q5772576,Hisham N. Ashkouri,P69,Q49117,Pennsylvania,P112,Q34969,Franklin,1,Hisham N. Ashkouri is educated at [MASK] .,Pennsylvania is founded by [MASK] .
+Q6123510,Jaicko,P264,Q193023,Capitol Records,P159,Q65,Los Angeles,1,Jaicko is represented by music label [MASK] .,The headquarter of Capitol Records is in [MASK] .
+Q5724810,Henry Lee Summer,P136,Q11399,rock,P31,Q188451,musical genre,1,Henry Lee Summer plays [MASK] music .,rock is a [MASK] .
+Q940647,Cornelis van Eesteren,P103,Q7411,Dutch,P17,Q730,Suriname,1,The native language of Cornelis van Eesteren is [MASK] .,Dutch is located in [MASK] .
+Q481096,Peter Kien,P20,Q7341,Auschwitz,P527,Q700356,Auschwitz III (Monowitz),1,Peter Kien died in [MASK] .,Auschwitz consists of [MASK] .
+Q36949,Robert De Niro,P1411,Q106291,Best Supporting Actor,P31,Q19020,Academy Award,1,Robert De Niro was nominated for [MASK] .,Best Supporting Actor is a [MASK] .
+Q5209503,Dainius Kamaitis,P27,Q37,Lithuania,P571,XMLSchema#dateTime,"February 16, 1918",1,Dainius Kamaitis is [MASK] citizen .,Lithuania was founded on [MASK] .
+Q4411691,Jerry Kazdan,P463,Q465654,American Mathematical Society,P17,Q30,American,1,Jerry Kazdan is a member of [MASK] .,American Mathematical Society is located in [MASK] .
+Q7177807,Peter Wykeham,P241,Q165862,Royal Air Force,P361,Q275482,British Armed Forces,1,Peter Wykeham is the military branch of [MASK] .,Royal Air Force is part of [MASK] .
+Q5394026,Ernest Winch,P20,Q24639,Vancouver,P17,Q16,Canada,1,Ernest Winch died in [MASK] .,Vancouver is located in [MASK] .
+Q727956,Khosrovidukht,P1412,Q8785,Armenian,P279,Q19860,Indo-European,1,Khosrovidukht translating pled spoken callback fluent [MASK] .,Armenian is a subclass of [MASK] .
+Q467341,Lek Nana,P20,Q1861,Bangkok,P571,XMLSchema#dateTime,21 April 1782,1,Lek Nana died in [MASK] .,Bangkok was founded on [MASK] .
+Q1219455,Petronius Probinus (consul 341),P27,Q1747689,Rome,P527,Q17167,Roman Republic,1,Petronius Probinus (consul 341) is [MASK] citizen .,Rome consists of [MASK] .
+Q214622,Nikos Kazantzakis,P103,Q9129,Greek,P17,Q41,Greece,1,The native language of Nikos Kazantzakis is [MASK] .,Greek is located in [MASK] .
+Q7425841,Saswata Chatterjee,P1412,Q9610,Bengali,P361,Q33577,Indo-Aryan language family,1,Saswata Chatterjee translating pled spoken callback fluent [MASK] .,Bengali is part of [MASK] .
+Q7347547,Bob McKenzie (actor),P509,Q12152,heart attack,P279,Q844935,ischemic heart disease,1,Bob McKenzie (actor) died due to [MASK] .,heart attack is a subclass of [MASK] .
+Q892,J. R. R. Tolkien,P172,Q42406,English,P31,Q41710,ethnic group,1,J. R. R. Tolkien belongs to the ethnic group of [MASK] .,English is a [MASK] .
+Q356187,Brad Mehldau,P264,Q843402,Warner Bros.,P31,Q18127,imprint,1,Brad Mehldau is represented by music label [MASK] .,Warner Bros. is a [MASK] .
+Q730367,Paul Janson,P20,Q240,Brussels,P36,Q239,Brussels,1,Paul Janson died in [MASK] .,The capital of Brussels is [MASK] .
+Q16254896,Robert Jonckhèere,P20,Q23482,Marseille,P166,Q129372,European cultural capital,1,Robert Jonckhèere died in [MASK] .,Marseille was awarded [MASK] .
+Q1228351,Orazio Benevoli,P135,Q8361,Baroque,P361,Q37853,baroque,1,Orazio Benevoli participated in the movement of [MASK] .,Baroque is part of [MASK] .
+Q3193484,Karl von Haimhausen,P611,Q36380,Jesuit,P112,Q44281,Ignacio de Loyola,1,Karl von Haimhausen belongs to the religious order of [MASK] .,Jesuit is founded by [MASK] .

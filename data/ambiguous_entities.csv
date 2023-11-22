@@ -1,0 +1,751 @@
+subject_1,subject_2,predicate_name,predicate_id,object_1,object_2,subject_type,init_prompt,prompt_1,prompt_2
+David Swift,Dave Swift,place of birth,P19,Minneapolis,Wolverhampton,h,<ENT0> was born in <ENT1> .,David Swift was born in [MASK] .,Dave Swift was born in [MASK] .
+David Swift,Dave Swift,occupation,P106,film director,double-bassist,h,<ENT0> is a <ENT1> by profession .,David Swift is a [MASK] by profession .,Dave Swift is a [MASK] by profession .
+David Swift,Dave Swift,country of citizenship,P27,United States of America,United Kingdom,h,<ENT0> is <ENT1> citizen .,David Swift is [MASK] citizen .,Dave Swift is [MASK] citizen .
+David Swift,Dave Swift,"languages spoken, written or signed",P1412,English,English,h,<ENT0> translating pled spoken callback fluent <ENT1> .,David Swift translating pled spoken callback fluent [MASK] .,Dave Swift translating pled spoken callback fluent [MASK] .
+David Swift,Dave Swift,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,David Swift is a [MASK] .,Dave Swift is a [MASK] .
+Compulsion,Sadie,genre,P136,erotic film,heavy metal,nh,<ENT0> plays <ENT1> music .,Compulsion plays [MASK] music .,Sadie plays [MASK] music .
+Compulsion,Sadie,instance of,P31,film,musical group,nh,<ENT0> is a <ENT1> .,Compulsion is a [MASK] .,Sadie is a [MASK] .
+Compulsion,Sadie,country of origin,P495,Canada,Japan,nh,<ENT0> was created in <ENT1> .,Compulsion was created in [MASK] .,Sadie was created in [MASK] .
+Everybody Go Home,Tutti a casa,genre,P136,drama film,hip hop music,nh,<ENT0> plays <ENT1> music .,Everybody Go Home plays [MASK] music .,Tutti a casa plays [MASK] music .
+Everybody Go Home,Tutti a casa,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,Everybody Go Home is a [MASK] .,Tutti a casa is a [MASK] .
+The Long Walk Home,Long Walk Home,genre,P136,drama film,alternative rock,nh,<ENT0> plays <ENT1> music .,The Long Walk Home plays [MASK] music .,Long Walk Home plays [MASK] music .
+The Long Walk Home,Long Walk Home,instance of,P31,film,musical work/composition,nh,<ENT0> is a <ENT1> .,The Long Walk Home is a [MASK] .,Long Walk Home is a [MASK] .
+Nansō Satomi Hakkenden,Legend of the Eight Samurai,genre,P136,yomihon,action film,nh,<ENT0> plays <ENT1> music .,Nansō Satomi Hakkenden plays [MASK] music .,Legend of the Eight Samurai plays [MASK] music .
+Nansō Satomi Hakkenden,Legend of the Eight Samurai,instance of,P31,literary work,film,nh,<ENT0> is a <ENT1> .,Nansō Satomi Hakkenden is a [MASK] .,Legend of the Eight Samurai is a [MASK] .
+Nansō Satomi Hakkenden,Legend of the Eight Samurai,country of origin,P495,Japan,Japan,nh,<ENT0> was created in <ENT1> .,Nansō Satomi Hakkenden was created in [MASK] .,Legend of the Eight Samurai was created in [MASK] .
+Worakls,Kévin Rodrigues,place of birth,P19,Paris,Bayonne,h,<ENT0> was born in <ENT1> .,Worakls was born in [MASK] .,Kévin Rodrigues was born in [MASK] .
+Worakls,Kévin Rodrigues,occupation,P106,record producer,association football player,h,<ENT0> is a <ENT1> by profession .,Worakls is a [MASK] by profession .,Kévin Rodrigues is a [MASK] by profession .
+Worakls,Kévin Rodrigues,country of citizenship,P27,France,France,h,<ENT0> is <ENT1> citizen .,Worakls is [MASK] citizen .,Kévin Rodrigues is [MASK] citizen .
+Worakls,Kévin Rodrigues,"languages spoken, written or signed",P1412,French,Portuguese,h,<ENT0> translating pled spoken callback fluent <ENT1> .,Worakls translating pled spoken callback fluent [MASK] .,Kévin Rodrigues translating pled spoken callback fluent [MASK] .
+Worakls,Kévin Rodrigues,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Worakls is a [MASK] .,Kévin Rodrigues is a [MASK] .
+England Made Me,The Shipwrecked,instance of,P31,literary work,film,nh,<ENT0> is a <ENT1> .,England Made Me is a [MASK] .,The Shipwrecked is a [MASK] .
+Erró,Guðmundur Guðmundsson,place of birth,P19,Ólafsvík,Siglufjörður,h,<ENT0> was born in <ENT1> .,Erró was born in [MASK] .,Guðmundur Guðmundsson was born in [MASK] .
+Erró,Guðmundur Guðmundsson,occupation,P106,painter,ski jumper,h,<ENT0> is a <ENT1> by profession .,Erró is a [MASK] by profession .,Guðmundur Guðmundsson is a [MASK] by profession .
+Erró,Guðmundur Guðmundsson,country of citizenship,P27,Iceland,Iceland,h,<ENT0> is <ENT1> citizen .,Erró is [MASK] citizen .,Guðmundur Guðmundsson is [MASK] citizen .
+Erró,Guðmundur Guðmundsson,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Erró is a [MASK] .,Guðmundur Guðmundsson is a [MASK] .
+Don't Waste Your Time,"Don't Waste Your Time, Johnny!",genre,P136,pop rock,biographical film,nh,<ENT0> plays <ENT1> music .,Don't Waste Your Time plays [MASK] music .,"Don't Waste Your Time, Johnny! plays [MASK] music ."
+Don't Waste Your Time,"Don't Waste Your Time, Johnny!",instance of,P31,song,film,nh,<ENT0> is a <ENT1> .,Don't Waste Your Time is a [MASK] .,"Don't Waste Your Time, Johnny! is a [MASK] ."
+Don't Waste Your Time,"Don't Waste Your Time, Johnny!",country of origin,P495,United States of America,Italy,nh,<ENT0> was created in <ENT1> .,Don't Waste Your Time was created in [MASK] .,"Don't Waste Your Time, Johnny! was created in [MASK] ."
+Sentimental Lady,The Sentimental Lady,genre,P136,soft rock,drama film,nh,<ENT0> plays <ENT1> music .,Sentimental Lady plays [MASK] music .,The Sentimental Lady plays [MASK] music .
+Sentimental Lady,The Sentimental Lady,instance of,P31,song,film,nh,<ENT0> is a <ENT1> .,Sentimental Lady is a [MASK] .,The Sentimental Lady is a [MASK] .
+Sentimental Lady,The Sentimental Lady,country of origin,P495,United States of America,United States of America,nh,<ENT0> was created in <ENT1> .,Sentimental Lady was created in [MASK] .,The Sentimental Lady was created in [MASK] .
+The Comfort of Strangers,Comfort of Strangers,genre,P136,drama film,trip hop,nh,<ENT0> plays <ENT1> music .,The Comfort of Strangers plays [MASK] music .,Comfort of Strangers plays [MASK] music .
+The Comfort of Strangers,Comfort of Strangers,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,The Comfort of Strangers is a [MASK] .,Comfort of Strangers is a [MASK] .
+Sun Yat-sen,Sun Wen,place of birth,P19,Cuiheng,Shanghai,h,<ENT0> was born in <ENT1> .,Sun Yat-sen was born in [MASK] .,Sun Wen was born in [MASK] .
+Sun Yat-sen,Sun Wen,educated at,P69,Queen's College,Fudan University,h,<ENT0> is educated at <ENT1> .,Sun Yat-sen is educated at [MASK] .,Sun Wen is educated at [MASK] .
+Sun Yat-sen,Sun Wen,occupation,P106,politician,association football player,h,<ENT0> is a <ENT1> by profession .,Sun Yat-sen is a [MASK] by profession .,Sun Wen is a [MASK] by profession .
+Sun Yat-sen,Sun Wen,country of citizenship,P27,Republic of China,People's Republic of China,h,<ENT0> is <ENT1> citizen .,Sun Yat-sen is [MASK] citizen .,Sun Wen is [MASK] citizen .
+Sun Yat-sen,Sun Wen,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Sun Yat-sen is a [MASK] .,Sun Wen is a [MASK] .
+George Ernest Gibson,George Gibson,place of birth,P19,Edinburgh,Stoke-on-Trent,h,<ENT0> was born in <ENT1> .,George Ernest Gibson was born in [MASK] .,George Gibson was born in [MASK] .
+George Ernest Gibson,George Gibson,occupation,P106,chemist,association football player,h,<ENT0> is a <ENT1> by profession .,George Ernest Gibson is a [MASK] by profession .,George Gibson is a [MASK] by profession .
+George Ernest Gibson,George Gibson,country of citizenship,P27,United States of America,United Kingdom,h,<ENT0> is <ENT1> citizen .,George Ernest Gibson is [MASK] citizen .,George Gibson is [MASK] citizen .
+George Ernest Gibson,George Gibson,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,George Ernest Gibson is a [MASK] .,George Gibson is a [MASK] .
+Ralph J. Roberts,Ralph Roberts,occupation,P106,businessperson,engineer,h,<ENT0> is a <ENT1> by profession .,Ralph J. Roberts is a [MASK] by profession .,Ralph Roberts is a [MASK] by profession .
+Ralph J. Roberts,Ralph Roberts,country of citizenship,P27,United States of America,United States of America,h,<ENT0> is <ENT1> citizen .,Ralph J. Roberts is [MASK] citizen .,Ralph Roberts is [MASK] citizen .
+Ralph J. Roberts,Ralph Roberts,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Ralph J. Roberts is a [MASK] .,Ralph Roberts is a [MASK] .
+Twenty Four Seven,TwentyFourSeven,genre,P136,teen film,reggae,nh,<ENT0> plays <ENT1> music .,Twenty Four Seven plays [MASK] music .,TwentyFourSeven plays [MASK] music .
+Twenty Four Seven,TwentyFourSeven,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,Twenty Four Seven is a [MASK] .,TwentyFourSeven is a [MASK] .
+The Marathon,De Marathon,genre,P136,hip hop music,comedy film,nh,<ENT0> plays <ENT1> music .,The Marathon plays [MASK] music .,De Marathon plays [MASK] music .
+The Marathon,De Marathon,instance of,P31,album,film,nh,<ENT0> is a <ENT1> .,The Marathon is a [MASK] .,De Marathon is a [MASK] .
+Lil' Son Jackson,Melvin Jackson,place of birth,P19,Tyler,Los Angeles,h,<ENT0> was born in <ENT1> .,Lil' Son Jackson was born in [MASK] .,Melvin Jackson was born in [MASK] .
+Lil' Son Jackson,Melvin Jackson,occupation,P106,singer,American football player,h,<ENT0> is a <ENT1> by profession .,Lil' Son Jackson is a [MASK] by profession .,Melvin Jackson is a [MASK] by profession .
+Lil' Son Jackson,Melvin Jackson,country of citizenship,P27,United States of America,United States of America,h,<ENT0> is <ENT1> citizen .,Lil' Son Jackson is [MASK] citizen .,Melvin Jackson is [MASK] citizen .
+Lil' Son Jackson,Melvin Jackson,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Lil' Son Jackson is a [MASK] .,Melvin Jackson is a [MASK] .
+Memoirs of a Geisha,Memoirs of a Geisha – Original Motion Picture Soundtrack,genre,P136,drama film,stage and screen,nh,<ENT0> plays <ENT1> music .,Memoirs of a Geisha plays [MASK] music .,Memoirs of a Geisha – Original Motion Picture Soundtrack plays [MASK] music .
+Memoirs of a Geisha,Memoirs of a Geisha – Original Motion Picture Soundtrack,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,Memoirs of a Geisha is a [MASK] .,Memoirs of a Geisha – Original Motion Picture Soundtrack is a [MASK] .
+Desconocida,La Desconocida,instance of,P31,album,film,nh,<ENT0> is a <ENT1> .,Desconocida is a [MASK] .,La Desconocida is a [MASK] .
+Slash,Kelly Wolfe,place of birth,P19,Hampstead,Nashville,h,<ENT0> was born in <ENT1> .,Slash was born in [MASK] .,Kelly Wolfe was born in [MASK] .
+Slash,Kelly Wolfe,occupation,P106,musician,professional wrestler,h,<ENT0> is a <ENT1> by profession .,Slash is a [MASK] by profession .,Kelly Wolfe is a [MASK] by profession .
+Slash,Kelly Wolfe,country of citizenship,P27,United Kingdom,United States of America,h,<ENT0> is <ENT1> citizen .,Slash is [MASK] citizen .,Kelly Wolfe is [MASK] citizen .
+Slash,Kelly Wolfe,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Slash is a [MASK] .,Kelly Wolfe is a [MASK] .
+Dance of Death,Danse de mort,genre,P136,heavy metal,historical film,nh,<ENT0> plays <ENT1> music .,Dance of Death plays [MASK] music .,Danse de mort plays [MASK] music .
+Dance of Death,Danse de mort,instance of,P31,album,film,nh,<ENT0> is a <ENT1> .,Dance of Death is a [MASK] .,Danse de mort is a [MASK] .
+Hannibal,Annibale Carracci,place of birth,P19,Carthage,Bologna,h,<ENT0> was born in <ENT1> .,Hannibal was born in [MASK] .,Annibale Carracci was born in [MASK] .
+Hannibal,Annibale Carracci,place of death,P20,Gebze,Rome,h,<ENT0> died in <ENT1> .,Hannibal died in [MASK] .,Annibale Carracci died in [MASK] .
+Hannibal,Annibale Carracci,occupation,P106,politician,painter,h,<ENT0> is a <ENT1> by profession .,Hannibal is a [MASK] by profession .,Annibale Carracci is a [MASK] by profession .
+Hannibal,Annibale Carracci,country of citizenship,P27,Ancient Carthage,Papal States,h,<ENT0> is <ENT1> citizen .,Hannibal is [MASK] citizen .,Annibale Carracci is [MASK] citizen .
+Hannibal,Annibale Carracci,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Hannibal is a [MASK] .,Annibale Carracci is a [MASK] .
+John Grant,Graham Gaunt,occupation,P106,writer,Australian rules football player,h,<ENT0> is a <ENT1> by profession .,John Grant is a [MASK] by profession .,Graham Gaunt is a [MASK] by profession .
+John Grant,Graham Gaunt,country of citizenship,P27,United Kingdom,Australia,h,<ENT0> is <ENT1> citizen .,John Grant is [MASK] citizen .,Graham Gaunt is [MASK] citizen .
+John Grant,Graham Gaunt,"languages spoken, written or signed",P1412,English,English,h,<ENT0> translating pled spoken callback fluent <ENT1> .,John Grant translating pled spoken callback fluent [MASK] .,Graham Gaunt translating pled spoken callback fluent [MASK] .
+John Grant,Graham Gaunt,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,John Grant is a [MASK] .,Graham Gaunt is a [MASK] .
+Joseph Lane,Joe Lane,place of birth,P19,Buncombe County,Hereford,h,<ENT0> was born in <ENT1> .,Joseph Lane was born in [MASK] .,Joe Lane was born in [MASK] .
+Joseph Lane,Joe Lane,place of death,P20,Roseburg,Abbots Langley,h,<ENT0> died in <ENT1> .,Joseph Lane died in [MASK] .,Joe Lane died in [MASK] .
+Joseph Lane,Joe Lane,occupation,P106,politician,association football player,h,<ENT0> is a <ENT1> by profession .,Joseph Lane is a [MASK] by profession .,Joe Lane is a [MASK] by profession .
+Joseph Lane,Joe Lane,country of citizenship,P27,United States of America,United Kingdom,h,<ENT0> is <ENT1> citizen .,Joseph Lane is [MASK] citizen .,Joe Lane is [MASK] citizen .
+Joseph Lane,Joe Lane,"languages spoken, written or signed",P1412,English,English,h,<ENT0> translating pled spoken callback fluent <ENT1> .,Joseph Lane translating pled spoken callback fluent [MASK] .,Joe Lane translating pled spoken callback fluent [MASK] .
+Joseph Lane,Joe Lane,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Joseph Lane is a [MASK] .,Joe Lane is a [MASK] .
+Lotus Eaters,The Lotus Eaters,genre,P136,drone music,drama film,nh,<ENT0> plays <ENT1> music .,Lotus Eaters plays [MASK] music .,The Lotus Eaters plays [MASK] music .
+Lotus Eaters,The Lotus Eaters,instance of,P31,musical group,film,nh,<ENT0> is a <ENT1> .,Lotus Eaters is a [MASK] .,The Lotus Eaters is a [MASK] .
+Lotus Eaters,The Lotus Eaters,country of origin,P495,United States of America,Canada,nh,<ENT0> was created in <ENT1> .,Lotus Eaters was created in [MASK] .,The Lotus Eaters was created in [MASK] .
+The Anniversary,Anniversary,genre,P136,black comedy film,romance film,nh,<ENT0> plays <ENT1> music .,The Anniversary plays [MASK] music .,Anniversary plays [MASK] music .
+The Anniversary,Anniversary,instance of,P31,film,film,nh,<ENT0> is a <ENT1> .,The Anniversary is a [MASK] .,Anniversary is a [MASK] .
+The Anniversary,Anniversary,country of origin,P495,United Kingdom,Hong Kong,nh,<ENT0> was created in <ENT1> .,The Anniversary was created in [MASK] .,Anniversary was created in [MASK] .
+The Light of the Moon,Light of the Moon,genre,P136,independent film,folk rock,nh,<ENT0> plays <ENT1> music .,The Light of the Moon plays [MASK] music .,Light of the Moon plays [MASK] music .
+The Light of the Moon,Light of the Moon,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,The Light of the Moon is a [MASK] .,Light of the Moon is a [MASK] .
+In the Beginning,À l'origine,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,In the Beginning is a [MASK] .,À l'origine is a [MASK] .
+Trial & Error,Trial and Error,instance of,P31,television series,literary work,nh,<ENT0> is a <ENT1> .,Trial & Error is a [MASK] .,Trial and Error is a [MASK] .
+Trial & Error,Trial and Error,country of origin,P495,United States of America,United States of America,nh,<ENT0> was created in <ENT1> .,Trial & Error was created in [MASK] .,Trial and Error was created in [MASK] .
+John Woods Duke,John Duke,occupation,P106,composer,cricketer,h,<ENT0> is a <ENT1> by profession .,John Woods Duke is a [MASK] by profession .,John Duke is a [MASK] by profession .
+John Woods Duke,John Duke,country of citizenship,P27,United States of America,United Kingdom of Great Britain and Ireland,h,<ENT0> is <ENT1> citizen .,John Woods Duke is [MASK] citizen .,John Duke is [MASK] citizen .
+John Woods Duke,John Duke,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,John Woods Duke is a [MASK] .,John Duke is a [MASK] .
+Street Player,The Street Player,genre,P136,funk,drama film,nh,<ENT0> plays <ENT1> music .,Street Player plays [MASK] music .,The Street Player plays [MASK] music .
+Street Player,The Street Player,instance of,P31,album,film,nh,<ENT0> is a <ENT1> .,Street Player is a [MASK] .,The Street Player is a [MASK] .
+Look to the Sky,Jonah Who Lived in the Whale,genre,P136,alternative rock,drama film,nh,<ENT0> plays <ENT1> music .,Look to the Sky plays [MASK] music .,Jonah Who Lived in the Whale plays [MASK] music .
+Look to the Sky,Jonah Who Lived in the Whale,instance of,P31,album,film,nh,<ENT0> is a <ENT1> .,Look to the Sky is a [MASK] .,Jonah Who Lived in the Whale is a [MASK] .
+The Good Wife,A Good Wife,original language of film or TV show,P364,English,Serbian,nh,<ENT0> population language predomin smoker installer <ENT1> .,The Good Wife population language predomin smoker installer [MASK] .,A Good Wife population language predomin smoker installer [MASK] .
+The Good Wife,A Good Wife,genre,P136,political drama,drama film,nh,<ENT0> plays <ENT1> music .,The Good Wife plays [MASK] music .,A Good Wife plays [MASK] music .
+The Good Wife,A Good Wife,instance of,P31,television series,film,nh,<ENT0> is a <ENT1> .,The Good Wife is a [MASK] .,A Good Wife is a [MASK] .
+The Good Wife,A Good Wife,country of origin,P495,United States of America,Serbia,nh,<ENT0> was created in <ENT1> .,The Good Wife was created in [MASK] .,A Good Wife was created in [MASK] .
+Arzhang,Worthy,genre,P136,illustration,blues,nh,<ENT0> plays <ENT1> music .,Arzhang plays [MASK] music .,Worthy plays [MASK] music .
+Arzhang,Worthy,instance of,P31,written work,album,nh,<ENT0> is a <ENT1> .,Arzhang is a [MASK] .,Worthy is a [MASK] .
+Drushyam,Visual,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,Drushyam is a [MASK] .,Visual is a [MASK] .
+John Richards,John E. Richards,place of birth,P19,Warrington,San Jose,h,<ENT0> was born in <ENT1> .,John Richards was born in [MASK] .,John E. Richards was born in [MASK] .
+John Richards,John E. Richards,occupation,P106,association football player,lawyer,h,<ENT0> is a <ENT1> by profession .,John Richards is a [MASK] by profession .,John E. Richards is a [MASK] by profession .
+John Richards,John E. Richards,country of citizenship,P27,United Kingdom,United States of America,h,<ENT0> is <ENT1> citizen .,John Richards is [MASK] citizen .,John E. Richards is [MASK] citizen .
+John Richards,John E. Richards,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,John Richards is a [MASK] .,John E. Richards is a [MASK] .
+Youth,The Early Years,genre,P136,drama film,post-punk,nh,<ENT0> plays <ENT1> music .,Youth plays [MASK] music .,The Early Years plays [MASK] music .
+Youth,The Early Years,instance of,P31,film,extended play,nh,<ENT0> is a <ENT1> .,Youth is a [MASK] .,The Early Years is a [MASK] .
+Vincent,Starry Starry Night,genre,P136,rock music,fantasy film,nh,<ENT0> plays <ENT1> music .,Vincent plays [MASK] music .,Starry Starry Night plays [MASK] music .
+Vincent,Starry Starry Night,instance of,P31,single,film,nh,<ENT0> is a <ENT1> .,Vincent is a [MASK] .,Starry Starry Night is a [MASK] .
+Vincent,Starry Starry Night,country of origin,P495,United States of America,People's Republic of China,nh,<ENT0> was created in <ENT1> .,Vincent was created in [MASK] .,Starry Starry Night was created in [MASK] .
+John Buchan,"John Buchan, 2nd Baron Tweedsmuir",place of birth,P19,Perth,London,h,<ENT0> was born in <ENT1> .,John Buchan was born in [MASK] .,"John Buchan, 2nd Baron Tweedsmuir was born in [MASK] ."
+John Buchan,"John Buchan, 2nd Baron Tweedsmuir",educated at,P69,Brasenose College,Eton College,h,<ENT0> is educated at <ENT1> .,John Buchan is educated at [MASK] .,"John Buchan, 2nd Baron Tweedsmuir is educated at [MASK] ."
+John Buchan,"John Buchan, 2nd Baron Tweedsmuir",occupation,P106,journalist,politician,h,<ENT0> is a <ENT1> by profession .,John Buchan is a [MASK] by profession .,"John Buchan, 2nd Baron Tweedsmuir is a [MASK] by profession ."
+John Buchan,"John Buchan, 2nd Baron Tweedsmuir",country of citizenship,P27,United Kingdom,United Kingdom,h,<ENT0> is <ENT1> citizen .,John Buchan is [MASK] citizen .,"John Buchan, 2nd Baron Tweedsmuir is [MASK] citizen ."
+John Buchan,"John Buchan, 2nd Baron Tweedsmuir","languages spoken, written or signed",P1412,English,English,h,<ENT0> translating pled spoken callback fluent <ENT1> .,John Buchan translating pled spoken callback fluent [MASK] .,"John Buchan, 2nd Baron Tweedsmuir translating pled spoken callback fluent [MASK] ."
+John Buchan,"John Buchan, 2nd Baron Tweedsmuir",position held,P39,Governor General of Canada,Member of the House of Lords,h,<ENT0> has the position of <ENT1> .,John Buchan has the position of [MASK] .,"John Buchan, 2nd Baron Tweedsmuir has the position of [MASK] ."
+John Buchan,"John Buchan, 2nd Baron Tweedsmuir",instance of,P31,human,human,h,<ENT0> is a <ENT1> .,John Buchan is a [MASK] .,"John Buchan, 2nd Baron Tweedsmuir is a [MASK] ."
+Bitter Moon,Evil Angels,instance of,P31,film,literary work,nh,<ENT0> is a <ENT1> .,Bitter Moon is a [MASK] .,Evil Angels is a [MASK] .
+Bitter Moon,Evil Angels,country of origin,P495,France,France,nh,<ENT0> was created in <ENT1> .,Bitter Moon was created in [MASK] .,Evil Angels was created in [MASK] .
+Jamie Fullarton,James Fullarton,place of birth,P19,Bellshill,Isle of Arran,h,<ENT0> was born in <ENT1> .,Jamie Fullarton was born in [MASK] .,James Fullarton was born in [MASK] .
+Jamie Fullarton,James Fullarton,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Jamie Fullarton is a [MASK] .,James Fullarton is a [MASK] .
+Frank Jack Fletcher,Frank Fletcher,place of death,P20,Bethesda,St. Petersburg,h,<ENT0> died in <ENT1> .,Frank Jack Fletcher died in [MASK] .,Frank Fletcher died in [MASK] .
+Frank Jack Fletcher,Frank Fletcher,occupation,P106,military officer,baseball player,h,<ENT0> is a <ENT1> by profession .,Frank Jack Fletcher is a [MASK] by profession .,Frank Fletcher is a [MASK] by profession .
+Frank Jack Fletcher,Frank Fletcher,country of citizenship,P27,United States of America,United States of America,h,<ENT0> is <ENT1> citizen .,Frank Jack Fletcher is [MASK] citizen .,Frank Fletcher is [MASK] citizen .
+Frank Jack Fletcher,Frank Fletcher,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Frank Jack Fletcher is a [MASK] .,Frank Fletcher is a [MASK] .
+Impersonator,The Impersonator,instance of,P31,album,film,nh,<ENT0> is a <ENT1> .,Impersonator is a [MASK] .,The Impersonator is a [MASK] .
+William Merritt Chase,Charles Pittman,place of birth,P19,Nineveh,Rocky Mount,h,<ENT0> was born in <ENT1> .,William Merritt Chase was born in [MASK] .,Charles Pittman was born in [MASK] .
+William Merritt Chase,Charles Pittman,educated at,P69,"Academy of Fine Arts, Munich",Northern Nash High School,h,<ENT0> is educated at <ENT1> .,William Merritt Chase is educated at [MASK] .,Charles Pittman is educated at [MASK] .
+William Merritt Chase,Charles Pittman,occupation,P106,painter,basketball player,h,<ENT0> is a <ENT1> by profession .,William Merritt Chase is a [MASK] by profession .,Charles Pittman is a [MASK] by profession .
+William Merritt Chase,Charles Pittman,country of citizenship,P27,United States of America,United States of America,h,<ENT0> is <ENT1> citizen .,William Merritt Chase is [MASK] citizen .,Charles Pittman is [MASK] citizen .
+William Merritt Chase,Charles Pittman,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,William Merritt Chase is a [MASK] .,Charles Pittman is a [MASK] .
+Full Frontal with Samantha Bee,Full Frontal,genre,P136,comedy television series,comedy drama,nh,<ENT0> plays <ENT1> music .,Full Frontal with Samantha Bee plays [MASK] music .,Full Frontal plays [MASK] music .
+Full Frontal with Samantha Bee,Full Frontal,instance of,P31,television series,film,nh,<ENT0> is a <ENT1> .,Full Frontal with Samantha Bee is a [MASK] .,Full Frontal is a [MASK] .
+Full Frontal with Samantha Bee,Full Frontal,country of origin,P495,United States of America,United States of America,nh,<ENT0> was created in <ENT1> .,Full Frontal with Samantha Bee was created in [MASK] .,Full Frontal was created in [MASK] .
+Stronger than Death,Stronger Than Death,genre,P136,heavy metal,silent film,nh,<ENT0> plays <ENT1> music .,Stronger than Death plays [MASK] music .,Stronger Than Death plays [MASK] music .
+Stronger than Death,Stronger Than Death,instance of,P31,album,silent film,nh,<ENT0> is a <ENT1> .,Stronger than Death is a [MASK] .,Stronger Than Death is a [MASK] .
+Great House,The Great House,genre,P136,novel,drama film,nh,<ENT0> plays <ENT1> music .,Great House plays [MASK] music .,The Great House plays [MASK] music .
+Great House,The Great House,instance of,P31,literary work,film,nh,<ENT0> is a <ENT1> .,Great House is a [MASK] .,The Great House is a [MASK] .
+Great House,The Great House,country of origin,P495,United States of America,Spain,nh,<ENT0> was created in <ENT1> .,Great House was created in [MASK] .,The Great House was created in [MASK] .
+The Gore Gore Girls,Gore Gore Girls,genre,P136,horror film,garage rock,nh,<ENT0> plays <ENT1> music .,The Gore Gore Girls plays [MASK] music .,Gore Gore Girls plays [MASK] music .
+The Gore Gore Girls,Gore Gore Girls,instance of,P31,film,musical group,nh,<ENT0> is a <ENT1> .,The Gore Gore Girls is a [MASK] .,Gore Gore Girls is a [MASK] .
+The Gore Gore Girls,Gore Gore Girls,country of origin,P495,United States of America,United States of America,nh,<ENT0> was created in <ENT1> .,The Gore Gore Girls was created in [MASK] .,Gore Gore Girls was created in [MASK] .
+Der Preis fürs Überleben,The Price of Survival,original language of film or TV show,P364,German,Dutch,nh,<ENT0> population language predomin smoker installer <ENT1> .,Der Preis fürs Überleben population language predomin smoker installer [MASK] .,The Price of Survival population language predomin smoker installer [MASK] .
+Der Preis fürs Überleben,The Price of Survival,genre,P136,drama film,documentary film,nh,<ENT0> plays <ENT1> music .,Der Preis fürs Überleben plays [MASK] music .,The Price of Survival plays [MASK] music .
+Der Preis fürs Überleben,The Price of Survival,instance of,P31,film,film,nh,<ENT0> is a <ENT1> .,Der Preis fürs Überleben is a [MASK] .,The Price of Survival is a [MASK] .
+Der Preis fürs Überleben,The Price of Survival,country of origin,P495,Germany,Netherlands,nh,<ENT0> was created in <ENT1> .,Der Preis fürs Überleben was created in [MASK] .,The Price of Survival was created in [MASK] .
+Honkytonk Man,Honky Tonk Man,genre,P136,drama film,country rock,nh,<ENT0> plays <ENT1> music .,Honkytonk Man plays [MASK] music .,Honky Tonk Man plays [MASK] music .
+Honkytonk Man,Honky Tonk Man,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,Honkytonk Man is a [MASK] .,Honky Tonk Man is a [MASK] .
+The Whip Hand,Whip Hand,genre,P136,propaganda film,crime novel,nh,<ENT0> plays <ENT1> music .,The Whip Hand plays [MASK] music .,Whip Hand plays [MASK] music .
+The Whip Hand,Whip Hand,instance of,P31,film,written work,nh,<ENT0> is a <ENT1> .,The Whip Hand is a [MASK] .,Whip Hand is a [MASK] .
+The Whip Hand,Whip Hand,country of origin,P495,United States of America,United Kingdom,nh,<ENT0> was created in <ENT1> .,The Whip Hand was created in [MASK] .,Whip Hand was created in [MASK] .
+The Stuff,Stuff,genre,P136,comedy horror,country music,nh,<ENT0> plays <ENT1> music .,The Stuff plays [MASK] music .,Stuff plays [MASK] music .
+The Stuff,Stuff,instance of,P31,film,musical work/composition,nh,<ENT0> is a <ENT1> .,The Stuff is a [MASK] .,Stuff is a [MASK] .
+Laurence McKinley Gould,Larry Gould,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Laurence McKinley Gould is a [MASK] .,Larry Gould is a [MASK] .
+"James Prior, Baron Prior",Jim Prior,place of birth,P19,Norwich,Borrisoleigh,h,<ENT0> was born in <ENT1> .,"James Prior, Baron Prior was born in [MASK] .",Jim Prior was born in [MASK] .
+"James Prior, Baron Prior",Jim Prior,occupation,P106,politician,hurler,h,<ENT0> is a <ENT1> by profession .,"James Prior, Baron Prior is a [MASK] by profession .",Jim Prior is a [MASK] by profession .
+"James Prior, Baron Prior",Jim Prior,country of citizenship,P27,United Kingdom,Republic of Ireland,h,<ENT0> is <ENT1> citizen .,"James Prior, Baron Prior is [MASK] citizen .",Jim Prior is [MASK] citizen .
+"James Prior, Baron Prior",Jim Prior,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,"James Prior, Baron Prior is a [MASK] .",Jim Prior is a [MASK] .
+American Soldier,The American Soldier,genre,P136,traditional heavy metal,drama film,nh,<ENT0> plays <ENT1> music .,American Soldier plays [MASK] music .,The American Soldier plays [MASK] music .
+American Soldier,The American Soldier,instance of,P31,album,film,nh,<ENT0> is a <ENT1> .,American Soldier is a [MASK] .,The American Soldier is a [MASK] .
+Takeover,The Takeover,genre,P136,hip hop music,action film,nh,<ENT0> plays <ENT1> music .,Takeover plays [MASK] music .,The Takeover plays [MASK] music .
+Takeover,The Takeover,instance of,P31,musical work/composition,film,nh,<ENT0> is a <ENT1> .,Takeover is a [MASK] .,The Takeover is a [MASK] .
+Andrew Fletcher,Andy Fletcher,place of birth,P19,Nottingham,Lucinda,h,<ENT0> was born in <ENT1> .,Andrew Fletcher was born in [MASK] .,Andy Fletcher was born in [MASK] .
+Andrew Fletcher,Andy Fletcher,occupation,P106,bassist,American football player,h,<ENT0> is a <ENT1> by profession .,Andrew Fletcher is a [MASK] by profession .,Andy Fletcher is a [MASK] by profession .
+Andrew Fletcher,Andy Fletcher,country of citizenship,P27,United Kingdom,United States of America,h,<ENT0> is <ENT1> citizen .,Andrew Fletcher is [MASK] citizen .,Andy Fletcher is [MASK] citizen .
+Andrew Fletcher,Andy Fletcher,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Andrew Fletcher is a [MASK] .,Andy Fletcher is a [MASK] .
+Phil Watson,Philip Watson,place of birth,P19,Montreal,Belfast,h,<ENT0> was born in <ENT1> .,Phil Watson was born in [MASK] .,Philip Watson was born in [MASK] .
+Phil Watson,Philip Watson,award received,P166,Stanley Cup,Knight Commander of the Order of the British Empire,h,<ENT0> was awarded <ENT1> .,Phil Watson was awarded [MASK] .,Philip Watson was awarded [MASK] .
+Phil Watson,Philip Watson,occupation,P106,ice hockey player,naval officer,h,<ENT0> is a <ENT1> by profession .,Phil Watson is a [MASK] by profession .,Philip Watson is a [MASK] by profession .
+Phil Watson,Philip Watson,country of citizenship,P27,Canada,United Kingdom,h,<ENT0> is <ENT1> citizen .,Phil Watson is [MASK] citizen .,Philip Watson is [MASK] citizen .
+Phil Watson,Philip Watson,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Phil Watson is a [MASK] .,Philip Watson is a [MASK] .
+The Lacemaker,La Dentellière,genre,P136,drama film,novel,nh,<ENT0> plays <ENT1> music .,The Lacemaker plays [MASK] music .,La Dentellière plays [MASK] music .
+The Lacemaker,La Dentellière,instance of,P31,film,written work,nh,<ENT0> is a <ENT1> .,The Lacemaker is a [MASK] .,La Dentellière is a [MASK] .
+The Lacemaker,La Dentellière,country of origin,P495,France,France,nh,<ENT0> was created in <ENT1> .,The Lacemaker was created in [MASK] .,La Dentellière was created in [MASK] .
+Wallace Clark,Wally Clark,occupation,P106,military personnel,association football player,h,<ENT0> is a <ENT1> by profession .,Wallace Clark is a [MASK] by profession .,Wally Clark is a [MASK] by profession .
+Wallace Clark,Wally Clark,country of citizenship,P27,United Kingdom,United Kingdom,h,<ENT0> is <ENT1> citizen .,Wallace Clark is [MASK] citizen .,Wally Clark is [MASK] citizen .
+Wallace Clark,Wally Clark,"languages spoken, written or signed",P1412,English,English,h,<ENT0> translating pled spoken callback fluent <ENT1> .,Wallace Clark translating pled spoken callback fluent [MASK] .,Wally Clark translating pled spoken callback fluent [MASK] .
+Wallace Clark,Wally Clark,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Wallace Clark is a [MASK] .,Wally Clark is a [MASK] .
+Joginder Singh Sahnan,Joginder Singh,place of birth,P19,Moga,Kericho,h,<ENT0> was born in <ENT1> .,Joginder Singh Sahnan was born in [MASK] .,Joginder Singh was born in [MASK] .
+Joginder Singh Sahnan,Joginder Singh,place of death,P20,Bum La Pass,London,h,<ENT0> died in <ENT1> .,Joginder Singh Sahnan died in [MASK] .,Joginder Singh died in [MASK] .
+Joginder Singh Sahnan,Joginder Singh,occupation,P106,military personnel,rally driver,h,<ENT0> is a <ENT1> by profession .,Joginder Singh Sahnan is a [MASK] by profession .,Joginder Singh is a [MASK] by profession .
+Joginder Singh Sahnan,Joginder Singh,country of citizenship,P27,India,Kenya,h,<ENT0> is <ENT1> citizen .,Joginder Singh Sahnan is [MASK] citizen .,Joginder Singh is [MASK] citizen .
+Joginder Singh Sahnan,Joginder Singh,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Joginder Singh Sahnan is a [MASK] .,Joginder Singh is a [MASK] .
+The Red Siren,La Sirène rouge,genre,P136,thriller film,crime novel,nh,<ENT0> plays <ENT1> music .,The Red Siren plays [MASK] music .,La Sirène rouge plays [MASK] music .
+The Red Siren,La Sirène rouge,instance of,P31,film,written work,nh,<ENT0> is a <ENT1> .,The Red Siren is a [MASK] .,La Sirène rouge is a [MASK] .
+The Red Siren,La Sirène rouge,country of origin,P495,France,France,nh,<ENT0> was created in <ENT1> .,The Red Siren was created in [MASK] .,La Sirène rouge was created in [MASK] .
+John Pemberton,John Leigh-Pemberton,place of birth,P19,Mitchell,London,h,<ENT0> was born in <ENT1> .,John Pemberton was born in [MASK] .,John Leigh-Pemberton was born in [MASK] .
+John Pemberton,John Leigh-Pemberton,educated at,P69,Wesleyan College,Eton College,h,<ENT0> is educated at <ENT1> .,John Pemberton is educated at [MASK] .,John Leigh-Pemberton is educated at [MASK] .
+John Pemberton,John Leigh-Pemberton,occupation,P106,inventor,painter,h,<ENT0> is a <ENT1> by profession .,John Pemberton is a [MASK] by profession .,John Leigh-Pemberton is a [MASK] by profession .
+John Pemberton,John Leigh-Pemberton,country of citizenship,P27,United States of America,United Kingdom,h,<ENT0> is <ENT1> citizen .,John Pemberton is [MASK] citizen .,John Leigh-Pemberton is [MASK] citizen .
+John Pemberton,John Leigh-Pemberton,"languages spoken, written or signed",P1412,English,English,h,<ENT0> translating pled spoken callback fluent <ENT1> .,John Pemberton translating pled spoken callback fluent [MASK] .,John Leigh-Pemberton translating pled spoken callback fluent [MASK] .
+John Pemberton,John Leigh-Pemberton,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,John Pemberton is a [MASK] .,John Leigh-Pemberton is a [MASK] .
+The Jewel of the Nile,Jewel of the Nile,genre,P136,romantic comedy,hip hop music,nh,<ENT0> plays <ENT1> music .,The Jewel of the Nile plays [MASK] music .,Jewel of the Nile plays [MASK] music .
+The Jewel of the Nile,Jewel of the Nile,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,The Jewel of the Nile is a [MASK] .,Jewel of the Nile is a [MASK] .
+Michael J. Williams,Mike Williams,place of birth,P19,Baltimore,Mount Kisco,h,<ENT0> was born in <ENT1> .,Michael J. Williams was born in [MASK] .,Mike Williams was born in [MASK] .
+Michael J. Williams,Mike Williams,educated at,P69,United States Naval Academy,John Jay High School,h,<ENT0> is educated at <ENT1> .,Michael J. Williams is educated at [MASK] .,Mike Williams is educated at [MASK] .
+Michael J. Williams,Mike Williams,occupation,P106,military officer,American football player,h,<ENT0> is a <ENT1> by profession .,Michael J. Williams is a [MASK] by profession .,Mike Williams is a [MASK] by profession .
+Michael J. Williams,Mike Williams,country of citizenship,P27,United States of America,United States of America,h,<ENT0> is <ENT1> citizen .,Michael J. Williams is [MASK] citizen .,Mike Williams is [MASK] citizen .
+Michael J. Williams,Mike Williams,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Michael J. Williams is a [MASK] .,Mike Williams is a [MASK] .
+The Mend,Mend,genre,P136,comedy drama,rock music,nh,<ENT0> plays <ENT1> music .,The Mend plays [MASK] music .,Mend plays [MASK] music .
+The Mend,Mend,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,The Mend is a [MASK] .,Mend is a [MASK] .
+Jackie Fox,Jacqueline Fuchs,place of birth,P19,Los Angeles,Zürich,h,<ENT0> was born in <ENT1> .,Jackie Fox was born in [MASK] .,Jacqueline Fuchs was born in [MASK] .
+Jackie Fox,Jacqueline Fuchs,occupation,P106,lawyer,bodybuilder,h,<ENT0> is a <ENT1> by profession .,Jackie Fox is a [MASK] by profession .,Jacqueline Fuchs is a [MASK] by profession .
+Jackie Fox,Jacqueline Fuchs,country of citizenship,P27,United States of America,Switzerland,h,<ENT0> is <ENT1> citizen .,Jackie Fox is [MASK] citizen .,Jacqueline Fuchs is [MASK] citizen .
+Jackie Fox,Jacqueline Fuchs,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Jackie Fox is a [MASK] .,Jacqueline Fuchs is a [MASK] .
+Yellow Claw,The Yellow Claw,genre,P136,trap music,crime film,nh,<ENT0> plays <ENT1> music .,Yellow Claw plays [MASK] music .,The Yellow Claw plays [MASK] music .
+Yellow Claw,The Yellow Claw,instance of,P31,musical group,film,nh,<ENT0> is a <ENT1> .,Yellow Claw is a [MASK] .,The Yellow Claw is a [MASK] .
+Yellow Claw,The Yellow Claw,country of origin,P495,Netherlands,United Kingdom,nh,<ENT0> was created in <ENT1> .,Yellow Claw was created in [MASK] .,The Yellow Claw was created in [MASK] .
+Sons and Daughters in a Time of Storm,Children of the Storm,instance of,P31,film,literary work,nh,<ENT0> is a <ENT1> .,Sons and Daughters in a Time of Storm is a [MASK] .,Children of the Storm is a [MASK] .
+Sons and Daughters in a Time of Storm,Children of the Storm,country of origin,P495,Republic of China,United States of America,nh,<ENT0> was created in <ENT1> .,Sons and Daughters in a Time of Storm was created in [MASK] .,Children of the Storm was created in [MASK] .
+The Negotiator,Negotiator,instance of,P31,film,television series,nh,<ENT0> is a <ENT1> .,The Negotiator is a [MASK] .,Negotiator is a [MASK] .
+The Negotiator,Negotiator,country of origin,P495,United States of America,People's Republic of China,nh,<ENT0> was created in <ENT1> .,The Negotiator was created in [MASK] .,Negotiator was created in [MASK] .
+Raise the Titanic,Raise the Titanic!,genre,P136,action film,adventure novel,nh,<ENT0> plays <ENT1> music .,Raise the Titanic plays [MASK] music .,Raise the Titanic! plays [MASK] music .
+Raise the Titanic,Raise the Titanic!,instance of,P31,film,literary work,nh,<ENT0> is a <ENT1> .,Raise the Titanic is a [MASK] .,Raise the Titanic! is a [MASK] .
+Raise the Titanic,Raise the Titanic!,country of origin,P495,United Kingdom,United States of America,nh,<ENT0> was created in <ENT1> .,Raise the Titanic was created in [MASK] .,Raise the Titanic! was created in [MASK] .
+Mating Call,The Mating Call,genre,P136,jazz,romance film,nh,<ENT0> plays <ENT1> music .,Mating Call plays [MASK] music .,The Mating Call plays [MASK] music .
+Mating Call,The Mating Call,instance of,P31,album,film,nh,<ENT0> is a <ENT1> .,Mating Call is a [MASK] .,The Mating Call is a [MASK] .
+Blood & Chocolate,Blood and Chocolate,genre,P136,alternative rock,romantic fiction,nh,<ENT0> plays <ENT1> music .,Blood & Chocolate plays [MASK] music .,Blood and Chocolate plays [MASK] music .
+Blood & Chocolate,Blood and Chocolate,instance of,P31,album,literary work,nh,<ENT0> is a <ENT1> .,Blood & Chocolate is a [MASK] .,Blood and Chocolate is a [MASK] .
+Secret Code,The Secret Code,genre,P136,J-pop,silent film,nh,<ENT0> plays <ENT1> music .,Secret Code plays [MASK] music .,The Secret Code plays [MASK] music .
+Secret Code,The Secret Code,instance of,P31,album,film,nh,<ENT0> is a <ENT1> .,Secret Code is a [MASK] .,The Secret Code is a [MASK] .
+The Green Mare,La Jument verte,genre,P136,comedy film,novel,nh,<ENT0> plays <ENT1> music .,The Green Mare plays [MASK] music .,La Jument verte plays [MASK] music .
+The Green Mare,La Jument verte,instance of,P31,film,written work,nh,<ENT0> is a <ENT1> .,The Green Mare is a [MASK] .,La Jument verte is a [MASK] .
+The Green Mare,La Jument verte,country of origin,P495,France,France,nh,<ENT0> was created in <ENT1> .,The Green Mare was created in [MASK] .,La Jument verte was created in [MASK] .
+Zathura: A Space Adventure,Zathura,genre,P136,science fiction film,fantasy,nh,<ENT0> plays <ENT1> music .,Zathura: A Space Adventure plays [MASK] music .,Zathura plays [MASK] music .
+Zathura: A Space Adventure,Zathura,instance of,P31,film,literary work,nh,<ENT0> is a <ENT1> .,Zathura: A Space Adventure is a [MASK] .,Zathura is a [MASK] .
+Zathura: A Space Adventure,Zathura,country of origin,P495,United States of America,United States of America,nh,<ENT0> was created in <ENT1> .,Zathura: A Space Adventure was created in [MASK] .,Zathura was created in [MASK] .
+Submission,Scandalo,genre,P136,erotic film,rock music,nh,<ENT0> plays <ENT1> music .,Submission plays [MASK] music .,Scandalo plays [MASK] music .
+Submission,Scandalo,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,Submission is a [MASK] .,Scandalo is a [MASK] .
+"Where'd You Go, Bernadette",Where'd You Go Bernadette,genre,P136,comedy drama,epistolary novel,nh,<ENT0> plays <ENT1> music .,"Where'd You Go, Bernadette plays [MASK] music .",Where'd You Go Bernadette plays [MASK] music .
+"Where'd You Go, Bernadette",Where'd You Go Bernadette,instance of,P31,film,literary work,nh,<ENT0> is a <ENT1> .,"Where'd You Go, Bernadette is a [MASK] .",Where'd You Go Bernadette is a [MASK] .
+"Where'd You Go, Bernadette",Where'd You Go Bernadette,country of origin,P495,United States of America,United States of America,nh,<ENT0> was created in <ENT1> .,"Where'd You Go, Bernadette was created in [MASK] .",Where'd You Go Bernadette was created in [MASK] .
+Rebel Yell,Colonel Effingham's Raid,genre,P136,new wave,comedy film,nh,<ENT0> plays <ENT1> music .,Rebel Yell plays [MASK] music .,Colonel Effingham's Raid plays [MASK] music .
+Rebel Yell,Colonel Effingham's Raid,instance of,P31,album,film,nh,<ENT0> is a <ENT1> .,Rebel Yell is a [MASK] .,Colonel Effingham's Raid is a [MASK] .
+The Lost People,Lost People,genre,P136,drama film,nonfiction,nh,<ENT0> plays <ENT1> music .,The Lost People plays [MASK] music .,Lost People plays [MASK] music .
+The Lost People,Lost People,instance of,P31,film,written work,nh,<ENT0> is a <ENT1> .,The Lost People is a [MASK] .,Lost People is a [MASK] .
+The Lost People,Lost People,country of origin,P495,United Kingdom,United States of America,nh,<ENT0> was created in <ENT1> .,The Lost People was created in [MASK] .,Lost People was created in [MASK] .
+Robbie Dennison,Robert Dennison,place of birth,P19,Banbridge,Warren,h,<ENT0> was born in <ENT1> .,Robbie Dennison was born in [MASK] .,Robert Dennison was born in [MASK] .
+Robbie Dennison,Robert Dennison,occupation,P106,association football player,military officer,h,<ENT0> is a <ENT1> by profession .,Robbie Dennison is a [MASK] by profession .,Robert Dennison is a [MASK] by profession .
+Robbie Dennison,Robert Dennison,country of citizenship,P27,United Kingdom,United States of America,h,<ENT0> is <ENT1> citizen .,Robbie Dennison is [MASK] citizen .,Robert Dennison is [MASK] citizen .
+Robbie Dennison,Robert Dennison,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Robbie Dennison is a [MASK] .,Robert Dennison is a [MASK] .
+John William Waterhouse,John Waterhouse,member of,P463,Royal Academy of Arts,Royal Society,h,<ENT0> is a member of <ENT1> .,John William Waterhouse is a member of [MASK] .,John Waterhouse is a member of [MASK] .
+John William Waterhouse,John Waterhouse,occupation,P106,painter,astronomer,h,<ENT0> is a <ENT1> by profession .,John William Waterhouse is a [MASK] by profession .,John Waterhouse is a [MASK] by profession .
+John William Waterhouse,John Waterhouse,country of citizenship,P27,Kingdom of Italy,United Kingdom of Great Britain and Ireland,h,<ENT0> is <ENT1> citizen .,John William Waterhouse is [MASK] citizen .,John Waterhouse is [MASK] citizen .
+John William Waterhouse,John Waterhouse,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,John William Waterhouse is a [MASK] .,John Waterhouse is a [MASK] .
+Epistle to the Romans,Romans,genre,P136,carta,documentary film,nh,<ENT0> plays <ENT1> music .,Epistle to the Romans plays [MASK] music .,Romans plays [MASK] music .
+Epistle to the Romans,Romans,instance of,P31,literary work,television series,nh,<ENT0> is a <ENT1> .,Epistle to the Romans is a [MASK] .,Romans is a [MASK] .
+Captain Phillips,A Captain's Duty,genre,P136,action film,nonfiction,nh,<ENT0> plays <ENT1> music .,Captain Phillips plays [MASK] music .,A Captain's Duty plays [MASK] music .
+Captain Phillips,A Captain's Duty,instance of,P31,film,written work,nh,<ENT0> is a <ENT1> .,Captain Phillips is a [MASK] .,A Captain's Duty is a [MASK] .
+Captain Phillips,A Captain's Duty,country of origin,P495,United States of America,United States of America,nh,<ENT0> was created in <ENT1> .,Captain Phillips was created in [MASK] .,A Captain's Duty was created in [MASK] .
+Donnie Darko,Donnie Darko – Music From The Original Motion Picture Score,genre,P136,comedy drama,ambient music,nh,<ENT0> plays <ENT1> music .,Donnie Darko plays [MASK] music .,Donnie Darko – Music From The Original Motion Picture Score plays [MASK] music .
+Donnie Darko,Donnie Darko – Music From The Original Motion Picture Score,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,Donnie Darko is a [MASK] .,Donnie Darko – Music From The Original Motion Picture Score is a [MASK] .
+Bobby Olejnik,Robert Olejnik,place of birth,P19,Vienna,Essen,h,<ENT0> was born in <ENT1> .,Bobby Olejnik was born in [MASK] .,Robert Olejnik was born in [MASK] .
+Bobby Olejnik,Robert Olejnik,occupation,P106,association football player,test pilot,h,<ENT0> is a <ENT1> by profession .,Bobby Olejnik is a [MASK] by profession .,Robert Olejnik is a [MASK] by profession .
+Bobby Olejnik,Robert Olejnik,country of citizenship,P27,Austria,Germany,h,<ENT0> is <ENT1> citizen .,Bobby Olejnik is [MASK] citizen .,Robert Olejnik is [MASK] citizen .
+Bobby Olejnik,Robert Olejnik,"languages spoken, written or signed",P1412,German,German,h,<ENT0> translating pled spoken callback fluent <ENT1> .,Bobby Olejnik translating pled spoken callback fluent [MASK] .,Robert Olejnik translating pled spoken callback fluent [MASK] .
+Bobby Olejnik,Robert Olejnik,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Bobby Olejnik is a [MASK] .,Robert Olejnik is a [MASK] .
+Death and the Maiden,Der Tod und das Mädchen,genre,P136,rape and revenge film,Romantic music,nh,<ENT0> plays <ENT1> music .,Death and the Maiden plays [MASK] music .,Der Tod und das Mädchen plays [MASK] music .
+Death and the Maiden,Der Tod und das Mädchen,instance of,P31,film,musical work/composition,nh,<ENT0> is a <ENT1> .,Death and the Maiden is a [MASK] .,Der Tod und das Mädchen is a [MASK] .
+"Am Tag, als der Regen kam",The Day the Rains Came,genre,P136,pop music,crime film,nh,<ENT0> plays <ENT1> music .,"Am Tag, als der Regen kam plays [MASK] music .",The Day the Rains Came plays [MASK] music .
+"Am Tag, als der Regen kam",The Day the Rains Came,instance of,P31,musical work/composition,film,nh,<ENT0> is a <ENT1> .,"Am Tag, als der Regen kam is a [MASK] .",The Day the Rains Came is a [MASK] .
+Three Hearts,The Three Hearts,genre,P136,rock music,slice of life,nh,<ENT0> plays <ENT1> music .,Three Hearts plays [MASK] music .,The Three Hearts plays [MASK] music .
+Three Hearts,The Three Hearts,instance of,P31,album,film,nh,<ENT0> is a <ENT1> .,Three Hearts is a [MASK] .,The Three Hearts is a [MASK] .
+Pete Sears,Peter Sears,place of birth,P19,Bromley,Lake Placid,h,<ENT0> was born in <ENT1> .,Pete Sears was born in [MASK] .,Peter Sears was born in [MASK] .
+Pete Sears,Peter Sears,occupation,P106,musician,ice hockey player,h,<ENT0> is a <ENT1> by profession .,Pete Sears is a [MASK] by profession .,Peter Sears is a [MASK] by profession .
+Pete Sears,Peter Sears,country of citizenship,P27,United Kingdom,United States of America,h,<ENT0> is <ENT1> citizen .,Pete Sears is [MASK] citizen .,Peter Sears is [MASK] citizen .
+Pete Sears,Peter Sears,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Pete Sears is a [MASK] .,Peter Sears is a [MASK] .
+Franklin Delano Roosevelt,Roosevelt,place of birth,P19,Hyde Park,Viersen,h,<ENT0> was born in <ENT1> .,Franklin Delano Roosevelt was born in [MASK] .,Roosevelt was born in [MASK] .
+Franklin Delano Roosevelt,Roosevelt,occupation,P106,lawyer,singer,h,<ENT0> is a <ENT1> by profession .,Franklin Delano Roosevelt is a [MASK] by profession .,Roosevelt is a [MASK] by profession .
+Franklin Delano Roosevelt,Roosevelt,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Franklin Delano Roosevelt is a [MASK] .,Roosevelt is a [MASK] .
+Who Am I – No System is Safe,Who Am I,genre,P136,thriller film,Australian hip hop,nh,<ENT0> plays <ENT1> music .,Who Am I – No System is Safe plays [MASK] music .,Who Am I plays [MASK] music .
+Who Am I – No System is Safe,Who Am I,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,Who Am I – No System is Safe is a [MASK] .,Who Am I is a [MASK] .
+Invisible Strangler,The Astral Factor,genre,P136,science fiction film,symphonic rock,nh,<ENT0> plays <ENT1> music .,Invisible Strangler plays [MASK] music .,The Astral Factor plays [MASK] music .
+Invisible Strangler,The Astral Factor,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,Invisible Strangler is a [MASK] .,The Astral Factor is a [MASK] .
+Yan Karlovich Berzin,Jan Antonovich Berzin,place of birth,P19,Jaunpils,Vējava Parish,h,<ENT0> was born in <ENT1> .,Yan Karlovich Berzin was born in [MASK] .,Jan Antonovich Berzin was born in [MASK] .
+Yan Karlovich Berzin,Jan Antonovich Berzin,place of death,P20,Kommunarka,Kommunarka shooting ground,h,<ENT0> died in <ENT1> .,Yan Karlovich Berzin died in [MASK] .,Jan Antonovich Berzin died in [MASK] .
+Yan Karlovich Berzin,Jan Antonovich Berzin,occupation,P106,politician,diplomat,h,<ENT0> is a <ENT1> by profession .,Yan Karlovich Berzin is a [MASK] by profession .,Jan Antonovich Berzin is a [MASK] by profession .
+Yan Karlovich Berzin,Jan Antonovich Berzin,member of political party,P102,Communist Party of the Soviet Union,Communist Party of the Soviet Union,h,<ENT0> is member of political party <ENT1> .,Yan Karlovich Berzin is member of political party [MASK] .,Jan Antonovich Berzin is member of political party [MASK] .
+Yan Karlovich Berzin,Jan Antonovich Berzin,country of citizenship,P27,Latvia,Soviet Union,h,<ENT0> is <ENT1> citizen .,Yan Karlovich Berzin is [MASK] citizen .,Jan Antonovich Berzin is [MASK] citizen .
+Yan Karlovich Berzin,Jan Antonovich Berzin,"languages spoken, written or signed",P1412,Latvian,Russian,h,<ENT0> translating pled spoken callback fluent <ENT1> .,Yan Karlovich Berzin translating pled spoken callback fluent [MASK] .,Jan Antonovich Berzin translating pled spoken callback fluent [MASK] .
+Yan Karlovich Berzin,Jan Antonovich Berzin,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Yan Karlovich Berzin is a [MASK] .,Jan Antonovich Berzin is a [MASK] .
+The Rev,Jimmy Sullivan,place of birth,P19,Huntington Beach,Maryborough,h,<ENT0> was born in <ENT1> .,The Rev was born in [MASK] .,Jimmy Sullivan was born in [MASK] .
+The Rev,Jimmy Sullivan,place of death,P20,Huntington Beach,Brunswick West,h,<ENT0> died in <ENT1> .,The Rev died in [MASK] .,Jimmy Sullivan died in [MASK] .
+The Rev,Jimmy Sullivan,occupation,P106,musician,Australian rules football player,h,<ENT0> is a <ENT1> by profession .,The Rev is a [MASK] by profession .,Jimmy Sullivan is a [MASK] by profession .
+The Rev,Jimmy Sullivan,country of citizenship,P27,United States of America,Australia,h,<ENT0> is <ENT1> citizen .,The Rev is [MASK] citizen .,Jimmy Sullivan is [MASK] citizen .
+The Rev,Jimmy Sullivan,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,The Rev is a [MASK] .,Jimmy Sullivan is a [MASK] .
+Trombone Shorty,Troy Andrews,place of birth,P19,New Orleans,Broken Hill,h,<ENT0> was born in <ENT1> .,Trombone Shorty was born in [MASK] .,Troy Andrews was born in [MASK] .
+Trombone Shorty,Troy Andrews,award received,P166,Blues Music Award,Australian Sports Medal,h,<ENT0> was awarded <ENT1> .,Trombone Shorty was awarded [MASK] .,Troy Andrews was awarded [MASK] .
+Trombone Shorty,Troy Andrews,occupation,P106,trumpeter,basketball player,h,<ENT0> is a <ENT1> by profession .,Trombone Shorty is a [MASK] by profession .,Troy Andrews is a [MASK] by profession .
+Trombone Shorty,Troy Andrews,country of citizenship,P27,United States of America,Australia,h,<ENT0> is <ENT1> citizen .,Trombone Shorty is [MASK] citizen .,Troy Andrews is [MASK] citizen .
+Trombone Shorty,Troy Andrews,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Trombone Shorty is a [MASK] .,Troy Andrews is a [MASK] .
+Gunther,Walter,occupation,P106,professional wrestler,Catholic priest,h,<ENT0> is a <ENT1> by profession .,Gunther is a [MASK] by profession .,Walter is a [MASK] by profession .
+Gunther,Walter,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Gunther is a [MASK] .,Walter is a [MASK] .
+"Leon ""Pee Wee"" Whittaker",Leon Whittaker,place of birth,P19,Newellton,Cayman Islands,h,<ENT0> was born in <ENT1> .,"Leon ""Pee Wee"" Whittaker was born in [MASK] .",Leon Whittaker was born in [MASK] .
+"Leon ""Pee Wee"" Whittaker",Leon Whittaker,occupation,P106,jazz musician,association football player,h,<ENT0> is a <ENT1> by profession .,"Leon ""Pee Wee"" Whittaker is a [MASK] by profession .",Leon Whittaker is a [MASK] by profession .
+"Leon ""Pee Wee"" Whittaker",Leon Whittaker,country of citizenship,P27,United States of America,United Kingdom,h,<ENT0> is <ENT1> citizen .,"Leon ""Pee Wee"" Whittaker is [MASK] citizen .",Leon Whittaker is [MASK] citizen .
+"Leon ""Pee Wee"" Whittaker",Leon Whittaker,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,"Leon ""Pee Wee"" Whittaker is a [MASK] .",Leon Whittaker is a [MASK] .
+The Night Falls,Night Falls,genre,P136,crime thriller,hip hop music,nh,<ENT0> plays <ENT1> music .,The Night Falls plays [MASK] music .,Night Falls plays [MASK] music .
+The Night Falls,Night Falls,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,The Night Falls is a [MASK] .,Night Falls is a [MASK] .
+George Decker,Georg Decker,place of birth,P19,Catskill,Pest,h,<ENT0> was born in <ENT1> .,George Decker was born in [MASK] .,Georg Decker was born in [MASK] .
+George Decker,Georg Decker,place of death,P20,"Washington, D.C.",Vienna,h,<ENT0> died in <ENT1> .,George Decker died in [MASK] .,Georg Decker died in [MASK] .
+George Decker,Georg Decker,award received,P166,Bronze Star Medal,Knight's Cross,h,<ENT0> was awarded <ENT1> .,George Decker was awarded [MASK] .,Georg Decker was awarded [MASK] .
+George Decker,Georg Decker,educated at,P69,Lafayette College,Academy of Fine Arts Vienna,h,<ENT0> is educated at <ENT1> .,George Decker is educated at [MASK] .,Georg Decker is educated at [MASK] .
+George Decker,Georg Decker,occupation,P106,military personnel,painter,h,<ENT0> is a <ENT1> by profession .,George Decker is a [MASK] by profession .,Georg Decker is a [MASK] by profession .
+George Decker,Georg Decker,country of citizenship,P27,United States of America,Austria,h,<ENT0> is <ENT1> citizen .,George Decker is [MASK] citizen .,Georg Decker is [MASK] citizen .
+George Decker,Georg Decker,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,George Decker is a [MASK] .,Georg Decker is a [MASK] .
+What's Good for the Goose,Girl Trouble,genre,P136,comedy film,indie rock,nh,<ENT0> plays <ENT1> music .,What's Good for the Goose plays [MASK] music .,Girl Trouble plays [MASK] music .
+What's Good for the Goose,Girl Trouble,instance of,P31,film,musical group,nh,<ENT0> is a <ENT1> .,What's Good for the Goose is a [MASK] .,Girl Trouble is a [MASK] .
+What's Good for the Goose,Girl Trouble,country of origin,P495,United Kingdom,United States of America,nh,<ENT0> was created in <ENT1> .,What's Good for the Goose was created in [MASK] .,Girl Trouble was created in [MASK] .
+The Contender,Contender,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,The Contender is a [MASK] .,Contender is a [MASK] .
+I Heart Huckabees,I Heart Huckabees – Original Motion Picture Soundtrack,genre,P136,drama film,stage and screen,nh,<ENT0> plays <ENT1> music .,I Heart Huckabees plays [MASK] music .,I Heart Huckabees – Original Motion Picture Soundtrack plays [MASK] music .
+I Heart Huckabees,I Heart Huckabees – Original Motion Picture Soundtrack,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,I Heart Huckabees is a [MASK] .,I Heart Huckabees – Original Motion Picture Soundtrack is a [MASK] .
+The Secret Heart,Secret Heart,instance of,P31,film,literary work,nh,<ENT0> is a <ENT1> .,The Secret Heart is a [MASK] .,Secret Heart is a [MASK] .
+The Secret Heart,Secret Heart,country of origin,P495,United States of America,England,nh,<ENT0> was created in <ENT1> .,The Secret Heart was created in [MASK] .,Secret Heart was created in [MASK] .
+Georges Ernest Boulanger,Georges Boulanger,place of birth,P19,Rennes,Tulcea,h,<ENT0> was born in <ENT1> .,Georges Ernest Boulanger was born in [MASK] .,Georges Boulanger was born in [MASK] .
+Georges Ernest Boulanger,Georges Boulanger,place of death,P20,Ixelles - Elsene,Buenos Aires,h,<ENT0> died in <ENT1> .,Georges Ernest Boulanger died in [MASK] .,Georges Boulanger died in [MASK] .
+Georges Ernest Boulanger,Georges Boulanger,occupation,P106,politician,conductor,h,<ENT0> is a <ENT1> by profession .,Georges Ernest Boulanger is a [MASK] by profession .,Georges Boulanger is a [MASK] by profession .
+Georges Ernest Boulanger,Georges Boulanger,country of citizenship,P27,France,Romania,h,<ENT0> is <ENT1> citizen .,Georges Ernest Boulanger is [MASK] citizen .,Georges Boulanger is [MASK] citizen .
+Georges Ernest Boulanger,Georges Boulanger,"languages spoken, written or signed",P1412,French,Romanian,h,<ENT0> translating pled spoken callback fluent <ENT1> .,Georges Ernest Boulanger translating pled spoken callback fluent [MASK] .,Georges Boulanger translating pled spoken callback fluent [MASK] .
+Georges Ernest Boulanger,Georges Boulanger,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Georges Ernest Boulanger is a [MASK] .,Georges Boulanger is a [MASK] .
+Karen Carpenter,Karen Klinger,educated at,P69,Downey High School,Smith College,h,<ENT0> is educated at <ENT1> .,Karen Carpenter is educated at [MASK] .,Karen Klinger is educated at [MASK] .
+Karen Carpenter,Karen Klinger,occupation,P106,singer,rower,h,<ENT0> is a <ENT1> by profession .,Karen Carpenter is a [MASK] by profession .,Karen Klinger is a [MASK] by profession .
+Karen Carpenter,Karen Klinger,country of citizenship,P27,United States of America,United States of America,h,<ENT0> is <ENT1> citizen .,Karen Carpenter is [MASK] citizen .,Karen Klinger is [MASK] citizen .
+Karen Carpenter,Karen Klinger,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Karen Carpenter is a [MASK] .,Karen Klinger is a [MASK] .
+Bill Dixon,William Dixon,place of birth,P19,Nantucket,Sydney,h,<ENT0> was born in <ENT1> .,Bill Dixon was born in [MASK] .,William Dixon was born in [MASK] .
+Bill Dixon,William Dixon,occupation,P106,composer,rower,h,<ENT0> is a <ENT1> by profession .,Bill Dixon is a [MASK] by profession .,William Dixon is a [MASK] by profession .
+Bill Dixon,William Dixon,country of citizenship,P27,United States of America,Australia,h,<ENT0> is <ENT1> citizen .,Bill Dixon is [MASK] citizen .,William Dixon is [MASK] citizen .
+Bill Dixon,William Dixon,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Bill Dixon is a [MASK] .,William Dixon is a [MASK] .
+Mínus,Minus,instance of,P31,musical group,album,nh,<ENT0> is a <ENT1> .,Mínus is a [MASK] .,Minus is a [MASK] .
+Ellen,These Friends of Mine,genre,P136,American television sitcom,indie folk,nh,<ENT0> plays <ENT1> music .,Ellen plays [MASK] music .,These Friends of Mine plays [MASK] music .
+Ellen,These Friends of Mine,instance of,P31,television series,album,nh,<ENT0> is a <ENT1> .,Ellen is a [MASK] .,These Friends of Mine is a [MASK] .
+Paja Jovanović,Pavle Jovanovic,place of birth,P19,Vršac,Toms River,h,<ENT0> was born in <ENT1> .,Paja Jovanović was born in [MASK] .,Pavle Jovanovic was born in [MASK] .
+Paja Jovanović,Pavle Jovanovic,educated at,P69,Academy of Fine Arts Vienna,Rutgers University,h,<ENT0> is educated at <ENT1> .,Paja Jovanović is educated at [MASK] .,Pavle Jovanovic is educated at [MASK] .
+Paja Jovanović,Pavle Jovanovic,occupation,P106,painter,bobsledder,h,<ENT0> is a <ENT1> by profession .,Paja Jovanović is a [MASK] by profession .,Pavle Jovanovic is a [MASK] by profession .
+Paja Jovanović,Pavle Jovanovic,country of citizenship,P27,Austrian Empire,United States of America,h,<ENT0> is <ENT1> citizen .,Paja Jovanović is [MASK] citizen .,Pavle Jovanovic is [MASK] citizen .
+Paja Jovanović,Pavle Jovanovic,"languages spoken, written or signed",P1412,Serbian,Serbian,h,<ENT0> translating pled spoken callback fluent <ENT1> .,Paja Jovanović translating pled spoken callback fluent [MASK] .,Pavle Jovanovic translating pled spoken callback fluent [MASK] .
+Paja Jovanović,Pavle Jovanovic,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Paja Jovanović is a [MASK] .,Pavle Jovanovic is a [MASK] .
+The Golden Boys,Golden Boys,instance of,P31,film,literary work,nh,<ENT0> is a <ENT1> .,The Golden Boys is a [MASK] .,Golden Boys is a [MASK] .
+The Golden Boys,Golden Boys,country of origin,P495,United States of America,Australia,nh,<ENT0> was created in <ENT1> .,The Golden Boys was created in [MASK] .,Golden Boys was created in [MASK] .
+Jean-Baptiste Chaigneau,Nguyễn Văn Thắng,place of birth,P19,Lorient,Vietnam,h,<ENT0> was born in <ENT1> .,Jean-Baptiste Chaigneau was born in [MASK] .,Nguyễn Văn Thắng was born in [MASK] .
+Jean-Baptiste Chaigneau,Nguyễn Văn Thắng,occupation,P106,diplomat,association football player,h,<ENT0> is a <ENT1> by profession .,Jean-Baptiste Chaigneau is a [MASK] by profession .,Nguyễn Văn Thắng is a [MASK] by profession .
+Jean-Baptiste Chaigneau,Nguyễn Văn Thắng,country of citizenship,P27,France,Vietnam,h,<ENT0> is <ENT1> citizen .,Jean-Baptiste Chaigneau is [MASK] citizen .,Nguyễn Văn Thắng is [MASK] citizen .
+Jean-Baptiste Chaigneau,Nguyễn Văn Thắng,"languages spoken, written or signed",P1412,French,Vietnamese,h,<ENT0> translating pled spoken callback fluent <ENT1> .,Jean-Baptiste Chaigneau translating pled spoken callback fluent [MASK] .,Nguyễn Văn Thắng translating pled spoken callback fluent [MASK] .
+Jean-Baptiste Chaigneau,Nguyễn Văn Thắng,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Jean-Baptiste Chaigneau is a [MASK] .,Nguyễn Văn Thắng is a [MASK] .
+The Shipping News,Shipping News,genre,P136,drama film,post-rock,nh,<ENT0> plays <ENT1> music .,The Shipping News plays [MASK] music .,Shipping News plays [MASK] music .
+The Shipping News,Shipping News,instance of,P31,film,musical group,nh,<ENT0> is a <ENT1> .,The Shipping News is a [MASK] .,Shipping News is a [MASK] .
+The Shipping News,Shipping News,country of origin,P495,United States of America,United States of America,nh,<ENT0> was created in <ENT1> .,The Shipping News was created in [MASK] .,Shipping News was created in [MASK] .
+Medicine Man,The Medicine Man,original language of film or TV show,P364,English,English,nh,<ENT0> population language predomin smoker installer <ENT1> .,Medicine Man population language predomin smoker installer [MASK] .,The Medicine Man population language predomin smoker installer [MASK] .
+Medicine Man,The Medicine Man,genre,P136,adventure film,romantic comedy,nh,<ENT0> plays <ENT1> music .,Medicine Man plays [MASK] music .,The Medicine Man plays [MASK] music .
+Medicine Man,The Medicine Man,instance of,P31,film,film,nh,<ENT0> is a <ENT1> .,Medicine Man is a [MASK] .,The Medicine Man is a [MASK] .
+Medicine Man,The Medicine Man,country of origin,P495,United States of America,United States of America,nh,<ENT0> was created in <ENT1> .,Medicine Man was created in [MASK] .,The Medicine Man was created in [MASK] .
+Dave Koz,David Kozlowski,occupation,P106,radio personality,tennis player,h,<ENT0> is a <ENT1> by profession .,Dave Koz is a [MASK] by profession .,David Kozlowski is a [MASK] by profession .
+Dave Koz,David Kozlowski,country of citizenship,P27,United States of America,United States of America,h,<ENT0> is <ENT1> citizen .,Dave Koz is [MASK] citizen .,David Kozlowski is [MASK] citizen .
+Dave Koz,David Kozlowski,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Dave Koz is a [MASK] .,David Kozlowski is a [MASK] .
+Faith of a Child,The Faith of a Child,genre,P136,Christian ska,silent film,nh,<ENT0> plays <ENT1> music .,Faith of a Child plays [MASK] music .,The Faith of a Child plays [MASK] music .
+Faith of a Child,The Faith of a Child,instance of,P31,album,film,nh,<ENT0> is a <ENT1> .,Faith of a Child is a [MASK] .,The Faith of a Child is a [MASK] .
+The White Crow,White Crow,genre,P136,biographical film,rock music,nh,<ENT0> plays <ENT1> music .,The White Crow plays [MASK] music .,White Crow plays [MASK] music .
+The White Crow,White Crow,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,The White Crow is a [MASK] .,White Crow is a [MASK] .
+Pete Doherty,Peter Doherty,occupation,P106,guitarist,comics artist,h,<ENT0> is a <ENT1> by profession .,Pete Doherty is a [MASK] by profession .,Peter Doherty is a [MASK] by profession .
+Pete Doherty,Peter Doherty,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Pete Doherty is a [MASK] .,Peter Doherty is a [MASK] .
+"20,000 Streets Under the Sky",Twenty Thousand Streets Under the Sky,instance of,P31,written work,television series,nh,<ENT0> is a <ENT1> .,"20,000 Streets Under the Sky is a [MASK] .",Twenty Thousand Streets Under the Sky is a [MASK] .
+The Great Silence,Il grande silenzio,genre,P136,Spaghetti Western,acoustic music,nh,<ENT0> plays <ENT1> music .,The Great Silence plays [MASK] music .,Il grande silenzio plays [MASK] music .
+The Great Silence,Il grande silenzio,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,The Great Silence is a [MASK] .,Il grande silenzio is a [MASK] .
+Do You Believe in Magic?,Do You Believe in Magic,genre,P136,nonfiction,documentary film,nh,<ENT0> plays <ENT1> music .,Do You Believe in Magic? plays [MASK] music .,Do You Believe in Magic plays [MASK] music .
+Do You Believe in Magic?,Do You Believe in Magic,instance of,P31,literary work,film,nh,<ENT0> is a <ENT1> .,Do You Believe in Magic? is a [MASK] .,Do You Believe in Magic is a [MASK] .
+Do You Believe in Magic?,Do You Believe in Magic,country of origin,P495,United States of America,United States of America,nh,<ENT0> was created in <ENT1> .,Do You Believe in Magic? was created in [MASK] .,Do You Believe in Magic was created in [MASK] .
+The Pleasure Seekers,Pleasure Seekers,genre,P136,romantic comedy,dance-pop,nh,<ENT0> plays <ENT1> music .,The Pleasure Seekers plays [MASK] music .,Pleasure Seekers plays [MASK] music .
+The Pleasure Seekers,Pleasure Seekers,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,The Pleasure Seekers is a [MASK] .,Pleasure Seekers is a [MASK] .
+Tomorrow Never Dies,Tomorrow Never Dies – Music From the Motion Picture,genre,P136,action film,film score,nh,<ENT0> plays <ENT1> music .,Tomorrow Never Dies plays [MASK] music .,Tomorrow Never Dies – Music From the Motion Picture plays [MASK] music .
+Tomorrow Never Dies,Tomorrow Never Dies – Music From the Motion Picture,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,Tomorrow Never Dies is a [MASK] .,Tomorrow Never Dies – Music From the Motion Picture is a [MASK] .
+Dave Clark,David Clark,occupation,P106,record producer,politician,h,<ENT0> is a <ENT1> by profession .,Dave Clark is a [MASK] by profession .,David Clark is a [MASK] by profession .
+Dave Clark,David Clark,country of citizenship,P27,United Kingdom,United States of America,h,<ENT0> is <ENT1> citizen .,Dave Clark is [MASK] citizen .,David Clark is [MASK] citizen .
+Dave Clark,David Clark,"languages spoken, written or signed",P1412,English,English,h,<ENT0> translating pled spoken callback fluent <ENT1> .,Dave Clark translating pled spoken callback fluent [MASK] .,David Clark translating pled spoken callback fluent [MASK] .
+Dave Clark,David Clark,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Dave Clark is a [MASK] .,David Clark is a [MASK] .
+Henry & June,Henry and June,genre,P136,biographical film,memoir,nh,<ENT0> plays <ENT1> music .,Henry & June plays [MASK] music .,Henry and June plays [MASK] music .
+Henry & June,Henry and June,instance of,P31,film,written work,nh,<ENT0> is a <ENT1> .,Henry & June is a [MASK] .,Henry and June is a [MASK] .
+The Hearse,Hearse,genre,P136,horror film,melodic death metal,nh,<ENT0> plays <ENT1> music .,The Hearse plays [MASK] music .,Hearse plays [MASK] music .
+The Hearse,Hearse,instance of,P31,film,musical group,nh,<ENT0> is a <ENT1> .,The Hearse is a [MASK] .,Hearse is a [MASK] .
+The Hearse,Hearse,country of origin,P495,United States of America,Sweden,nh,<ENT0> was created in <ENT1> .,The Hearse was created in [MASK] .,Hearse was created in [MASK] .
+Father Yod,A. J. Baker,occupation,P106,religious leader,philosopher,h,<ENT0> is a <ENT1> by profession .,Father Yod is a [MASK] by profession .,A. J. Baker is a [MASK] by profession .
+Father Yod,A. J. Baker,country of citizenship,P27,United States of America,Australia,h,<ENT0> is <ENT1> citizen .,Father Yod is [MASK] citizen .,A. J. Baker is [MASK] citizen .
+Father Yod,A. J. Baker,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Father Yod is a [MASK] .,A. J. Baker is a [MASK] .
+Joan Miró,Miro,occupation,P106,painter,sovereign,h,<ENT0> is a <ENT1> by profession .,Joan Miró is a [MASK] by profession .,Miro is a [MASK] by profession .
+Joan Miró,Miro,country of citizenship,P27,Spain,Kingdom of Galicia,h,<ENT0> is <ENT1> citizen .,Joan Miró is [MASK] citizen .,Miro is [MASK] citizen .
+Joan Miró,Miro,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Joan Miró is a [MASK] .,Miro is a [MASK] .
+Shahid Afridi,Lala,place of birth,P19,Miami,Kangra,h,<ENT0> was born in <ENT1> .,Shahid Afridi was born in [MASK] .,Lala was born in [MASK] .
+Shahid Afridi,Lala,award received,P166,Pride of Performance,Victoria Cross,h,<ENT0> was awarded <ENT1> .,Shahid Afridi was awarded [MASK] .,Lala was awarded [MASK] .
+Shahid Afridi,Lala,occupation,P106,cricketer,soldier,h,<ENT0> is a <ENT1> by profession .,Shahid Afridi is a [MASK] by profession .,Lala is a [MASK] by profession .
+Shahid Afridi,Lala,country of citizenship,P27,Australia,British Raj,h,<ENT0> is <ENT1> citizen .,Shahid Afridi is [MASK] citizen .,Lala is [MASK] citizen .
+Shahid Afridi,Lala,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Shahid Afridi is a [MASK] .,Lala is a [MASK] .
+Tony Mendez,Antonio Méndez,place of birth,P19,Eureka,Seville,h,<ENT0> was born in <ENT1> .,Tony Mendez was born in [MASK] .,Antonio Méndez was born in [MASK] .
+Tony Mendez,Antonio Méndez,occupation,P106,writer,association football player,h,<ENT0> is a <ENT1> by profession .,Tony Mendez is a [MASK] by profession .,Antonio Méndez is a [MASK] by profession .
+Tony Mendez,Antonio Méndez,country of citizenship,P27,United States of America,Spain,h,<ENT0> is <ENT1> citizen .,Tony Mendez is [MASK] citizen .,Antonio Méndez is [MASK] citizen .
+Tony Mendez,Antonio Méndez,"languages spoken, written or signed",P1412,English,Spanish,h,<ENT0> translating pled spoken callback fluent <ENT1> .,Tony Mendez translating pled spoken callback fluent [MASK] .,Antonio Méndez translating pled spoken callback fluent [MASK] .
+Tony Mendez,Antonio Méndez,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Tony Mendez is a [MASK] .,Antonio Méndez is a [MASK] .
+The White Reindeer,White Reindeer,original language of film or TV show,P364,Finnish,English,nh,<ENT0> population language predomin smoker installer <ENT1> .,The White Reindeer population language predomin smoker installer [MASK] .,White Reindeer population language predomin smoker installer [MASK] .
+The White Reindeer,White Reindeer,genre,P136,horror film,comedy drama,nh,<ENT0> plays <ENT1> music .,The White Reindeer plays [MASK] music .,White Reindeer plays [MASK] music .
+The White Reindeer,White Reindeer,instance of,P31,film,film,nh,<ENT0> is a <ENT1> .,The White Reindeer is a [MASK] .,White Reindeer is a [MASK] .
+The White Reindeer,White Reindeer,country of origin,P495,Finland,United States of America,nh,<ENT0> was created in <ENT1> .,The White Reindeer was created in [MASK] .,White Reindeer was created in [MASK] .
+Suraj Ka Satvan Ghoda,The Sun's Seventh Horse,genre,P136,art film,metafiction,nh,<ENT0> plays <ENT1> music .,Suraj Ka Satvan Ghoda plays [MASK] music .,The Sun's Seventh Horse plays [MASK] music .
+Suraj Ka Satvan Ghoda,The Sun's Seventh Horse,instance of,P31,film,literary work,nh,<ENT0> is a <ENT1> .,Suraj Ka Satvan Ghoda is a [MASK] .,The Sun's Seventh Horse is a [MASK] .
+Suraj Ka Satvan Ghoda,The Sun's Seventh Horse,country of origin,P495,India,India,nh,<ENT0> was created in <ENT1> .,Suraj Ka Satvan Ghoda was created in [MASK] .,The Sun's Seventh Horse was created in [MASK] .
+Grant Wood,Thomas Waterman Wood,place of birth,P19,Anamosa,Montpelier,h,<ENT0> was born in <ENT1> .,Grant Wood was born in [MASK] .,Thomas Waterman Wood was born in [MASK] .
+Grant Wood,Thomas Waterman Wood,place of death,P20,Iowa City,New York City,h,<ENT0> died in <ENT1> .,Grant Wood died in [MASK] .,Thomas Waterman Wood died in [MASK] .
+Grant Wood,Thomas Waterman Wood,field of work,P101,art of painting,art of painting,h,<ENT0> works in the field of <ENT1> .,Grant Wood works in the field of [MASK] .,Thomas Waterman Wood works in the field of [MASK] .
+Grant Wood,Thomas Waterman Wood,occupation,P106,painter,painter,h,<ENT0> is a <ENT1> by profession .,Grant Wood is a [MASK] by profession .,Thomas Waterman Wood is a [MASK] by profession .
+Grant Wood,Thomas Waterman Wood,country of citizenship,P27,United States of America,United States of America,h,<ENT0> is <ENT1> citizen .,Grant Wood is [MASK] citizen .,Thomas Waterman Wood is [MASK] citizen .
+Grant Wood,Thomas Waterman Wood,"languages spoken, written or signed",P1412,English,English,h,<ENT0> translating pled spoken callback fluent <ENT1> .,Grant Wood translating pled spoken callback fluent [MASK] .,Thomas Waterman Wood translating pled spoken callback fluent [MASK] .
+Grant Wood,Thomas Waterman Wood,genre,P136,portrait painting,portrait,h,<ENT0> plays <ENT1> music .,Grant Wood plays [MASK] music .,Thomas Waterman Wood plays [MASK] music .
+Grant Wood,Thomas Waterman Wood,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Grant Wood is a [MASK] .,Thomas Waterman Wood is a [MASK] .
+John Curtis Caldwell,John Fenwick,place of birth,P19,Philadelphia,Durham,h,<ENT0> was born in <ENT1> .,John Curtis Caldwell was born in [MASK] .,John Fenwick was born in [MASK] .
+John Curtis Caldwell,John Fenwick,occupation,P106,military officer,Catholic priest,h,<ENT0> is a <ENT1> by profession .,John Curtis Caldwell is a [MASK] by profession .,John Fenwick is a [MASK] by profession .
+John Curtis Caldwell,John Fenwick,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,John Curtis Caldwell is a [MASK] .,John Fenwick is a [MASK] .
+Fred Thurston,Frederick Thurston,educated at,P69,Valparaiso University,Royal College of Music,h,<ENT0> is educated at <ENT1> .,Fred Thurston is educated at [MASK] .,Frederick Thurston is educated at [MASK] .
+Fred Thurston,Frederick Thurston,occupation,P106,American football player,clarinetist,h,<ENT0> is a <ENT1> by profession .,Fred Thurston is a [MASK] by profession .,Frederick Thurston is a [MASK] by profession .
+Fred Thurston,Frederick Thurston,country of citizenship,P27,United States of America,United Kingdom,h,<ENT0> is <ENT1> citizen .,Fred Thurston is [MASK] citizen .,Frederick Thurston is [MASK] citizen .
+Fred Thurston,Frederick Thurston,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Fred Thurston is a [MASK] .,Frederick Thurston is a [MASK] .
+Norman Foster,Norman Kenneth Foster,place of birth,P19,Stockport,Adelaide,h,<ENT0> was born in <ENT1> .,Norman Foster was born in [MASK] .,Norman Kenneth Foster was born in [MASK] .
+Norman Foster,Norman Kenneth Foster,award received,P166,Pour le Mérite for Sciences and Arts order,Medal of the Order of Australia,h,<ENT0> was awarded <ENT1> .,Norman Foster was awarded [MASK] .,Norman Kenneth Foster was awarded [MASK] .
+Norman Foster,Norman Kenneth Foster,occupation,P106,architect,politician,h,<ENT0> is a <ENT1> by profession .,Norman Foster is a [MASK] by profession .,Norman Kenneth Foster is a [MASK] by profession .
+Norman Foster,Norman Kenneth Foster,country of citizenship,P27,United Kingdom,Australia,h,<ENT0> is <ENT1> citizen .,Norman Foster is [MASK] citizen .,Norman Kenneth Foster is [MASK] citizen .
+Norman Foster,Norman Kenneth Foster,"languages spoken, written or signed",P1412,English,English,h,<ENT0> translating pled spoken callback fluent <ENT1> .,Norman Foster translating pled spoken callback fluent [MASK] .,Norman Kenneth Foster translating pled spoken callback fluent [MASK] .
+Norman Foster,Norman Kenneth Foster,position held,P39,Member of the House of Lords,Member of the South Australian Legislative Council,h,<ENT0> has the position of <ENT1> .,Norman Foster has the position of [MASK] .,Norman Kenneth Foster has the position of [MASK] .
+Norman Foster,Norman Kenneth Foster,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Norman Foster is a [MASK] .,Norman Kenneth Foster is a [MASK] .
+Wovenhand,Woven Hand,genre,P136,alternative country,rock music,nh,<ENT0> plays <ENT1> music .,Wovenhand plays [MASK] music .,Woven Hand plays [MASK] music .
+Wovenhand,Woven Hand,instance of,P31,musical group,album,nh,<ENT0> is a <ENT1> .,Wovenhand is a [MASK] .,Woven Hand is a [MASK] .
+Domani,Tomorrow,genre,P136,pop music,drama film,nh,<ENT0> plays <ENT1> music .,Domani plays [MASK] music .,Tomorrow plays [MASK] music .
+Domani,Tomorrow,instance of,P31,musical work/composition,film,nh,<ENT0> is a <ENT1> .,Domani is a [MASK] .,Tomorrow is a [MASK] .
+Google Nest,The Nest,instance of,P31,business,film,nh,<ENT0> is a <ENT1> .,Google Nest is a [MASK] .,The Nest is a [MASK] .
+Chuck Cooper,Charles J. Cooper,place of birth,P19,Pittsburgh,Dayton,h,<ENT0> was born in <ENT1> .,Chuck Cooper was born in [MASK] .,Charles J. Cooper was born in [MASK] .
+Chuck Cooper,Charles J. Cooper,educated at,P69,West Virginia State University,University of Alabama,h,<ENT0> is educated at <ENT1> .,Chuck Cooper is educated at [MASK] .,Charles J. Cooper is educated at [MASK] .
+Chuck Cooper,Charles J. Cooper,occupation,P106,basketball player,lawyer,h,<ENT0> is a <ENT1> by profession .,Chuck Cooper is a [MASK] by profession .,Charles J. Cooper is a [MASK] by profession .
+Chuck Cooper,Charles J. Cooper,country of citizenship,P27,United States of America,United States of America,h,<ENT0> is <ENT1> citizen .,Chuck Cooper is [MASK] citizen .,Charles J. Cooper is [MASK] citizen .
+Chuck Cooper,Charles J. Cooper,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Chuck Cooper is a [MASK] .,Charles J. Cooper is a [MASK] .
+Philip Jones,Philip Jones of Fonmon,place of birth,P19,Bebington,Swansea,h,<ENT0> was born in <ENT1> .,Philip Jones was born in [MASK] .,Philip Jones of Fonmon was born in [MASK] .
+Philip Jones,Philip Jones of Fonmon,occupation,P106,naval officer,politician,h,<ENT0> is a <ENT1> by profession .,Philip Jones is a [MASK] by profession .,Philip Jones of Fonmon is a [MASK] by profession .
+Philip Jones,Philip Jones of Fonmon,country of citizenship,P27,United Kingdom,Kingdom of England,h,<ENT0> is <ENT1> citizen .,Philip Jones is [MASK] citizen .,Philip Jones of Fonmon is [MASK] citizen .
+Philip Jones,Philip Jones of Fonmon,position held,P39,First Sea Lord,Member of Parliament in the Parliament of England,h,<ENT0> has the position of <ENT1> .,Philip Jones has the position of [MASK] .,Philip Jones of Fonmon has the position of [MASK] .
+Philip Jones,Philip Jones of Fonmon,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Philip Jones is a [MASK] .,Philip Jones of Fonmon is a [MASK] .
+Herbert Thomas Mandl,Thomas Mandl,place of birth,P19,Bratislava,Eisenstadt,h,<ENT0> was born in <ENT1> .,Herbert Thomas Mandl was born in [MASK] .,Thomas Mandl was born in [MASK] .
+Herbert Thomas Mandl,Thomas Mandl,occupation,P106,philosopher,association football player,h,<ENT0> is a <ENT1> by profession .,Herbert Thomas Mandl is a [MASK] by profession .,Thomas Mandl is a [MASK] by profession .
+Herbert Thomas Mandl,Thomas Mandl,country of citizenship,P27,Czech Republic,Austria,h,<ENT0> is <ENT1> citizen .,Herbert Thomas Mandl is [MASK] citizen .,Thomas Mandl is [MASK] citizen .
+Herbert Thomas Mandl,Thomas Mandl,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Herbert Thomas Mandl is a [MASK] .,Thomas Mandl is a [MASK] .
+Behind the Candelabra,Behind the Candelabra: My Life with Liberace,genre,P136,drama film,memoir,nh,<ENT0> plays <ENT1> music .,Behind the Candelabra plays [MASK] music .,Behind the Candelabra: My Life with Liberace plays [MASK] music .
+Behind the Candelabra,Behind the Candelabra: My Life with Liberace,instance of,P31,film,written work,nh,<ENT0> is a <ENT1> .,Behind the Candelabra is a [MASK] .,Behind the Candelabra: My Life with Liberace is a [MASK] .
+Behind the Candelabra,Behind the Candelabra: My Life with Liberace,country of origin,P495,United States of America,United States of America,nh,<ENT0> was created in <ENT1> .,Behind the Candelabra was created in [MASK] .,Behind the Candelabra: My Life with Liberace was created in [MASK] .
+The Bad Sister,Bad Sister,genre,P136,drama film,hip hop music,nh,<ENT0> plays <ENT1> music .,The Bad Sister plays [MASK] music .,Bad Sister plays [MASK] music .
+The Bad Sister,Bad Sister,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,The Bad Sister is a [MASK] .,Bad Sister is a [MASK] .
+La Strada,La strada,genre,P136,drama film,rock music,nh,<ENT0> plays <ENT1> music .,La Strada plays [MASK] music .,La strada plays [MASK] music .
+La Strada,La strada,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,La Strada is a [MASK] .,La strada is a [MASK] .
+Anema e core,My Heart Sings,genre,P136,Neapolitan song,comedy film,nh,<ENT0> plays <ENT1> music .,Anema e core plays [MASK] music .,My Heart Sings plays [MASK] music .
+Anema e core,My Heart Sings,instance of,P31,musical work/composition,film,nh,<ENT0> is a <ENT1> .,Anema e core is a [MASK] .,My Heart Sings is a [MASK] .
+Mist,Niebla,language of work or name,P407,Spanish,Spanish,nh,<ENT0> was written in <ENT1> .,Mist was written in [MASK] .,Niebla was written in [MASK] .
+Mist,Niebla,genre,P136,drama,telenovela,nh,<ENT0> plays <ENT1> music .,Mist plays [MASK] music .,Niebla plays [MASK] music .
+Mist,Niebla,instance of,P31,literary work,television series,nh,<ENT0> is a <ENT1> .,Mist is a [MASK] .,Niebla is a [MASK] .
+Mist,Niebla,country of origin,P495,Spain,Mexico,nh,<ENT0> was created in <ENT1> .,Mist was created in [MASK] .,Niebla was created in [MASK] .
+Dance of Time,The Dance of Time,genre,P136,jazz,comedy film,nh,<ENT0> plays <ENT1> music .,Dance of Time plays [MASK] music .,The Dance of Time plays [MASK] music .
+Dance of Time,The Dance of Time,instance of,P31,album,film,nh,<ENT0> is a <ENT1> .,Dance of Time is a [MASK] .,The Dance of Time is a [MASK] .
+A Perfect World,Perfect World,genre,P136,adventure film,alternative rock,nh,<ENT0> plays <ENT1> music .,A Perfect World plays [MASK] music .,Perfect World plays [MASK] music .
+A Perfect World,Perfect World,instance of,P31,film,musical work/composition,nh,<ENT0> is a <ENT1> .,A Perfect World is a [MASK] .,Perfect World is a [MASK] .
+The Story of a Small Town,Small Town Story,instance of,P31,film,musical work/composition,nh,<ENT0> is a <ENT1> .,The Story of a Small Town is a [MASK] .,Small Town Story is a [MASK] .
+The Story of a Small Town,Small Town Story,country of origin,P495,Taiwan,Taiwan,nh,<ENT0> was created in <ENT1> .,The Story of a Small Town was created in [MASK] .,Small Town Story was created in [MASK] .
+The Theory of Everything,Theory of Everything,genre,P136,romance film,rock music,nh,<ENT0> plays <ENT1> music .,The Theory of Everything plays [MASK] music .,Theory of Everything plays [MASK] music .
+The Theory of Everything,Theory of Everything,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,The Theory of Everything is a [MASK] .,Theory of Everything is a [MASK] .
+Richard Palmer-James,Richard Palmer,occupation,P106,guitarist,entrepreneur,h,<ENT0> is a <ENT1> by profession .,Richard Palmer-James is a [MASK] by profession .,Richard Palmer is a [MASK] by profession .
+Richard Palmer-James,Richard Palmer,country of citizenship,P27,United Kingdom,United Kingdom,h,<ENT0> is <ENT1> citizen .,Richard Palmer-James is [MASK] citizen .,Richard Palmer is [MASK] citizen .
+Richard Palmer-James,Richard Palmer,"languages spoken, written or signed",P1412,English,English,h,<ENT0> translating pled spoken callback fluent <ENT1> .,Richard Palmer-James translating pled spoken callback fluent [MASK] .,Richard Palmer translating pled spoken callback fluent [MASK] .
+Richard Palmer-James,Richard Palmer,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Richard Palmer-James is a [MASK] .,Richard Palmer is a [MASK] .
+Billy Sandow,Wilhelm Baumann,place of birth,P19,Rochester,Schweinfurt,h,<ENT0> was born in <ENT1> .,Billy Sandow was born in [MASK] .,Wilhelm Baumann was born in [MASK] .
+Billy Sandow,Wilhelm Baumann,award received,P166,Wrestling Observer Newsletter Hall of Fame,Bavarian Order of Merit,h,<ENT0> was awarded <ENT1> .,Billy Sandow was awarded [MASK] .,Wilhelm Baumann was awarded [MASK] .
+Billy Sandow,Wilhelm Baumann,occupation,P106,manager,politician,h,<ENT0> is a <ENT1> by profession .,Billy Sandow is a [MASK] by profession .,Wilhelm Baumann is a [MASK] by profession .
+Billy Sandow,Wilhelm Baumann,country of citizenship,P27,United States of America,Germany,h,<ENT0> is <ENT1> citizen .,Billy Sandow is [MASK] citizen .,Wilhelm Baumann is [MASK] citizen .
+Billy Sandow,Wilhelm Baumann,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Billy Sandow is a [MASK] .,Wilhelm Baumann is a [MASK] .
+Khalid,Khalid Ali,occupation,P106,singer,association football player,h,<ENT0> is a <ENT1> by profession .,Khalid is a [MASK] by profession .,Khalid Ali is a [MASK] by profession .
+Khalid,Khalid Ali,country of citizenship,P27,United States of America,United Arab Emirates,h,<ENT0> is <ENT1> citizen .,Khalid is [MASK] citizen .,Khalid Ali is [MASK] citizen .
+Khalid,Khalid Ali,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Khalid is a [MASK] .,Khalid Ali is a [MASK] .
+Bones Hillman,Wayne Stevens,place of birth,P19,Auckland,Bloemfontein,h,<ENT0> was born in <ENT1> .,Bones Hillman was born in [MASK] .,Wayne Stevens was born in [MASK] .
+Bones Hillman,Wayne Stevens,occupation,P106,musician,rugby union player,h,<ENT0> is a <ENT1> by profession .,Bones Hillman is a [MASK] by profession .,Wayne Stevens is a [MASK] by profession .
+Bones Hillman,Wayne Stevens,country of citizenship,P27,New Zealand,South Africa,h,<ENT0> is <ENT1> citizen .,Bones Hillman is [MASK] citizen .,Wayne Stevens is [MASK] citizen .
+Bones Hillman,Wayne Stevens,"languages spoken, written or signed",P1412,English,English,h,<ENT0> translating pled spoken callback fluent <ENT1> .,Bones Hillman translating pled spoken callback fluent [MASK] .,Wayne Stevens translating pled spoken callback fluent [MASK] .
+Bones Hillman,Wayne Stevens,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Bones Hillman is a [MASK] .,Wayne Stevens is a [MASK] .
+The Heart of a Man,Heart of a Man,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,The Heart of a Man is a [MASK] .,Heart of a Man is a [MASK] .
+Late Night,Late Night with Seth Meyers,original language of film or TV show,P364,English,American English,nh,<ENT0> population language predomin smoker installer <ENT1> .,Late Night population language predomin smoker installer [MASK] .,Late Night with Seth Meyers population language predomin smoker installer [MASK] .
+Late Night,Late Night with Seth Meyers,genre,P136,comedy film,late-night talk show,nh,<ENT0> plays <ENT1> music .,Late Night plays [MASK] music .,Late Night with Seth Meyers plays [MASK] music .
+Late Night,Late Night with Seth Meyers,instance of,P31,film,television series,nh,<ENT0> is a <ENT1> .,Late Night is a [MASK] .,Late Night with Seth Meyers is a [MASK] .
+Late Night,Late Night with Seth Meyers,country of origin,P495,United States of America,United States of America,nh,<ENT0> was created in <ENT1> .,Late Night was created in [MASK] .,Late Night with Seth Meyers was created in [MASK] .
+It's a Hard Life,La vita agra,language of work or name,P407,English,Italian,nh,<ENT0> was written in <ENT1> .,It's a Hard Life was written in [MASK] .,La vita agra was written in [MASK] .
+It's a Hard Life,La vita agra,genre,P136,rock music,novel,nh,<ENT0> plays <ENT1> music .,It's a Hard Life plays [MASK] music .,La vita agra plays [MASK] music .
+It's a Hard Life,La vita agra,instance of,P31,musical work/composition,written work,nh,<ENT0> is a <ENT1> .,It's a Hard Life is a [MASK] .,La vita agra is a [MASK] .
+Yoko Ono,Yōko Ōno,educated at,P69,Gakushuin University,Ritsumeikan University,h,<ENT0> is educated at <ENT1> .,Yoko Ono is educated at [MASK] .,Yōko Ōno is educated at [MASK] .
+Yoko Ono,Yōko Ōno,occupation,P106,peace activist,judoka,h,<ENT0> is a <ENT1> by profession .,Yoko Ono is a [MASK] by profession .,Yōko Ōno is a [MASK] by profession .
+Yoko Ono,Yōko Ōno,country of citizenship,P27,Japan,Japan,h,<ENT0> is <ENT1> citizen .,Yoko Ono is [MASK] citizen .,Yōko Ōno is [MASK] citizen .
+Yoko Ono,Yōko Ōno,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Yoko Ono is a [MASK] .,Yōko Ōno is a [MASK] .
+Tiefland,Lowlands,genre,P136,musical film,silent film,nh,<ENT0> plays <ENT1> music .,Tiefland plays [MASK] music .,Lowlands plays [MASK] music .
+Tiefland,Lowlands,instance of,P31,film,film,nh,<ENT0> is a <ENT1> .,Tiefland is a [MASK] .,Lowlands is a [MASK] .
+Tiefland,Lowlands,country of origin,P495,Germany,Germany,nh,<ENT0> was created in <ENT1> .,Tiefland was created in [MASK] .,Lowlands was created in [MASK] .
+Max Geldray,Max van Gelder,place of birth,P19,Amsterdam,Jakarta,h,<ENT0> was born in <ENT1> .,Max Geldray was born in [MASK] .,Max van Gelder was born in [MASK] .
+Max Geldray,Max van Gelder,occupation,P106,jazz musician,water polo player,h,<ENT0> is a <ENT1> by profession .,Max Geldray is a [MASK] by profession .,Max van Gelder is a [MASK] by profession .
+Max Geldray,Max van Gelder,country of citizenship,P27,Kingdom of the Netherlands,Kingdom of the Netherlands,h,<ENT0> is <ENT1> citizen .,Max Geldray is [MASK] citizen .,Max van Gelder is [MASK] citizen .
+Max Geldray,Max van Gelder,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Max Geldray is a [MASK] .,Max van Gelder is a [MASK] .
+Masques,Masks,genre,P136,jazz fusion,comedy film,nh,<ENT0> plays <ENT1> music .,Masques plays [MASK] music .,Masks plays [MASK] music .
+Masques,Masks,instance of,P31,album,film,nh,<ENT0> is a <ENT1> .,Masques is a [MASK] .,Masks is a [MASK] .
+James L. Williams,James Williams,place of birth,P19,Bethlehem,Vicksburg,h,<ENT0> was born in <ENT1> .,James L. Williams was born in [MASK] .,James Williams was born in [MASK] .
+James L. Williams,James Williams,educated at,P69,Georgetown University,Warren Central High School,h,<ENT0> is educated at <ENT1> .,James L. Williams is educated at [MASK] .,James Williams is educated at [MASK] .
+James L. Williams,James Williams,occupation,P106,military officer,American football player,h,<ENT0> is a <ENT1> by profession .,James L. Williams is a [MASK] by profession .,James Williams is a [MASK] by profession .
+James L. Williams,James Williams,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,James L. Williams is a [MASK] .,James Williams is a [MASK] .
+Don Quixote,Don Quijote,instance of,P31,literary work,business,nh,<ENT0> is a <ENT1> .,Don Quixote is a [MASK] .,Don Quijote is a [MASK] .
+The Unbelievers,Unbelievers,genre,P136,documentary film,indie pop,nh,<ENT0> plays <ENT1> music .,The Unbelievers plays [MASK] music .,Unbelievers plays [MASK] music .
+The Unbelievers,Unbelievers,instance of,P31,film,song,nh,<ENT0> is a <ENT1> .,The Unbelievers is a [MASK] .,Unbelievers is a [MASK] .
+Buddy Parker,Raymond Parker,occupation,P106,American football player,canoeist,h,<ENT0> is a <ENT1> by profession .,Buddy Parker is a [MASK] by profession .,Raymond Parker is a [MASK] by profession .
+Buddy Parker,Raymond Parker,country of citizenship,P27,United States of America,United Kingdom,h,<ENT0> is <ENT1> citizen .,Buddy Parker is [MASK] citizen .,Raymond Parker is [MASK] citizen .
+Buddy Parker,Raymond Parker,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Buddy Parker is a [MASK] .,Raymond Parker is a [MASK] .
+"John Townshend, 4th Marquess Townshend",John Dunn Gardner,occupation,P106,politician,politician,h,<ENT0> is a <ENT1> by profession .,"John Townshend, 4th Marquess Townshend is a [MASK] by profession .",John Dunn Gardner is a [MASK] by profession .
+"John Townshend, 4th Marquess Townshend",John Dunn Gardner,country of citizenship,P27,United Kingdom of Great Britain and Ireland,United Kingdom of Great Britain and Ireland,h,<ENT0> is <ENT1> citizen .,"John Townshend, 4th Marquess Townshend is [MASK] citizen .",John Dunn Gardner is [MASK] citizen .
+"John Townshend, 4th Marquess Townshend",John Dunn Gardner,"languages spoken, written or signed",P1412,English,English,h,<ENT0> translating pled spoken callback fluent <ENT1> .,"John Townshend, 4th Marquess Townshend translating pled spoken callback fluent [MASK] .",John Dunn Gardner translating pled spoken callback fluent [MASK] .
+"John Townshend, 4th Marquess Townshend",John Dunn Gardner,position held,P39,member of the 16th Parliament of the United Kingdom,member of the 14th Parliament of the United Kingdom,h,<ENT0> has the position of <ENT1> .,"John Townshend, 4th Marquess Townshend has the position of [MASK] .",John Dunn Gardner has the position of [MASK] .
+"John Townshend, 4th Marquess Townshend",John Dunn Gardner,work location,P937,London,London,h,<ENT0> used to work in <ENT1> .,"John Townshend, 4th Marquess Townshend used to work in [MASK] .",John Dunn Gardner used to work in [MASK] .
+"John Townshend, 4th Marquess Townshend",John Dunn Gardner,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,"John Townshend, 4th Marquess Townshend is a [MASK] .",John Dunn Gardner is a [MASK] .
+Somebody to Love,Someone to Love,genre,P136,rock music,silent film,nh,<ENT0> plays <ENT1> music .,Somebody to Love plays [MASK] music .,Someone to Love plays [MASK] music .
+Somebody to Love,Someone to Love,instance of,P31,musical work/composition,film,nh,<ENT0> is a <ENT1> .,Somebody to Love is a [MASK] .,Someone to Love is a [MASK] .
+The Grapes of Wrath,Grapes of Wrath,genre,P136,drama film,rock music,nh,<ENT0> plays <ENT1> music .,The Grapes of Wrath plays [MASK] music .,Grapes of Wrath plays [MASK] music .
+The Grapes of Wrath,Grapes of Wrath,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,The Grapes of Wrath is a [MASK] .,Grapes of Wrath is a [MASK] .
+Eternal Sunshine of the Spotless Mind,Eternal Sunshine of the Spotless Mind – Original Soundtrack,genre,P136,romantic comedy,stage and screen,nh,<ENT0> plays <ENT1> music .,Eternal Sunshine of the Spotless Mind plays [MASK] music .,Eternal Sunshine of the Spotless Mind – Original Soundtrack plays [MASK] music .
+Eternal Sunshine of the Spotless Mind,Eternal Sunshine of the Spotless Mind – Original Soundtrack,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,Eternal Sunshine of the Spotless Mind is a [MASK] .,Eternal Sunshine of the Spotless Mind – Original Soundtrack is a [MASK] .
+The Temptations,Temptations,genre,P136,doo-wop,underground hip hop,nh,<ENT0> plays <ENT1> music .,The Temptations plays [MASK] music .,Temptations plays [MASK] music .
+The Temptations,Temptations,instance of,P31,musical group,album,nh,<ENT0> is a <ENT1> .,The Temptations is a [MASK] .,Temptations is a [MASK] .
+Laggies,Say When,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,Laggies is a [MASK] .,Say When is a [MASK] .
+Albert W. Hawkes,Albert Hawkes,place of birth,P19,Chicago,Newtown,h,<ENT0> was born in <ENT1> .,Albert W. Hawkes was born in [MASK] .,Albert Hawkes was born in [MASK] .
+Albert W. Hawkes,Albert Hawkes,occupation,P106,politician,rugby league player,h,<ENT0> is a <ENT1> by profession .,Albert W. Hawkes is a [MASK] by profession .,Albert Hawkes is a [MASK] by profession .
+Albert W. Hawkes,Albert Hawkes,country of citizenship,P27,United States of America,Australia,h,<ENT0> is <ENT1> citizen .,Albert W. Hawkes is [MASK] citizen .,Albert Hawkes is [MASK] citizen .
+Albert W. Hawkes,Albert Hawkes,"languages spoken, written or signed",P1412,English,English,h,<ENT0> translating pled spoken callback fluent <ENT1> .,Albert W. Hawkes translating pled spoken callback fluent [MASK] .,Albert Hawkes translating pled spoken callback fluent [MASK] .
+Albert W. Hawkes,Albert Hawkes,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Albert W. Hawkes is a [MASK] .,Albert Hawkes is a [MASK] .
+David A. Hargrave,David Hargrave,occupation,P106,novelist,rugby league player,h,<ENT0> is a <ENT1> by profession .,David A. Hargrave is a [MASK] by profession .,David Hargrave is a [MASK] by profession .
+David A. Hargrave,David Hargrave,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,David A. Hargrave is a [MASK] .,David Hargrave is a [MASK] .
+Star Trek: Insurrection,Insurrection,instance of,P31,film,television series,nh,<ENT0> is a <ENT1> .,Star Trek: Insurrection is a [MASK] .,Insurrection is a [MASK] .
+Star Trek: Insurrection,Insurrection,country of origin,P495,United States of America,Ireland,nh,<ENT0> was created in <ENT1> .,Star Trek: Insurrection was created in [MASK] .,Insurrection was created in [MASK] .
+A Song for You,Song for You,genre,P136,romance film,J-pop,nh,<ENT0> plays <ENT1> music .,A Song for You plays [MASK] music .,Song for You plays [MASK] music .
+A Song for You,Song for You,instance of,P31,film,musical work/composition,nh,<ENT0> is a <ENT1> .,A Song for You is a [MASK] .,Song for You is a [MASK] .
+Good-bye My Loneliness,It's a Boy,genre,P136,rock music,comedy film,nh,<ENT0> plays <ENT1> music .,Good-bye My Loneliness plays [MASK] music .,It's a Boy plays [MASK] music .
+Good-bye My Loneliness,It's a Boy,instance of,P31,album,film,nh,<ENT0> is a <ENT1> .,Good-bye My Loneliness is a [MASK] .,It's a Boy is a [MASK] .
+Romeo and Juliet,Romeo & Juliet,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,Romeo and Juliet is a [MASK] .,Romeo & Juliet is a [MASK] .
+Skin Game,The Skin Game,genre,P136,detective fiction,drama film,nh,<ENT0> plays <ENT1> music .,Skin Game plays [MASK] music .,The Skin Game plays [MASK] music .
+Skin Game,The Skin Game,instance of,P31,literary work,film,nh,<ENT0> is a <ENT1> .,Skin Game is a [MASK] .,The Skin Game is a [MASK] .
+Skin Game,The Skin Game,country of origin,P495,United States of America,United Kingdom,nh,<ENT0> was created in <ENT1> .,Skin Game was created in [MASK] .,The Skin Game was created in [MASK] .
+Mission Top Secret,Matchless,original language of film or TV show,P364,English,English,nh,<ENT0> population language predomin smoker installer <ENT1> .,Mission Top Secret population language predomin smoker installer [MASK] .,Matchless population language predomin smoker installer [MASK] .
+Mission Top Secret,Matchless,genre,P136,drama television series,science fiction film,nh,<ENT0> plays <ENT1> music .,Mission Top Secret plays [MASK] music .,Matchless plays [MASK] music .
+Mission Top Secret,Matchless,instance of,P31,television series,film,nh,<ENT0> is a <ENT1> .,Mission Top Secret is a [MASK] .,Matchless is a [MASK] .
+Mission Top Secret,Matchless,country of origin,P495,Australia,Italy,nh,<ENT0> was created in <ENT1> .,Mission Top Secret was created in [MASK] .,Matchless was created in [MASK] .
+Rome,The Eternal City,instance of,P31,border town,film,nh,<ENT0> is a <ENT1> .,Rome is a [MASK] .,The Eternal City is a [MASK] .
+The Little One,Little One,instance of,P31,film,musical work/composition,nh,<ENT0> is a <ENT1> .,The Little One is a [MASK] .,Little One is a [MASK] .
+Francis Stewart Briggs,Frank Briggs,occupation,P106,aircraft pilot,association football player,h,<ENT0> is a <ENT1> by profession .,Francis Stewart Briggs is a [MASK] by profession .,Frank Briggs is a [MASK] by profession .
+Francis Stewart Briggs,Frank Briggs,country of citizenship,P27,Australia,United Kingdom,h,<ENT0> is <ENT1> citizen .,Francis Stewart Briggs is [MASK] citizen .,Frank Briggs is [MASK] citizen .
+Francis Stewart Briggs,Frank Briggs,"languages spoken, written or signed",P1412,English,English,h,<ENT0> translating pled spoken callback fluent <ENT1> .,Francis Stewart Briggs translating pled spoken callback fluent [MASK] .,Frank Briggs translating pled spoken callback fluent [MASK] .
+Francis Stewart Briggs,Frank Briggs,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Francis Stewart Briggs is a [MASK] .,Frank Briggs is a [MASK] .
+The Sapphires,I Can't Help Myself (Sugar Pie Honey Bunch),genre,P136,biographical film,soul music,nh,<ENT0> plays <ENT1> music .,The Sapphires plays [MASK] music .,I Can't Help Myself (Sugar Pie Honey Bunch) plays [MASK] music .
+The Sapphires,I Can't Help Myself (Sugar Pie Honey Bunch),instance of,P31,film,musical work/composition,nh,<ENT0> is a <ENT1> .,The Sapphires is a [MASK] .,I Can't Help Myself (Sugar Pie Honey Bunch) is a [MASK] .
+And Another Thing...,And Another Thing…,genre,P136,science fiction,pop music,nh,<ENT0> plays <ENT1> music .,And Another Thing... plays [MASK] music .,And Another Thing… plays [MASK] music .
+And Another Thing...,And Another Thing…,instance of,P31,literary work,album,nh,<ENT0> is a <ENT1> .,And Another Thing... is a [MASK] .,And Another Thing… is a [MASK] .
+Temple of Shadows,The Temple of Shadows,genre,P136,progressive metal,silent film,nh,<ENT0> plays <ENT1> music .,Temple of Shadows plays [MASK] music .,The Temple of Shadows plays [MASK] music .
+Temple of Shadows,The Temple of Shadows,instance of,P31,album,film,nh,<ENT0> is a <ENT1> .,Temple of Shadows is a [MASK] .,The Temple of Shadows is a [MASK] .
+"I Love You, Man",Let's Be Friends,genre,P136,buddy film,rock music,nh,<ENT0> plays <ENT1> music .,"I Love You, Man plays [MASK] music .",Let's Be Friends plays [MASK] music .
+"I Love You, Man",Let's Be Friends,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,"I Love You, Man is a [MASK] .",Let's Be Friends is a [MASK] .
+Él,Te prometo,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,Él is a [MASK] .,Te prometo is a [MASK] .
+el griego,Ti Ti Ti,genre,P136,telenovela,new wave,nh,<ENT0> plays <ENT1> music .,el griego plays [MASK] music .,Ti Ti Ti plays [MASK] music .
+el griego,Ti Ti Ti,record label,P264,Som Livre,Epic Records,nh,<ENT0> is represented by music label <ENT1> .,el griego is represented by music label [MASK] .,Ti Ti Ti is represented by music label [MASK] .
+el griego,Ti Ti Ti,instance of,P31,television series,musical work/composition,nh,<ENT0> is a <ENT1> .,el griego is a [MASK] .,Ti Ti Ti is a [MASK] .
+The Violent Men,Violent Men,genre,P136,Western film,Britpop,nh,<ENT0> plays <ENT1> music .,The Violent Men plays [MASK] music .,Violent Men plays [MASK] music .
+The Violent Men,Violent Men,instance of,P31,film,musical work/composition,nh,<ENT0> is a <ENT1> .,The Violent Men is a [MASK] .,Violent Men is a [MASK] .
+"Bernard Law Montgomery, 1st Viscount Montgomery of Alamein",David Pagmar,occupation,P106,military officer,musician,h,<ENT0> is a <ENT1> by profession .,"Bernard Law Montgomery, 1st Viscount Montgomery of Alamein is a [MASK] by profession .",David Pagmar is a [MASK] by profession .
+"Bernard Law Montgomery, 1st Viscount Montgomery of Alamein",David Pagmar,country of citizenship,P27,United Kingdom,Sweden,h,<ENT0> is <ENT1> citizen .,"Bernard Law Montgomery, 1st Viscount Montgomery of Alamein is [MASK] citizen .",David Pagmar is [MASK] citizen .
+"Bernard Law Montgomery, 1st Viscount Montgomery of Alamein",David Pagmar,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,"Bernard Law Montgomery, 1st Viscount Montgomery of Alamein is a [MASK] .",David Pagmar is a [MASK] .
+The Usual Suspects,Usual Suspects,genre,P136,heist film,gangsta rap,nh,<ENT0> plays <ENT1> music .,The Usual Suspects plays [MASK] music .,Usual Suspects plays [MASK] music .
+The Usual Suspects,Usual Suspects,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,The Usual Suspects is a [MASK] .,Usual Suspects is a [MASK] .
+Doug Collins,Reginald Collins,occupation,P106,journalist,civil servant,h,<ENT0> is a <ENT1> by profession .,Doug Collins is a [MASK] by profession .,Reginald Collins is a [MASK] by profession .
+Doug Collins,Reginald Collins,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Doug Collins is a [MASK] .,Reginald Collins is a [MASK] .
+Sleepless,La Anam,instance of,P31,film,literary work,nh,<ENT0> is a <ENT1> .,Sleepless is a [MASK] .,La Anam is a [MASK] .
+Sleepless,La Anam,country of origin,P495,Egypt,Egypt,nh,<ENT0> was created in <ENT1> .,Sleepless was created in [MASK] .,La Anam was created in [MASK] .
+Fran Healy,Francis Healy,place of birth,P19,Stafford,Holyoke,h,<ENT0> was born in <ENT1> .,Fran Healy was born in [MASK] .,Francis Healy was born in [MASK] .
+Fran Healy,Francis Healy,occupation,P106,singer,baseball player,h,<ENT0> is a <ENT1> by profession .,Fran Healy is a [MASK] by profession .,Francis Healy is a [MASK] by profession .
+Fran Healy,Francis Healy,country of citizenship,P27,United Kingdom,United States of America,h,<ENT0> is <ENT1> citizen .,Fran Healy is [MASK] citizen .,Francis Healy is [MASK] citizen .
+Fran Healy,Francis Healy,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Fran Healy is a [MASK] .,Francis Healy is a [MASK] .
+Igor Girkin,Igor Strelkov,place of birth,P19,Moscow,Tolyatti,h,<ENT0> was born in <ENT1> .,Igor Girkin was born in [MASK] .,Igor Strelkov was born in [MASK] .
+Igor Girkin,Igor Strelkov,occupation,P106,military personnel,association football player,h,<ENT0> is a <ENT1> by profession .,Igor Girkin is a [MASK] by profession .,Igor Strelkov is a [MASK] by profession .
+Igor Girkin,Igor Strelkov,country of citizenship,P27,Soviet Union,Russia,h,<ENT0> is <ENT1> citizen .,Igor Girkin is [MASK] citizen .,Igor Strelkov is [MASK] citizen .
+Igor Girkin,Igor Strelkov,"languages spoken, written or signed",P1412,Russian,Russian,h,<ENT0> translating pled spoken callback fluent <ENT1> .,Igor Girkin translating pled spoken callback fluent [MASK] .,Igor Strelkov translating pled spoken callback fluent [MASK] .
+Igor Girkin,Igor Strelkov,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Igor Girkin is a [MASK] .,Igor Strelkov is a [MASK] .
+Frederick Douglass,Fred Bailey,place of birth,P19,Talbot County,Mount Hope,h,<ENT0> was born in <ENT1> .,Frederick Douglass was born in [MASK] .,Fred Bailey was born in [MASK] .
+Frederick Douglass,Fred Bailey,place of death,P20,"Washington, D.C.",Huntington,h,<ENT0> died in <ENT1> .,Frederick Douglass died in [MASK] .,Fred Bailey died in [MASK] .
+Frederick Douglass,Fred Bailey,occupation,P106,journalist,baseball player,h,<ENT0> is a <ENT1> by profession .,Frederick Douglass is a [MASK] by profession .,Fred Bailey is a [MASK] by profession .
+Frederick Douglass,Fred Bailey,country of citizenship,P27,United States of America,United States of America,h,<ENT0> is <ENT1> citizen .,Frederick Douglass is [MASK] citizen .,Fred Bailey is [MASK] citizen .
+Frederick Douglass,Fred Bailey,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Frederick Douglass is a [MASK] .,Fred Bailey is a [MASK] .
+The General Line,Old and New,genre,P136,drama film,traditional folk music,nh,<ENT0> plays <ENT1> music .,The General Line plays [MASK] music .,Old and New plays [MASK] music .
+The General Line,Old and New,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,The General Line is a [MASK] .,Old and New is a [MASK] .
+The Wonders,Wonders,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,The Wonders is a [MASK] .,Wonders is a [MASK] .
+James Earl Jones,James Jones,place of birth,P19,Arkabutla,San Jose,h,<ENT0> was born in <ENT1> .,James Earl Jones was born in [MASK] .,James Jones was born in [MASK] .
+James Earl Jones,James Jones,educated at,P69,University of Michigan,Gunderson High School,h,<ENT0> is educated at <ENT1> .,James Earl Jones is educated at [MASK] .,James Jones is educated at [MASK] .
+James Earl Jones,James Jones,occupation,P106,television actor,American football player,h,<ENT0> is a <ENT1> by profession .,James Earl Jones is a [MASK] by profession .,James Jones is a [MASK] by profession .
+James Earl Jones,James Jones,country of citizenship,P27,United States of America,United States of America,h,<ENT0> is <ENT1> citizen .,James Earl Jones is [MASK] citizen .,James Jones is [MASK] citizen .
+James Earl Jones,James Jones,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,James Earl Jones is a [MASK] .,James Jones is a [MASK] .
+Bank of America,BoA,instance of,P31,credit institution,album,nh,<ENT0> is a <ENT1> .,Bank of America is a [MASK] .,BoA is a [MASK] .
+Bank of America,BoA,part of,P361,S&P 500,BoA's (South Korean singer) albums in chronological order,nh,<ENT0> is part of <ENT1> .,Bank of America is part of [MASK] .,BoA is part of [MASK] .
+Englishman in New York,An Englishman in New York,genre,P136,rock music,biographical film,nh,<ENT0> plays <ENT1> music .,Englishman in New York plays [MASK] music .,An Englishman in New York plays [MASK] music .
+Englishman in New York,An Englishman in New York,instance of,P31,single,film,nh,<ENT0> is a <ENT1> .,Englishman in New York is a [MASK] .,An Englishman in New York is a [MASK] .
+Going Bananas,African Adventure,genre,P136,comedy film,adventure fiction,nh,<ENT0> plays <ENT1> music .,Going Bananas plays [MASK] music .,African Adventure plays [MASK] music .
+Going Bananas,African Adventure,instance of,P31,film,literary work,nh,<ENT0> is a <ENT1> .,Going Bananas is a [MASK] .,African Adventure is a [MASK] .
+Going Bananas,African Adventure,country of origin,P495,United States of America,United States of America,nh,<ENT0> was created in <ENT1> .,Going Bananas was created in [MASK] .,African Adventure was created in [MASK] .
+Ella Enchanted,Ella Enchanted – Original Soundtrack,genre,P136,romantic comedy,pop music,nh,<ENT0> plays <ENT1> music .,Ella Enchanted plays [MASK] music .,Ella Enchanted – Original Soundtrack plays [MASK] music .
+Ella Enchanted,Ella Enchanted – Original Soundtrack,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,Ella Enchanted is a [MASK] .,Ella Enchanted – Original Soundtrack is a [MASK] .
+Denis D'Amour,Roscoe Word,place of birth,P19,Saguenay,Marianna,h,<ENT0> was born in <ENT1> .,Denis D'Amour was born in [MASK] .,Roscoe Word was born in [MASK] .
+Denis D'Amour,Roscoe Word,place of death,P20,Montreal,Knoxville,h,<ENT0> died in <ENT1> .,Denis D'Amour died in [MASK] .,Roscoe Word died in [MASK] .
+Denis D'Amour,Roscoe Word,occupation,P106,musician,American football player,h,<ENT0> is a <ENT1> by profession .,Denis D'Amour is a [MASK] by profession .,Roscoe Word is a [MASK] by profession .
+Denis D'Amour,Roscoe Word,country of citizenship,P27,Canada,United States of America,h,<ENT0> is <ENT1> citizen .,Denis D'Amour is [MASK] citizen .,Roscoe Word is [MASK] citizen .
+Denis D'Amour,Roscoe Word,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Denis D'Amour is a [MASK] .,Roscoe Word is a [MASK] .
+Braindead,Dead Alive,genre,P136,zombie comedy,alternative metal,nh,<ENT0> plays <ENT1> music .,Braindead plays [MASK] music .,Dead Alive plays [MASK] music .
+Braindead,Dead Alive,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,Braindead is a [MASK] .,Dead Alive is a [MASK] .
+Will H. Bradley,William Bradley,place of birth,P19,Boston,Manchester,h,<ENT0> was born in <ENT1> .,Will H. Bradley was born in [MASK] .,William Bradley was born in [MASK] .
+Will H. Bradley,William Bradley,place of death,P20,La Mesa,Manchester,h,<ENT0> died in <ENT1> .,Will H. Bradley died in [MASK] .,William Bradley died in [MASK] .
+Will H. Bradley,William Bradley,occupation,P106,poster artist,painter,h,<ENT0> is a <ENT1> by profession .,Will H. Bradley is a [MASK] by profession .,William Bradley is a [MASK] by profession .
+Will H. Bradley,William Bradley,country of citizenship,P27,United States of America,United Kingdom of Great Britain and Ireland,h,<ENT0> is <ENT1> citizen .,Will H. Bradley is [MASK] citizen .,William Bradley is [MASK] citizen .
+Will H. Bradley,William Bradley,"languages spoken, written or signed",P1412,English,English,h,<ENT0> translating pled spoken callback fluent <ENT1> .,Will H. Bradley translating pled spoken callback fluent [MASK] .,William Bradley translating pled spoken callback fluent [MASK] .
+Will H. Bradley,William Bradley,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Will H. Bradley is a [MASK] .,William Bradley is a [MASK] .
+Funny Lady,Funny Lady – Original Soundtrack Recording,genre,P136,biographical film,stage and screen,nh,<ENT0> plays <ENT1> music .,Funny Lady plays [MASK] music .,Funny Lady – Original Soundtrack Recording plays [MASK] music .
+Funny Lady,Funny Lady – Original Soundtrack Recording,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,Funny Lady is a [MASK] .,Funny Lady – Original Soundtrack Recording is a [MASK] .
+Get the Gringo,How I Spent My Summer Vacation,original language of film or TV show,P364,English,English,nh,<ENT0> population language predomin smoker installer <ENT1> .,Get the Gringo population language predomin smoker installer [MASK] .,How I Spent My Summer Vacation population language predomin smoker installer [MASK] .
+Get the Gringo,How I Spent My Summer Vacation,genre,P136,action film,romantic comedy,nh,<ENT0> plays <ENT1> music .,Get the Gringo plays [MASK] music .,How I Spent My Summer Vacation plays [MASK] music .
+Get the Gringo,How I Spent My Summer Vacation,instance of,P31,film,film,nh,<ENT0> is a <ENT1> .,Get the Gringo is a [MASK] .,How I Spent My Summer Vacation is a [MASK] .
+Get the Gringo,How I Spent My Summer Vacation,country of origin,P495,United States of America,United States of America,nh,<ENT0> was created in <ENT1> .,Get the Gringo was created in [MASK] .,How I Spent My Summer Vacation was created in [MASK] .
+Un roi sans divertissement,A King Without Distraction,genre,P136,novel,mystery film,nh,<ENT0> plays <ENT1> music .,Un roi sans divertissement plays [MASK] music .,A King Without Distraction plays [MASK] music .
+Un roi sans divertissement,A King Without Distraction,instance of,P31,written work,film,nh,<ENT0> is a <ENT1> .,Un roi sans divertissement is a [MASK] .,A King Without Distraction is a [MASK] .
+Un roi sans divertissement,A King Without Distraction,country of origin,P495,France,France,nh,<ENT0> was created in <ENT1> .,Un roi sans divertissement was created in [MASK] .,A King Without Distraction was created in [MASK] .
+Jim Barnes,James M. Barnes,place of birth,P19,Lelant,Jacksonville,h,<ENT0> was born in <ENT1> .,Jim Barnes was born in [MASK] .,James M. Barnes was born in [MASK] .
+Jim Barnes,James M. Barnes,place of death,P20,East Orange,"Washington, D.C.",h,<ENT0> died in <ENT1> .,Jim Barnes died in [MASK] .,James M. Barnes died in [MASK] .
+Jim Barnes,James M. Barnes,occupation,P106,golfer,politician,h,<ENT0> is a <ENT1> by profession .,Jim Barnes is a [MASK] by profession .,James M. Barnes is a [MASK] by profession .
+Jim Barnes,James M. Barnes,country of citizenship,P27,United Kingdom,United States of America,h,<ENT0> is <ENT1> citizen .,Jim Barnes is [MASK] citizen .,James M. Barnes is [MASK] citizen .
+Jim Barnes,James M. Barnes,"languages spoken, written or signed",P1412,English,English,h,<ENT0> translating pled spoken callback fluent <ENT1> .,Jim Barnes translating pled spoken callback fluent [MASK] .,James M. Barnes translating pled spoken callback fluent [MASK] .
+Jim Barnes,James M. Barnes,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Jim Barnes is a [MASK] .,James M. Barnes is a [MASK] .
+Blood and Lace,Blood Secret,instance of,P31,film,written work,nh,<ENT0> is a <ENT1> .,Blood and Lace is a [MASK] .,Blood Secret is a [MASK] .
+Blood and Lace,Blood Secret,country of origin,P495,United States of America,United States of America,nh,<ENT0> was created in <ENT1> .,Blood and Lace was created in [MASK] .,Blood Secret was created in [MASK] .
+The Expatriate,Expatriate,genre,P136,thriller film,indie rock,nh,<ENT0> plays <ENT1> music .,The Expatriate plays [MASK] music .,Expatriate plays [MASK] music .
+The Expatriate,Expatriate,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,The Expatriate is a [MASK] .,Expatriate is a [MASK] .
+Foursome,The Foursome,genre,P136,romantic comedy,comedy film,nh,<ENT0> plays <ENT1> music .,Foursome plays [MASK] music .,The Foursome plays [MASK] music .
+Foursome,The Foursome,instance of,P31,web series,film,nh,<ENT0> is a <ENT1> .,Foursome is a [MASK] .,The Foursome is a [MASK] .
+Foursome,The Foursome,country of origin,P495,United States of America,United States of America,nh,<ENT0> was created in <ENT1> .,Foursome was created in [MASK] .,The Foursome was created in [MASK] .
+IBM,Big Blue,instance of,P31,software company,musical work/composition,nh,<ENT0> is a <ENT1> .,IBM is a [MASK] .,Big Blue is a [MASK] .
+IBM,Big Blue,part of,P361,Dow Jones Industrial Average,Father of the Bride,nh,<ENT0> is part of <ENT1> .,IBM is part of [MASK] .,Big Blue is part of [MASK] .
+Edward VII,Albert Edward,place of birth,P19,Buckingham Palace,Dar es Salaam,h,<ENT0> was born in <ENT1> .,Edward VII was born in [MASK] .,Albert Edward was born in [MASK] .
+Edward VII,Albert Edward,educated at,P69,University of Edinburgh,Lindsey Wilson College,h,<ENT0> is educated at <ENT1> .,Edward VII is educated at [MASK] .,Albert Edward is educated at [MASK] .
+Edward VII,Albert Edward,occupation,P106,aristocrat,association football player,h,<ENT0> is a <ENT1> by profession .,Edward VII is a [MASK] by profession .,Albert Edward is a [MASK] by profession .
+Edward VII,Albert Edward,country of citizenship,P27,United Kingdom of Great Britain and Ireland,Australia,h,<ENT0> is <ENT1> citizen .,Edward VII is [MASK] citizen .,Albert Edward is [MASK] citizen .
+Edward VII,Albert Edward,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Edward VII is a [MASK] .,Albert Edward is a [MASK] .
+The Sidelong Glances of a Pigeon Kicker,Pigeons,genre,P136,comedy film,indie rock,nh,<ENT0> plays <ENT1> music .,The Sidelong Glances of a Pigeon Kicker plays [MASK] music .,Pigeons plays [MASK] music .
+The Sidelong Glances of a Pigeon Kicker,Pigeons,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,The Sidelong Glances of a Pigeon Kicker is a [MASK] .,Pigeons is a [MASK] .
+Ed Clark,Edward Clark,place of birth,P19,Storyville,Elton,h,<ENT0> was born in <ENT1> .,Ed Clark was born in [MASK] .,Edward Clark was born in [MASK] .
+Ed Clark,Edward Clark,place of death,P20,Detroit,King's Lynn,h,<ENT0> died in <ENT1> .,Ed Clark died in [MASK] .,Edward Clark died in [MASK] .
+Ed Clark,Edward Clark,occupation,P106,painter,cricketer,h,<ENT0> is a <ENT1> by profession .,Ed Clark is a [MASK] by profession .,Edward Clark is a [MASK] by profession .
+Ed Clark,Edward Clark,country of citizenship,P27,United States of America,United Kingdom,h,<ENT0> is <ENT1> citizen .,Ed Clark is [MASK] citizen .,Edward Clark is [MASK] citizen .
+Ed Clark,Edward Clark,"languages spoken, written or signed",P1412,English,English,h,<ENT0> translating pled spoken callback fluent <ENT1> .,Ed Clark translating pled spoken callback fluent [MASK] .,Edward Clark translating pled spoken callback fluent [MASK] .
+Ed Clark,Edward Clark,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Ed Clark is a [MASK] .,Edward Clark is a [MASK] .
+Neon Bible,The Neon Bible,genre,P136,baroque pop,drama film,nh,<ENT0> plays <ENT1> music .,Neon Bible plays [MASK] music .,The Neon Bible plays [MASK] music .
+Neon Bible,The Neon Bible,instance of,P31,album,film,nh,<ENT0> is a <ENT1> .,Neon Bible is a [MASK] .,The Neon Bible is a [MASK] .
+La Danse,Danse,genre,P136,documentary film,pop music,nh,<ENT0> plays <ENT1> music .,La Danse plays [MASK] music .,Danse plays [MASK] music .
+La Danse,Danse,instance of,P31,film,single,nh,<ENT0> is a <ENT1> .,La Danse is a [MASK] .,Danse is a [MASK] .
+Ted Wong,M. Ted Wong,occupation,P106,boxer,dentist,h,<ENT0> is a <ENT1> by profession .,Ted Wong is a [MASK] by profession .,M. Ted Wong is a [MASK] by profession .
+Ted Wong,M. Ted Wong,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Ted Wong is a [MASK] .,M. Ted Wong is a [MASK] .
+Bez,Mark Berry,educated at,P69,Worsley Wardley Grammar School,Columbia Law School,h,<ENT0> is educated at <ENT1> .,Bez is educated at [MASK] .,Mark Berry is educated at [MASK] .
+Bez,Mark Berry,occupation,P106,dancer,lawyer,h,<ENT0> is a <ENT1> by profession .,Bez is a [MASK] by profession .,Mark Berry is a [MASK] by profession .
+Bez,Mark Berry,country of citizenship,P27,United Kingdom,New Zealand,h,<ENT0> is <ENT1> citizen .,Bez is [MASK] citizen .,Mark Berry is [MASK] citizen .
+Bez,Mark Berry,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Bez is a [MASK] .,Mark Berry is a [MASK] .
+The Look of Love,Look of Love,genre,P136,biographical film,rock and roll,nh,<ENT0> plays <ENT1> music .,The Look of Love plays [MASK] music .,Look of Love plays [MASK] music .
+The Look of Love,Look of Love,instance of,P31,film,musical work/composition,nh,<ENT0> is a <ENT1> .,The Look of Love is a [MASK] .,Look of Love is a [MASK] .
+Flight,Fly High,genre,P136,teen film,Eurodance,nh,<ENT0> plays <ENT1> music .,Flight plays [MASK] music .,Fly High plays [MASK] music .
+Flight,Fly High,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,Flight is a [MASK] .,Fly High is a [MASK] .
+The Captive Heart,Captive Heart,genre,P136,drama film,electropop,nh,<ENT0> plays <ENT1> music .,The Captive Heart plays [MASK] music .,Captive Heart plays [MASK] music .
+The Captive Heart,Captive Heart,instance of,P31,film,musical work/composition,nh,<ENT0> is a <ENT1> .,The Captive Heart is a [MASK] .,Captive Heart is a [MASK] .
+Alan J. Dixon,Alan Dixon,place of birth,P19,Belleville,Dartford,h,<ENT0> was born in <ENT1> .,Alan J. Dixon was born in [MASK] .,Alan Dixon was born in [MASK] .
+Alan J. Dixon,Alan Dixon,occupation,P106,politician,cricketer,h,<ENT0> is a <ENT1> by profession .,Alan J. Dixon is a [MASK] by profession .,Alan Dixon is a [MASK] by profession .
+Alan J. Dixon,Alan Dixon,country of citizenship,P27,United States of America,United Kingdom,h,<ENT0> is <ENT1> citizen .,Alan J. Dixon is [MASK] citizen .,Alan Dixon is [MASK] citizen .
+Alan J. Dixon,Alan Dixon,"languages spoken, written or signed",P1412,English,English,h,<ENT0> translating pled spoken callback fluent <ENT1> .,Alan J. Dixon translating pled spoken callback fluent [MASK] .,Alan Dixon translating pled spoken callback fluent [MASK] .
+Alan J. Dixon,Alan Dixon,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Alan J. Dixon is a [MASK] .,Alan Dixon is a [MASK] .
+Robert Valentine,Bob Valentine,place of birth,P19,Leicester,Pendleton,h,<ENT0> was born in <ENT1> .,Robert Valentine was born in [MASK] .,Bob Valentine was born in [MASK] .
+Robert Valentine,Bob Valentine,place of death,P20,Rome,Salford Royal NHS Foundation Trust,h,<ENT0> died in <ENT1> .,Robert Valentine died in [MASK] .,Bob Valentine died in [MASK] .
+Robert Valentine,Bob Valentine,occupation,P106,composer,rugby league player,h,<ENT0> is a <ENT1> by profession .,Robert Valentine is a [MASK] by profession .,Bob Valentine is a [MASK] by profession .
+Robert Valentine,Bob Valentine,country of citizenship,P27,Great Britain,United Kingdom of Great Britain and Ireland,h,<ENT0> is <ENT1> citizen .,Robert Valentine is [MASK] citizen .,Bob Valentine is [MASK] citizen .
+Robert Valentine,Bob Valentine,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Robert Valentine is a [MASK] .,Bob Valentine is a [MASK] .
+Sydney Evans,Sidney Evans,occupation,P106,military personnel,boxer,h,<ENT0> is a <ENT1> by profession .,Sydney Evans is a [MASK] by profession .,Sidney Evans is a [MASK] by profession .
+Sydney Evans,Sidney Evans,country of citizenship,P27,United Kingdom,United Kingdom of Great Britain and Ireland,h,<ENT0> is <ENT1> citizen .,Sydney Evans is [MASK] citizen .,Sidney Evans is [MASK] citizen .
+Sydney Evans,Sidney Evans,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Sydney Evans is a [MASK] .,Sidney Evans is a [MASK] .
+Steve Nelson,S. D. Nelson,educated at,P69,North Dakota State University,Minnesota State University Moorhead,h,<ENT0> is educated at <ENT1> .,Steve Nelson is educated at [MASK] .,S. D. Nelson is educated at [MASK] .
+Steve Nelson,S. D. Nelson,occupation,P106,American football player,writer,h,<ENT0> is a <ENT1> by profession .,Steve Nelson is a [MASK] by profession .,S. D. Nelson is a [MASK] by profession .
+Steve Nelson,S. D. Nelson,country of citizenship,P27,United States of America,United States of America,h,<ENT0> is <ENT1> citizen .,Steve Nelson is [MASK] citizen .,S. D. Nelson is [MASK] citizen .
+Steve Nelson,S. D. Nelson,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Steve Nelson is a [MASK] .,S. D. Nelson is a [MASK] .
+Batman Returns,Batman Returns – Original Motion Picture Soundtrack,genre,P136,neo-noir,stage and screen,nh,<ENT0> plays <ENT1> music .,Batman Returns plays [MASK] music .,Batman Returns – Original Motion Picture Soundtrack plays [MASK] music .
+Batman Returns,Batman Returns – Original Motion Picture Soundtrack,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,Batman Returns is a [MASK] .,Batman Returns – Original Motion Picture Soundtrack is a [MASK] .
+David A. Patterson,David Patterson,educated at,P69,"University of California, Los Angeles",New England Conservatory of Music,h,<ENT0> is educated at <ENT1> .,David A. Patterson is educated at [MASK] .,David Patterson is educated at [MASK] .
+David A. Patterson,David Patterson,occupation,P106,computer scientist,music teacher,h,<ENT0> is a <ENT1> by profession .,David A. Patterson is a [MASK] by profession .,David Patterson is a [MASK] by profession .
+David A. Patterson,David Patterson,country of citizenship,P27,United States of America,United States of America,h,<ENT0> is <ENT1> citizen .,David A. Patterson is [MASK] citizen .,David Patterson is [MASK] citizen .
+David A. Patterson,David Patterson,employer,P108,"University of California, Berkeley",Tufts University,h,<ENT0> works for <ENT1> .,David A. Patterson works for [MASK] .,David Patterson works for [MASK] .
+David A. Patterson,David Patterson,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,David A. Patterson is a [MASK] .,David Patterson is a [MASK] .
+Follia d'amore,Madness of Love,genre,P136,pop music,comedy film,nh,<ENT0> plays <ENT1> music .,Follia d'amore plays [MASK] music .,Madness of Love plays [MASK] music .
+Follia d'amore,Madness of Love,instance of,P31,single,film,nh,<ENT0> is a <ENT1> .,Follia d'amore is a [MASK] .,Madness of Love is a [MASK] .
+Follia d'amore,Madness of Love,country of origin,P495,Italy,Mexico,nh,<ENT0> was created in <ENT1> .,Follia d'amore was created in [MASK] .,Madness of Love was created in [MASK] .
+Andy Murray,Sir Andrew Murray,place of birth,P19,Glasgow,Scotland,h,<ENT0> was born in <ENT1> .,Andy Murray was born in [MASK] .,Sir Andrew Murray was born in [MASK] .
+Andy Murray,Sir Andrew Murray,occupation,P106,tennis player,politician,h,<ENT0> is a <ENT1> by profession .,Andy Murray is a [MASK] by profession .,Sir Andrew Murray is a [MASK] by profession .
+Andy Murray,Sir Andrew Murray,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Andy Murray is a [MASK] .,Sir Andrew Murray is a [MASK] .
+Hannah Montana,Hannah Montana Forever,language of work or name,P407,English,English,nh,<ENT0> was written in <ENT1> .,Hannah Montana was written in [MASK] .,Hannah Montana Forever was written in [MASK] .
+Hannah Montana,Hannah Montana Forever,genre,P136,teen sitcom,power pop,nh,<ENT0> plays <ENT1> music .,Hannah Montana plays [MASK] music .,Hannah Montana Forever plays [MASK] music .
+Hannah Montana,Hannah Montana Forever,instance of,P31,television series,album,nh,<ENT0> is a <ENT1> .,Hannah Montana is a [MASK] .,Hannah Montana Forever is a [MASK] .
+The Varmint,Varmint,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,The Varmint is a [MASK] .,Varmint is a [MASK] .
+Johannes Thiele,Hans Thiele,place of birth,P19,Racibórz,Boracay,h,<ENT0> was born in <ENT1> .,Johannes Thiele was born in [MASK] .,Hans Thiele was born in [MASK] .
+Johannes Thiele,Hans Thiele,educated at,P69,University of Wrocław,University of the East,h,<ENT0> is educated at <ENT1> .,Johannes Thiele is educated at [MASK] .,Hans Thiele is educated at [MASK] .
+Johannes Thiele,Hans Thiele,occupation,P106,chemist,basketball player,h,<ENT0> is a <ENT1> by profession .,Johannes Thiele is a [MASK] by profession .,Hans Thiele is a [MASK] by profession .
+Johannes Thiele,Hans Thiele,country of citizenship,P27,Germany,Philippines,h,<ENT0> is <ENT1> citizen .,Johannes Thiele is [MASK] citizen .,Hans Thiele is [MASK] citizen .
+Johannes Thiele,Hans Thiele,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Johannes Thiele is a [MASK] .,Hans Thiele is a [MASK] .
+Greetings,Greetings (This is Uncle Sam),genre,P136,comedy film,soul music,nh,<ENT0> plays <ENT1> music .,Greetings plays [MASK] music .,Greetings (This is Uncle Sam) plays [MASK] music .
+Greetings,Greetings (This is Uncle Sam),instance of,P31,film,musical work/composition,nh,<ENT0> is a <ENT1> .,Greetings is a [MASK] .,Greetings (This is Uncle Sam) is a [MASK] .
+The Den,Den,genre,P136,horror film,electronic music,nh,<ENT0> plays <ENT1> music .,The Den plays [MASK] music .,Den plays [MASK] music .
+The Den,Den,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,The Den is a [MASK] .,Den is a [MASK] .
+The Waterboy,Waterboy,genre,P136,comedy film,jazz,nh,<ENT0> plays <ENT1> music .,The Waterboy plays [MASK] music .,Waterboy plays [MASK] music .
+The Waterboy,Waterboy,instance of,P31,film,musical work/composition,nh,<ENT0> is a <ENT1> .,The Waterboy is a [MASK] .,Waterboy is a [MASK] .
+The Waterboy,Waterboy,country of origin,P495,United States of America,United States of America,nh,<ENT0> was created in <ENT1> .,The Waterboy was created in [MASK] .,Waterboy was created in [MASK] .
+Man Next Door,The Man Next Door,instance of,P31,musical work/composition,film,nh,<ENT0> is a <ENT1> .,Man Next Door is a [MASK] .,The Man Next Door is a [MASK] .
+Alien 3,Alien³ – Music From The Original Motion Picture Soundtrack,genre,P136,horror film,western classical music,nh,<ENT0> plays <ENT1> music .,Alien 3 plays [MASK] music .,Alien³ – Music From The Original Motion Picture Soundtrack plays [MASK] music .
+Alien 3,Alien³ – Music From The Original Motion Picture Soundtrack,instance of,P31,film,album,nh,<ENT0> is a <ENT1> .,Alien 3 is a [MASK] .,Alien³ – Music From The Original Motion Picture Soundtrack is a [MASK] .
+Alien 3,Alien³ – Music From The Original Motion Picture Soundtrack,part of,P361,Alien,Elliot Goldenthal's albums in chronological order,nh,<ENT0> is part of <ENT1> .,Alien 3 is part of [MASK] .,Alien³ – Music From The Original Motion Picture Soundtrack is part of [MASK] .
+Jackie Brown,Rum Punch,genre,P136,heist film,neo-noir,nh,<ENT0> plays <ENT1> music .,Jackie Brown plays [MASK] music .,Rum Punch plays [MASK] music .
+Jackie Brown,Rum Punch,instance of,P31,film,written work,nh,<ENT0> is a <ENT1> .,Jackie Brown is a [MASK] .,Rum Punch is a [MASK] .
+Jackie Brown,Rum Punch,country of origin,P495,United States of America,United States of America,nh,<ENT0> was created in <ENT1> .,Jackie Brown was created in [MASK] .,Rum Punch was created in [MASK] .
+Desperate Man,The Desperate Man,instance of,P31,musical work/composition,film,nh,<ENT0> is a <ENT1> .,Desperate Man is a [MASK] .,The Desperate Man is a [MASK] .
+George Robb,George Seanor Robb,place of birth,P19,London,Assaria,h,<ENT0> was born in <ENT1> .,George Robb was born in [MASK] .,George Seanor Robb was born in [MASK] .
+George Robb,George Seanor Robb,place of death,P20,London,Topeka,h,<ENT0> died in <ENT1> .,George Robb died in [MASK] .,George Seanor Robb died in [MASK] .
+George Robb,George Seanor Robb,educated at,P69,Beacon High,Park University,h,<ENT0> is educated at <ENT1> .,George Robb is educated at [MASK] .,George Seanor Robb is educated at [MASK] .
+George Robb,George Seanor Robb,occupation,P106,association football player,military personnel,h,<ENT0> is a <ENT1> by profession .,George Robb is a [MASK] by profession .,George Seanor Robb is a [MASK] by profession .
+George Robb,George Seanor Robb,country of citizenship,P27,United Kingdom,United States of America,h,<ENT0> is <ENT1> citizen .,George Robb is [MASK] citizen .,George Seanor Robb is [MASK] citizen .
+George Robb,George Seanor Robb,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,George Robb is a [MASK] .,George Seanor Robb is a [MASK] .
+Champion Jack Dupree,William Dupree,place of birth,P19,New Orleans,Saranac Lake,h,<ENT0> was born in <ENT1> .,Champion Jack Dupree was born in [MASK] .,William Dupree was born in [MASK] .
+Champion Jack Dupree,William Dupree,place of death,P20,Hanover,Bound Brook,h,<ENT0> died in <ENT1> .,Champion Jack Dupree died in [MASK] .,William Dupree died in [MASK] .
+Champion Jack Dupree,William Dupree,occupation,P106,street artist,bobsledder,h,<ENT0> is a <ENT1> by profession .,Champion Jack Dupree is a [MASK] by profession .,William Dupree is a [MASK] by profession .
+Champion Jack Dupree,William Dupree,country of citizenship,P27,United States of America,United States of America,h,<ENT0> is <ENT1> citizen .,Champion Jack Dupree is [MASK] citizen .,William Dupree is [MASK] citizen .
+Champion Jack Dupree,William Dupree,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Champion Jack Dupree is a [MASK] .,William Dupree is a [MASK] .
+La Ritournelle,Paris Follies,genre,P136,baroque pop,comedy film,nh,<ENT0> plays <ENT1> music .,La Ritournelle plays [MASK] music .,Paris Follies plays [MASK] music .
+La Ritournelle,Paris Follies,instance of,P31,musical work/composition,film,nh,<ENT0> is a <ENT1> .,La Ritournelle is a [MASK] .,Paris Follies is a [MASK] .
+La Ritournelle,Paris Follies,country of origin,P495,France,France,nh,<ENT0> was created in <ENT1> .,La Ritournelle was created in [MASK] .,Paris Follies was created in [MASK] .
+Dangerous Age,The Dangerous Age,genre,P136,hard rock,silent film,nh,<ENT0> plays <ENT1> music .,Dangerous Age plays [MASK] music .,The Dangerous Age plays [MASK] music .
+Dangerous Age,The Dangerous Age,instance of,P31,album,film,nh,<ENT0> is a <ENT1> .,Dangerous Age is a [MASK] .,The Dangerous Age is a [MASK] .
+Brian Cadd,Brian Caine,place of birth,P19,Perth,Nelson,h,<ENT0> was born in <ENT1> .,Brian Cadd was born in [MASK] .,Brian Caine was born in [MASK] .
+Brian Cadd,Brian Caine,occupation,P106,singer,association football player,h,<ENT0> is a <ENT1> by profession .,Brian Cadd is a [MASK] by profession .,Brian Caine is a [MASK] by profession .
+Brian Cadd,Brian Caine,country of citizenship,P27,Australia,United Kingdom,h,<ENT0> is <ENT1> citizen .,Brian Cadd is [MASK] citizen .,Brian Caine is [MASK] citizen .
+Brian Cadd,Brian Caine,instance of,P31,human,human,h,<ENT0> is a <ENT1> .,Brian Cadd is a [MASK] .,Brian Caine is a [MASK] .
+Pacific Rim: Uprising,Pacific Rim Uprising,instance of,P31,3D film,album,nh,<ENT0> is a <ENT1> .,Pacific Rim: Uprising is a [MASK] .,Pacific Rim Uprising is a [MASK] .
